@@ -1,0 +1,988 @@
+{
+  "schemaVersion": 1,
+  "status": "ok",
+  "generatedAt": "2026-09-02T17:01:20.273Z",
+  "regionCode": "JP",
+  "language": "ja",
+  "message": "",
+  "methodology": {
+    "source": "YouTube Data API v3",
+    "category": "VTuber",
+    "windowsHours": [
+      24,
+      72,
+      168
+    ],
+    "scoreFactors": [
+      "videoCount",
+      "liveArchives",
+      "viewVelocity",
+      "views",
+      "likes",
+      "freshness"
+    ],
+    "candidateLimit": 100,
+    "searchCallsPerRun": 4
+  },
+  "coverage": {
+    "candidateVideos": 100,
+    "matchedVideos": 59,
+    "uniqueChannels": 47
+  },
+  "windows": {
+    "24": {
+      "rankings": [
+        {
+          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
+          "name": "豹矢りいす / 日常ch",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 16382,
+            "totalLikes": 391,
+            "viewVelocity": 4682
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "Bn6q6cRO1PA",
+              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
+              "channelTitle": "豹矢りいす / 日常ch",
+              "publishedAt": "2026-09-02T13:31:25.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
+              "views": 16382,
+              "likes": 391,
+              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
+          "id": "UChCYWZOpBnp8-6dFhPC5USg",
+          "name": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 1271,
+            "totalLikes": 37,
+            "viewVelocity": 786
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計1,271回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "c3igsp7bk9s",
+              "title": "【 #スパロボV】実はロボアニメあんまり知らないから、初めてのスパロボで知っていきたい🐈#04 【 VTuber #猫本にゃこ 】",
+              "channelTitle": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
+              "publishedAt": "2026-09-02T15:24:17.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
+              "views": 1271,
+              "likes": 37,
+              "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
+            }
+          ],
+          "rank": 2,
+          "score": 84
+        },
+        {
+          "id": "UCfnlZsd6RDC36OclV-5Kn1g",
+          "name": "星の子 スピネル",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 4030,
+            "totalLikes": 59,
+            "viewVelocity": 234
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本。合計4,030回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "cgCyKScLk-c",
+              "title": "エクチケきちゃ!!!!#vtuber#バーチャル#Youtuber#シャドウバース#シャドバ#シャドバWB#バズれ #切り抜き #shadowversewb",
+              "channelTitle": "星の子 スピネル",
+              "publishedAt": "2026-09-01T23:49:05.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
+              "views": 4030,
+              "likes": 59,
+              "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
+            }
+          ],
+          "rank": 3,
+          "score": 72
+        },
+        {
+          "id": "UCp_fE5n7_1WpYvhZF5Q_Y3w",
+          "name": "薄明 綺霄 / Hakume Isora",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 597,
+            "totalLikes": 4,
+            "viewVelocity": 75
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本。合計597回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "u2zT6Y9tP9U",
+              "title": "【スーパーダンガンロンパ2】未亡人感溢れる狛枝(弱った狂人の姿)に大興奮する人外Vtuber #バーチャルyoutuber #人外vtuber #スーパーダンガンロンパ2",
+              "channelTitle": "薄明 綺霄 / Hakume Isora",
+              "publishedAt": "2026-09-02T09:05:31.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/u2zT6Y9tP9U/maxresdefault.jpg",
+              "views": 597,
+              "likes": 4,
+              "url": "https://www.youtube.com/watch?v=u2zT6Y9tP9U"
+            }
+          ],
+          "rank": 4,
+          "score": 62
+        },
+        {
+          "id": "UCGCQnbltNryV_rh14OailJw",
+          "name": "西条湊",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 223,
+            "totalLikes": 20,
+            "viewVelocity": 10
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計223回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "rNDiRsuAm5Q",
+              "title": "雑談！",
+              "channelTitle": "西条湊",
+              "publishedAt": "2026-09-01T18:47:19.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/rNDiRsuAm5Q/maxresdefault.jpg",
+              "views": 223,
+              "likes": 20,
+              "url": "https://www.youtube.com/watch?v=rNDiRsuAm5Q"
+            }
+          ],
+          "rank": 5,
+          "score": 55
+        },
+        {
+          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
+          "name": "雪風MinETA 広告写真家",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 935,
+            "totalLikes": 0,
+            "viewVelocity": 40
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本。合計935回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "WkzM0NK_-tM",
+              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T17:40:43.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
+              "views": 935,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
+            }
+          ],
+          "rank": 6,
+          "score": 55
+        },
+        {
+          "id": "UC-Hbn_VjsGLMy7_QgyjXFOg",
+          "name": "描田れん / KakitaRen",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 8,
+            "totalLikes": 1,
+            "viewVelocity": 0
+          },
+          "creators": [],
+          "summary": "24時間で関連動画1本。合計8回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "Qt_yCEEOhJk",
+              "title": "料理中に起こった悲劇2",
+              "channelTitle": "描田れん / KakitaRen",
+              "publishedAt": "2026-09-02T00:15:23.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/Qt_yCEEOhJk/maxresdefault.jpg",
+              "views": 8,
+              "likes": 1,
+              "url": "https://www.youtube.com/watch?v=Qt_yCEEOhJk"
+            }
+          ],
+          "rank": 7,
+          "score": 32
+        }
+      ]
+    },
+    "72": {
+      "rankings": [
+        {
+          "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+          "name": "Koyori ch. 博衣こより - holoX -",
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 78493,
+            "totalLikes": 8667,
+            "viewVelocity": 2022
+          },
+          "creators": [],
+          "summary": "3日間で関連動画2本。合計78,493回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 50436,
+              "likes": 5057,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28057,
+              "likes": 3610,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
+          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
+          "name": "豹矢りいす / 日常ch",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 16382,
+            "totalLikes": 391,
+            "viewVelocity": 4682
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "Bn6q6cRO1PA",
+              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
+              "channelTitle": "豹矢りいす / 日常ch",
+              "publishedAt": "2026-09-02T13:31:25.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
+              "views": 16382,
+              "likes": 391,
+              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
+            }
+          ],
+          "rank": 2,
+          "score": 94
+        },
+        {
+          "id": "UCspv01oxUFf_MTSipURRhkA",
+          "name": "Kanae Channel",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 213175,
+            "totalLikes": 0,
+            "viewVelocity": 7552
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計213,175回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "A_c4fCETecs",
+              "title": "#1 錬金術を作る工場・・？なのか？  | Alchemy Factory【にじさんじ/叶】",
+              "channelTitle": "Kanae Channel",
+              "publishedAt": "2026-09-01T12:47:39.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/A_c4fCETecs/maxresdefault.jpg",
+              "views": 213175,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=A_c4fCETecs"
+            }
+          ],
+          "rank": 3,
+          "score": 89
+        },
+        {
+          "id": "UCy5mPPRT1q7AOK2-gLtcOnw",
+          "name": "覇王別姫樹里チャンネル",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 29035,
+            "totalLikes": 667,
+            "viewVelocity": 574
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計29,035回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "mbFdKLbmXTc",
+              "title": "【記念雑談】皆で30万人突破をじっくり見守っちゃお～～～よ！！！【Vtuber/#サボちゃん観察日記】",
+              "channelTitle": "覇王別姫樹里チャンネル",
+              "publishedAt": "2026-08-31T14:25:03.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
+              "views": 29035,
+              "likes": 667,
+              "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
+            }
+          ],
+          "rank": 4,
+          "score": 82
+        },
+        {
+          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
+          "name": "雪風MinETA 広告写真家",
+          "metrics": {
+            "videoCount": 4,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 1293,
+            "totalLikes": 0,
+            "viewVelocity": 54
+          },
+          "creators": [],
+          "summary": "3日間で関連動画4本。合計1,293回再生の反応を確認しています。",
+          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
+          "sources": [
+            {
+              "videoId": "WkzM0NK_-tM",
+              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T17:40:43.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
+              "views": 935,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
+            },
+            {
+              "videoId": "z1Tne-Sqd2c",
+              "title": "近鉄難波広告❶#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T16:32:39.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/z1Tne-Sqd2c/maxresdefault.jpg",
+              "views": 198,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=z1Tne-Sqd2c"
+            },
+            {
+              "videoId": "W-Ex-iRz7UQ",
+              "title": "近鉄難波広告❷#にじさんじ#三枝明那#nijisanji#VTuber#バーチャルYouTuber#可愛い#かわいい#推し#推し活#かっこいい#カッコイイ#イケメン#漫画#アニメ#ゲーム#駅#大阪#愛",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T16:27:34.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/W-Ex-iRz7UQ/maxresdefault.jpg",
+              "views": 144,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=W-Ex-iRz7UQ"
+            },
+            {
+              "videoId": "KGSJ_2DLDGE",
+              "title": "極楽湯茨木11 #VTuber#バーチャルYouTuber#Azki#桃鈴ねね#癒月ちょこ#大空スバル#白銀ノエル#獅白ぼたん#風真いろは#ホロライブ#hololive#推し#推し活#かわいい#可愛い",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-08-31T16:03:08.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/KGSJ_2DLDGE/maxresdefault.jpg",
+              "views": 16,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=KGSJ_2DLDGE"
+            }
+          ],
+          "rank": 5,
+          "score": 81
+        },
+        {
+          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
+          "name": "春水レイ / Shunsui Rei",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 12964,
+            "totalLikes": 216,
+            "viewVelocity": 479
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計12,964回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "nvcw79nO2AU",
+              "title": "【アークナイツ】ティフォロスに向け！サーミを知ろうの回【エンドフィールド/Vtuber/春水レイ】",
+              "channelTitle": "春水レイ / Shunsui Rei",
+              "publishedAt": "2026-09-01T13:57:26.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/nvcw79nO2AU/maxresdefault.jpg",
+              "views": 12964,
+              "likes": 216,
+              "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
+            }
+          ],
+          "rank": 6,
+          "score": 80
+        },
+        {
+          "id": "UChCYWZOpBnp8-6dFhPC5USg",
+          "name": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 1271,
+            "totalLikes": 37,
+            "viewVelocity": 786
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,271回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "c3igsp7bk9s",
+              "title": "【 #スパロボV】実はロボアニメあんまり知らないから、初めてのスパロボで知っていきたい🐈#04 【 VTuber #猫本にゃこ 】",
+              "channelTitle": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
+              "publishedAt": "2026-09-02T15:24:17.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
+              "views": 1271,
+              "likes": 37,
+              "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
+            }
+          ],
+          "rank": 7,
+          "score": 78
+        },
+        {
+          "id": "UCfnlZsd6RDC36OclV-5Kn1g",
+          "name": "星の子 スピネル",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 4030,
+            "totalLikes": 59,
+            "viewVelocity": 234
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本。合計4,030回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "cgCyKScLk-c",
+              "title": "エクチケきちゃ!!!!#vtuber#バーチャル#Youtuber#シャドウバース#シャドバ#シャドバWB#バズれ #切り抜き #shadowversewb",
+              "channelTitle": "星の子 スピネル",
+              "publishedAt": "2026-09-01T23:49:05.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
+              "views": 4030,
+              "likes": 59,
+              "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
+            }
+          ],
+          "rank": 8,
+          "score": 70
+        },
+        {
+          "id": "UCp1dpQ7gKVaRw-3O1juR5JA",
+          "name": "スイクンゲームズ",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 2550,
+            "totalLikes": 30,
+            "viewVelocity": 100
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計2,550回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "hvQYNHDn37s",
+              "title": "【POE2】ACTらんらん！ミニリーグ楽しみー！！",
+              "channelTitle": "スイクンゲームズ",
+              "publishedAt": "2026-09-01T15:38:09.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/hvQYNHDn37s/maxresdefault.jpg",
+              "views": 2550,
+              "likes": 30,
+              "url": "https://www.youtube.com/watch?v=hvQYNHDn37s"
+            }
+          ],
+          "rank": 9,
+          "score": 69
+        },
+        {
+          "id": "UCasTJJ6XmrQITZelep4Wpkw",
+          "name": "紅月ニイナ / Akatsuki Niina",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 3857,
+            "totalLikes": 76,
+            "viewVelocity": 56
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計3,857回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "vGXFqNQ-9LU",
+              "title": "【 #パルワールド １４日目】メドゥーナにつられてミリしらパルワールド【 #palworld / #vtuber 】",
+              "channelTitle": "紅月ニイナ / Akatsuki Niina",
+              "publishedAt": "2026-08-30T19:52:40.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/vGXFqNQ-9LU/maxresdefault.jpg",
+              "views": 3857,
+              "likes": 76,
+              "url": "https://www.youtube.com/watch?v=vGXFqNQ-9LU"
+            }
+          ],
+          "rank": 10,
+          "score": 65
+        }
+      ]
+    },
+    "168": {
+      "rankings": [
+        {
+          "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+          "name": "Koyori ch. 博衣こより - holoX -",
+          "metrics": {
+            "videoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 213158,
+            "totalLikes": 22233,
+            "viewVelocity": 3065
+          },
+          "creators": [],
+          "summary": "7日間で関連動画3本。合計213,158回再生の反応を確認しています。",
+          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
+          "sources": [
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 50436,
+              "likes": 5057,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "y1cpJ0E9MAQ",
+              "title": "「きゃぴ / 宝鐘マリン」踊ってみた🏴‍☠️💘 #宝鐘マリン #きゃぴ #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-28T08:00:19.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
+              "views": 134665,
+              "likes": 13566,
+              "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28057,
+              "likes": 3610,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
+          "id": "UCOXlQDm312QNWi1nfRtxbFw",
+          "name": "エビフライ / Ebihurai",
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 502610,
+            "totalLikes": 15033,
+            "viewVelocity": 4514
+          },
+          "creators": [],
+          "summary": "7日間で関連動画2本。合計502,610回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "D8KI8MWGsq0",
+              "title": "【手描き】ゲームのトラップにかかって本物の幼女になってしまった獅白ぼたん【獅白ぼたん/角巻わため/切り抜き/hololive/エビフライ】",
+              "channelTitle": "エビフライ / Ebihurai",
+              "publishedAt": "2026-08-29T12:44:18.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/D8KI8MWGsq0/maxresdefault.jpg",
+              "views": 353836,
+              "likes": 10663,
+              "url": "https://www.youtube.com/watch?v=D8KI8MWGsq0"
+            },
+            {
+              "videoId": "2PlmJ0y5_Hc",
+              "title": "🥕🎀ぺこらマミーの圧🎀🥕",
+              "channelTitle": "エビフライ / Ebihurai",
+              "publishedAt": "2026-08-27T10:03:41.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
+              "views": 148774,
+              "likes": 4370,
+              "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
+            }
+          ],
+          "rank": 2,
+          "score": 94
+        },
+        {
+          "id": "UCzHiiP2r1zyTr8A1-6HtQtw",
+          "name": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 594423,
+            "totalLikes": 40979,
+            "viewVelocity": 4755
+          },
+          "creators": [],
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計594,423回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "giyQMGNY8fw",
+              "title": "【初配信】音楽をやります【山田龍一郎 / にじさんじ】",
+              "channelTitle": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+              "publishedAt": "2026-08-28T12:00:24.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/giyQMGNY8fw/maxresdefault.jpg",
+              "views": 594423,
+              "likes": 40979,
+              "url": "https://www.youtube.com/watch?v=giyQMGNY8fw"
+            }
+          ],
+          "rank": 3,
+          "score": 89
+        },
+        {
+          "id": "UCmnWJd-TEGbOZO10P_XPi6A",
+          "name": "クオタ探偵局",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 892412,
+            "totalLikes": 38036,
+            "viewVelocity": 6097
+          },
+          "creators": [],
+          "summary": "7日間で関連動画1本。合計892,412回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "O9GPxlIhpIE",
+              "title": "にじさんじ新人2人、モチーフを調べたら意味深すぎた… #にじさんじ #RhyZyGy #vtuber",
+              "channelTitle": "クオタ探偵局",
+              "publishedAt": "2026-08-27T14:38:36.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/O9GPxlIhpIE/maxresdefault.jpg",
+              "views": 892412,
+              "likes": 38036,
+              "url": "https://www.youtube.com/watch?v=O9GPxlIhpIE"
+            }
+          ],
+          "rank": 4,
+          "score": 87
+        },
+        {
+          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
+          "name": "春水レイ / Shunsui Rei",
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 2,
+            "channelCount": 1,
+            "totalViews": 22713,
+            "totalLikes": 336,
+            "viewVelocity": 579
+          },
+          "creators": [],
+          "summary": "7日間で関連動画2本、うち2本が終了済みライブ。合計22,713回再生の反応を確認しています。",
+          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
+          "sources": [
+            {
+              "videoId": "nvcw79nO2AU",
+              "title": "【アークナイツ】ティフォロスに向け！サーミを知ろうの回【エンドフィールド/Vtuber/春水レイ】",
+              "channelTitle": "春水レイ / Shunsui Rei",
+              "publishedAt": "2026-09-01T13:57:26.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/nvcw79nO2AU/maxresdefault.jpg",
+              "views": 12964,
+              "likes": 216,
+              "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
+            },
+            {
+              "videoId": "qvmU4dEw3_0",
+              "title": "【アークナイツ】堅守協定で999量産を目指してみる…？【Vtuber/春水レイ】",
+              "channelTitle": "春水レイ / Shunsui Rei",
+              "publishedAt": "2026-08-29T15:23:36.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/qvmU4dEw3_0/maxresdefault.jpg",
+              "views": 9749,
+              "likes": 120,
+              "url": "https://www.youtube.com/watch?v=qvmU4dEw3_0"
+            }
+          ],
+          "rank": 5,
+          "score": 84
+        },
+        {
+          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
+          "name": "豹矢りいす / 日常ch",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 16382,
+            "totalLikes": 391,
+            "viewVelocity": 4682
+          },
+          "creators": [],
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "Bn6q6cRO1PA",
+              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
+              "channelTitle": "豹矢りいす / 日常ch",
+              "publishedAt": "2026-09-02T13:31:25.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
+              "views": 16382,
+              "likes": 391,
+              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
+            }
+          ],
+          "rank": 6,
+          "score": 82
+        },
+        {
+          "id": "UCspv01oxUFf_MTSipURRhkA",
+          "name": "Kanae Channel",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 213175,
+            "totalLikes": 0,
+            "viewVelocity": 7552
+          },
+          "creators": [],
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計213,175回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "A_c4fCETecs",
+              "title": "#1 錬金術を作る工場・・？なのか？  | Alchemy Factory【にじさんじ/叶】",
+              "channelTitle": "Kanae Channel",
+              "publishedAt": "2026-09-01T12:47:39.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/A_c4fCETecs/maxresdefault.jpg",
+              "views": 213175,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=A_c4fCETecs"
+            }
+          ],
+          "rank": 7,
+          "score": 80
+        },
+        {
+          "id": "UCp1dpQ7gKVaRw-3O1juR5JA",
+          "name": "スイクンゲームズ",
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 2,
+            "channelCount": 1,
+            "totalViews": 6656,
+            "totalLikes": 64,
+            "viewVelocity": 151
+          },
+          "creators": [],
+          "summary": "7日間で関連動画2本、うち2本が終了済みライブ。合計6,656回再生の反応を確認しています。",
+          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
+          "sources": [
+            {
+              "videoId": "hvQYNHDn37s",
+              "title": "【POE2】ACTらんらん！ミニリーグ楽しみー！！",
+              "channelTitle": "スイクンゲームズ",
+              "publishedAt": "2026-09-01T15:38:09.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/hvQYNHDn37s/maxresdefault.jpg",
+              "views": 2550,
+              "likes": 30,
+              "url": "https://www.youtube.com/watch?v=hvQYNHDn37s"
+            },
+            {
+              "videoId": "ADQVjVa-ANk",
+              "title": "【POE2】最強の戦士ウォーリア！行きます！！",
+              "channelTitle": "スイクンゲームズ",
+              "publishedAt": "2026-08-30T07:24:34.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/ADQVjVa-ANk/maxresdefault.jpg",
+              "views": 4106,
+              "likes": 34,
+              "url": "https://www.youtube.com/watch?v=ADQVjVa-ANk"
+            }
+          ],
+          "rank": 8,
+          "score": 75
+        },
+        {
+          "id": "UCy5mPPRT1q7AOK2-gLtcOnw",
+          "name": "覇王別姫樹里チャンネル",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 29035,
+            "totalLikes": 667,
+            "viewVelocity": 574
+          },
+          "creators": [],
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計29,035回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "mbFdKLbmXTc",
+              "title": "【記念雑談】皆で30万人突破をじっくり見守っちゃお～～～よ！！！【Vtuber/#サボちゃん観察日記】",
+              "channelTitle": "覇王別姫樹里チャンネル",
+              "publishedAt": "2026-08-31T14:25:03.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
+              "views": 29035,
+              "likes": 667,
+              "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
+            }
+          ],
+          "rank": 9,
+          "score": 74
+        },
+        {
+          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
+          "name": "雪風MinETA 広告写真家",
+          "metrics": {
+            "videoCount": 4,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 1293,
+            "totalLikes": 0,
+            "viewVelocity": 54
+          },
+          "creators": [],
+          "summary": "7日間で関連動画4本。合計1,293回再生の反応を確認しています。",
+          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
+          "sources": [
+            {
+              "videoId": "WkzM0NK_-tM",
+              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T17:40:43.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
+              "views": 935,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
+            },
+            {
+              "videoId": "z1Tne-Sqd2c",
+              "title": "近鉄難波広告❶#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T16:32:39.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/z1Tne-Sqd2c/maxresdefault.jpg",
+              "views": 198,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=z1Tne-Sqd2c"
+            },
+            {
+              "videoId": "W-Ex-iRz7UQ",
+              "title": "近鉄難波広告❷#にじさんじ#三枝明那#nijisanji#VTuber#バーチャルYouTuber#可愛い#かわいい#推し#推し活#かっこいい#カッコイイ#イケメン#漫画#アニメ#ゲーム#駅#大阪#愛",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-09-01T16:27:34.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/W-Ex-iRz7UQ/maxresdefault.jpg",
+              "views": 144,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=W-Ex-iRz7UQ"
+            },
+            {
+              "videoId": "KGSJ_2DLDGE",
+              "title": "極楽湯茨木11 #VTuber#バーチャルYouTuber#Azki#桃鈴ねね#癒月ちょこ#大空スバル#白銀ノエル#獅白ぼたん#風真いろは#ホロライブ#hololive#推し#推し活#かわいい#可愛い",
+              "channelTitle": "雪風MinETA 広告写真家",
+              "publishedAt": "2026-08-31T16:03:08.000Z",
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/KGSJ_2DLDGE/maxresdefault.jpg",
+              "views": 16,
+              "likes": 0,
+              "url": "https://www.youtube.com/watch?v=KGSJ_2DLDGE"
+            }
+          ],
+          "rank": 10,
+          "score": 72
+        }
+      ]
+    }
+  }
+}
