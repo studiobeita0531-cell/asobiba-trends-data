@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ok",
-  "generatedAt": "2026-09-02T17:01:20.273Z",
+  "generatedAt": "2026-09-02T17:04:59.886Z",
   "regionCode": "JP",
   "language": "ja",
   "message": "",
@@ -21,13 +21,14 @@
       "likes",
       "freshness"
     ],
+    "identityFilter": "channelProfile",
     "candidateLimit": 100,
     "searchCallsPerRun": 4
   },
   "coverage": {
     "candidateVideos": 100,
-    "matchedVideos": 59,
-    "uniqueChannels": 47
+    "matchedVideos": 48,
+    "uniqueChannels": 39
   },
   "windows": {
     "24": {
@@ -41,7 +42,7 @@
             "channelCount": 1,
             "totalViews": 16382,
             "totalLikes": 391,
-            "viewVelocity": 4682
+            "viewVelocity": 4602
           },
           "creators": [],
           "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
@@ -69,12 +70,12 @@
             "videoCount": 1,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 1271,
+            "totalViews": 1280,
             "totalLikes": 37,
-            "viewVelocity": 786
+            "viewVelocity": 763
           },
           "creators": [],
-          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計1,271回再生の反応を確認しています。",
+          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計1,280回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -84,7 +85,7 @@
               "publishedAt": "2026-09-02T15:24:17.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
-              "views": 1271,
+              "views": 1280,
               "likes": 37,
               "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
             }
@@ -99,12 +100,12 @@
             "videoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 4030,
+            "totalViews": 4031,
             "totalLikes": 59,
-            "viewVelocity": 234
+            "viewVelocity": 233
           },
           "creators": [],
-          "summary": "24時間で関連動画1本。合計4,030回再生の反応を確認しています。",
+          "summary": "24時間で関連動画1本。合計4,031回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -114,7 +115,7 @@
               "publishedAt": "2026-09-01T23:49:05.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
-              "views": 4030,
+              "views": 4031,
               "likes": 59,
               "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
             }
@@ -129,12 +130,12 @@
             "videoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 597,
+            "totalViews": 637,
             "totalLikes": 4,
-            "viewVelocity": 75
+            "viewVelocity": 80
           },
           "creators": [],
-          "summary": "24時間で関連動画1本。合計597回再生の反応を確認しています。",
+          "summary": "24時間で関連動画1本。合計637回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -144,13 +145,13 @@
               "publishedAt": "2026-09-02T09:05:31.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/u2zT6Y9tP9U/maxresdefault.jpg",
-              "views": 597,
+              "views": 637,
               "likes": 4,
               "url": "https://www.youtube.com/watch?v=u2zT6Y9tP9U"
             }
           ],
           "rank": 4,
-          "score": 62
+          "score": 63
         },
         {
           "id": "UCGCQnbltNryV_rh14OailJw",
@@ -180,37 +181,7 @@
             }
           ],
           "rank": 5,
-          "score": 55
-        },
-        {
-          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
-          "name": "雪風MinETA 広告写真家",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 935,
-            "totalLikes": 0,
-            "viewVelocity": 40
-          },
-          "creators": [],
-          "summary": "24時間で関連動画1本。合計935回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "WkzM0NK_-tM",
-              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T17:40:43.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
-              "views": 935,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
-            }
-          ],
-          "rank": 6,
-          "score": 55
+          "score": 56
         },
         {
           "id": "UC-Hbn_VjsGLMy7_QgyjXFOg",
@@ -219,12 +190,12 @@
             "videoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 8,
+            "totalViews": 9,
             "totalLikes": 1,
-            "viewVelocity": 0
+            "viewVelocity": 1
           },
           "creators": [],
-          "summary": "24時間で関連動画1本。合計8回再生の反応を確認しています。",
+          "summary": "24時間で関連動画1本。合計9回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -234,12 +205,12 @@
               "publishedAt": "2026-09-02T00:15:23.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/Qt_yCEEOhJk/maxresdefault.jpg",
-              "views": 8,
+              "views": 9,
               "likes": 1,
               "url": "https://www.youtube.com/watch?v=Qt_yCEEOhJk"
             }
           ],
-          "rank": 7,
+          "rank": 6,
           "score": 32
         }
       ]
@@ -253,12 +224,12 @@
             "videoCount": 2,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 78493,
+            "totalViews": 78614,
             "totalLikes": 8667,
             "viewVelocity": 2022
           },
           "creators": [],
-          "summary": "3日間で関連動画2本。合計78,493回再生の反応を確認しています。",
+          "summary": "3日間で関連動画2本。合計78,614回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -268,7 +239,7 @@
               "publishedAt": "2026-09-01T08:02:51.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
-              "views": 50436,
+              "views": 50557,
               "likes": 5057,
               "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
             },
@@ -296,7 +267,7 @@
             "channelCount": 1,
             "totalViews": 16382,
             "totalLikes": 391,
-            "viewVelocity": 4682
+            "viewVelocity": 4602
           },
           "creators": [],
           "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
@@ -326,7 +297,7 @@
             "channelCount": 1,
             "totalViews": 213175,
             "totalLikes": 0,
-            "viewVelocity": 7552
+            "viewVelocity": 7536
           },
           "creators": [],
           "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計213,175回再生の反応を確認しています。",
@@ -354,12 +325,12 @@
             "videoCount": 1,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 29035,
+            "totalViews": 29038,
             "totalLikes": 667,
-            "viewVelocity": 574
+            "viewVelocity": 573
           },
           "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計29,035回再生の反応を確認しています。",
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計29,038回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -369,76 +340,13 @@
               "publishedAt": "2026-08-31T14:25:03.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
-              "views": 29035,
+              "views": 29038,
               "likes": 667,
               "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
             }
           ],
           "rank": 4,
           "score": 82
-        },
-        {
-          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
-          "name": "雪風MinETA 広告写真家",
-          "metrics": {
-            "videoCount": 4,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 1293,
-            "totalLikes": 0,
-            "viewVelocity": 54
-          },
-          "creators": [],
-          "summary": "3日間で関連動画4本。合計1,293回再生の反応を確認しています。",
-          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
-          "sources": [
-            {
-              "videoId": "WkzM0NK_-tM",
-              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T17:40:43.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
-              "views": 935,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
-            },
-            {
-              "videoId": "z1Tne-Sqd2c",
-              "title": "近鉄難波広告❶#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T16:32:39.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/z1Tne-Sqd2c/maxresdefault.jpg",
-              "views": 198,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=z1Tne-Sqd2c"
-            },
-            {
-              "videoId": "W-Ex-iRz7UQ",
-              "title": "近鉄難波広告❷#にじさんじ#三枝明那#nijisanji#VTuber#バーチャルYouTuber#可愛い#かわいい#推し#推し活#かっこいい#カッコイイ#イケメン#漫画#アニメ#ゲーム#駅#大阪#愛",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T16:27:34.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/W-Ex-iRz7UQ/maxresdefault.jpg",
-              "views": 144,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=W-Ex-iRz7UQ"
-            },
-            {
-              "videoId": "KGSJ_2DLDGE",
-              "title": "極楽湯茨木11 #VTuber#バーチャルYouTuber#Azki#桃鈴ねね#癒月ちょこ#大空スバル#白銀ノエル#獅白ぼたん#風真いろは#ホロライブ#hololive#推し#推し活#かわいい#可愛い",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-08-31T16:03:08.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/KGSJ_2DLDGE/maxresdefault.jpg",
-              "views": 16,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=KGSJ_2DLDGE"
-            }
-          ],
-          "rank": 5,
-          "score": 81
         },
         {
           "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
@@ -449,7 +357,7 @@
             "channelCount": 1,
             "totalViews": 12964,
             "totalLikes": 216,
-            "viewVelocity": 479
+            "viewVelocity": 478
           },
           "creators": [],
           "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計12,964回再生の反応を確認しています。",
@@ -467,7 +375,7 @@
               "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
             }
           ],
-          "rank": 6,
+          "rank": 5,
           "score": 80
         },
         {
@@ -477,12 +385,12 @@
             "videoCount": 1,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 1271,
+            "totalViews": 1280,
             "totalLikes": 37,
-            "viewVelocity": 786
+            "viewVelocity": 763
           },
           "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,271回再生の反応を確認しています。",
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,280回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -492,12 +400,12 @@
               "publishedAt": "2026-09-02T15:24:17.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
-              "views": 1271,
+              "views": 1280,
               "likes": 37,
               "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
             }
           ],
-          "rank": 7,
+          "rank": 6,
           "score": 78
         },
         {
@@ -507,12 +415,12 @@
             "videoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 4030,
+            "totalViews": 4031,
             "totalLikes": 59,
-            "viewVelocity": 234
+            "viewVelocity": 233
           },
           "creators": [],
-          "summary": "3日間で関連動画1本。合計4,030回再生の反応を確認しています。",
+          "summary": "3日間で関連動画1本。合計4,031回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -522,12 +430,12 @@
               "publishedAt": "2026-09-01T23:49:05.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
-              "views": 4030,
+              "views": 4031,
               "likes": 59,
               "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
             }
           ],
-          "rank": 8,
+          "rank": 7,
           "score": 70
         },
         {
@@ -557,7 +465,7 @@
               "url": "https://www.youtube.com/watch?v=hvQYNHDn37s"
             }
           ],
-          "rank": 9,
+          "rank": 8,
           "score": 69
         },
         {
@@ -587,8 +495,38 @@
               "url": "https://www.youtube.com/watch?v=vGXFqNQ-9LU"
             }
           ],
-          "rank": 10,
+          "rank": 9,
           "score": 65
+        },
+        {
+          "id": "UC1LtKo3FDty3EGSi2UUzQVg",
+          "name": "Bell Ch.天使 鐘",
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 1983,
+            "totalLikes": 30,
+            "viewVelocity": 41
+          },
+          "creators": [],
+          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,983回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "sources": [
+            {
+              "videoId": "axRbkd2Nxzc",
+              "title": "【ポケモンユナイト】マスター749~ 最終日にレジェンドに戻す ソロランク👼♪#337👼♪ 【Pokémon UNITE VTuber 天使 鐘】",
+              "channelTitle": "Bell Ch.天使 鐘",
+              "publishedAt": "2026-08-31T16:56:37.000Z",
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/axRbkd2Nxzc/maxresdefault.jpg",
+              "views": 1983,
+              "likes": 30,
+              "url": "https://www.youtube.com/watch?v=axRbkd2Nxzc"
+            }
+          ],
+          "rank": 10,
+          "score": 63
         }
       ]
     },
@@ -601,12 +539,12 @@
             "videoCount": 3,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 213158,
-            "totalLikes": 22233,
-            "viewVelocity": 3065
+            "totalViews": 213362,
+            "totalLikes": 22234,
+            "viewVelocity": 3066
           },
           "creators": [],
-          "summary": "7日間で関連動画3本。合計213,158回再生の反応を確認しています。",
+          "summary": "7日間で関連動画3本。合計213,362回再生の反応を確認しています。",
           "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
           "sources": [
             {
@@ -616,7 +554,7 @@
               "publishedAt": "2026-09-01T08:02:51.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
-              "views": 50436,
+              "views": 50557,
               "likes": 5057,
               "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
             },
@@ -627,8 +565,8 @@
               "publishedAt": "2026-08-28T08:00:19.000Z",
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
-              "views": 134665,
-              "likes": 13566,
+              "views": 134748,
+              "likes": 13567,
               "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
             },
             {
@@ -654,8 +592,8 @@
             "liveArchiveCount": 0,
             "channelCount": 1,
             "totalViews": 502610,
-            "totalLikes": 15033,
-            "viewVelocity": 4514
+            "totalLikes": 15034,
+            "viewVelocity": 4511
           },
           "creators": [],
           "summary": "7日間で関連動画2本。合計502,610回再生の反応を確認しています。",
@@ -680,7 +618,7 @@
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
               "views": 148774,
-              "likes": 4370,
+              "likes": 4371,
               "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
             }
           ],
@@ -694,12 +632,12 @@
             "videoCount": 1,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 594423,
+            "totalViews": 594515,
             "totalLikes": 40979,
-            "viewVelocity": 4755
+            "viewVelocity": 4753
           },
           "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計594,423回再生の反応を確認しています。",
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計594,515回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -709,7 +647,7 @@
               "publishedAt": "2026-08-28T12:00:24.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/giyQMGNY8fw/maxresdefault.jpg",
-              "views": 594423,
+              "views": 594515,
               "likes": 40979,
               "url": "https://www.youtube.com/watch?v=giyQMGNY8fw"
             }
@@ -725,8 +663,8 @@
             "liveArchiveCount": 0,
             "channelCount": 1,
             "totalViews": 892412,
-            "totalLikes": 38036,
-            "viewVelocity": 6097
+            "totalLikes": 38037,
+            "viewVelocity": 6094
           },
           "creators": [],
           "summary": "7日間で関連動画1本。合計892,412回再生の反応を確認しています。",
@@ -740,7 +678,7 @@
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/O9GPxlIhpIE/maxresdefault.jpg",
               "views": 892412,
-              "likes": 38036,
+              "likes": 38037,
               "url": "https://www.youtube.com/watch?v=O9GPxlIhpIE"
             }
           ],
@@ -754,12 +692,12 @@
             "videoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 1,
-            "totalViews": 22713,
+            "totalViews": 22714,
             "totalLikes": 336,
-            "viewVelocity": 579
+            "viewVelocity": 578
           },
           "creators": [],
-          "summary": "7日間で関連動画2本、うち2本が終了済みライブ。合計22,713回再生の反応を確認しています。",
+          "summary": "7日間で関連動画2本、うち2本が終了済みライブ。合計22,714回再生の反応を確認しています。",
           "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
           "sources": [
             {
@@ -780,7 +718,7 @@
               "publishedAt": "2026-08-29T15:23:36.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/qvmU4dEw3_0/maxresdefault.jpg",
-              "views": 9749,
+              "views": 9750,
               "likes": 120,
               "url": "https://www.youtube.com/watch?v=qvmU4dEw3_0"
             }
@@ -797,7 +735,7 @@
             "channelCount": 1,
             "totalViews": 16382,
             "totalLikes": 391,
-            "viewVelocity": 4682
+            "viewVelocity": 4602
           },
           "creators": [],
           "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計16,382回再生の反応を確認しています。",
@@ -827,7 +765,7 @@
             "channelCount": 1,
             "totalViews": 213175,
             "totalLikes": 0,
-            "viewVelocity": 7552
+            "viewVelocity": 7536
           },
           "creators": [],
           "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計213,175回再生の反応を確認しています。",
@@ -857,7 +795,7 @@
             "channelCount": 1,
             "totalViews": 6656,
             "totalLikes": 64,
-            "viewVelocity": 151
+            "viewVelocity": 150
           },
           "creators": [],
           "summary": "7日間で関連動画2本、うち2本が終了済みライブ。合計6,656回再生の反応を確認しています。",
@@ -896,12 +834,12 @@
             "videoCount": 1,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 29035,
+            "totalViews": 29038,
             "totalLikes": 667,
-            "viewVelocity": 574
+            "viewVelocity": 573
           },
           "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計29,035回再生の反応を確認しています。",
+          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計29,038回再生の反応を確認しています。",
           "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
@@ -911,7 +849,7 @@
               "publishedAt": "2026-08-31T14:25:03.000Z",
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
-              "views": 29035,
+              "views": 29038,
               "likes": 667,
               "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
             }
@@ -920,67 +858,34 @@
           "score": 74
         },
         {
-          "id": "UCj3Qm1ihT35joKgxhTk7wQw",
-          "name": "雪風MinETA 広告写真家",
+          "id": "UCSPJIME-vqy5UvMBTPuDELA",
+          "name": "からあげサーモン",
           "metrics": {
-            "videoCount": 4,
+            "videoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 1293,
-            "totalLikes": 0,
-            "viewVelocity": 54
+            "totalViews": 75371,
+            "totalLikes": 1941,
+            "viewVelocity": 598
           },
           "creators": [],
-          "summary": "7日間で関連動画4本。合計1,293回再生の反応を確認しています。",
-          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
+          "summary": "7日間で関連動画1本。合計75,371回再生の反応を確認しています。",
+          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
           "sources": [
             {
-              "videoId": "WkzM0NK_-tM",
-              "title": "近鉄難波広告❷#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T17:40:43.000Z",
+              "videoId": "vJ5EGiHvVDY",
+              "title": "【手描き】デスゲームで容赦なくヴィヴィを○せるぺこら【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ/切り抜き漫画】",
+              "channelTitle": "からあげサーモン",
+              "publishedAt": "2026-08-28T11:00:26.000Z",
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/WkzM0NK_-tM/maxresdefault.jpg",
-              "views": 935,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=WkzM0NK_-tM"
-            },
-            {
-              "videoId": "z1Tne-Sqd2c",
-              "title": "近鉄難波広告❶#にじさんじ#ローレンイロアス#nijisanji#VTuber#バーチャルYouTuber#推し#推し活#可愛い#かわいい#佐久間まゆ#デレマス#デレステ#アイドル#大阪#広告#愛#駅",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T16:32:39.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/z1Tne-Sqd2c/maxresdefault.jpg",
-              "views": 198,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=z1Tne-Sqd2c"
-            },
-            {
-              "videoId": "W-Ex-iRz7UQ",
-              "title": "近鉄難波広告❷#にじさんじ#三枝明那#nijisanji#VTuber#バーチャルYouTuber#可愛い#かわいい#推し#推し活#かっこいい#カッコイイ#イケメン#漫画#アニメ#ゲーム#駅#大阪#愛",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-09-01T16:27:34.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/W-Ex-iRz7UQ/maxresdefault.jpg",
-              "views": 144,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=W-Ex-iRz7UQ"
-            },
-            {
-              "videoId": "KGSJ_2DLDGE",
-              "title": "極楽湯茨木11 #VTuber#バーチャルYouTuber#Azki#桃鈴ねね#癒月ちょこ#大空スバル#白銀ノエル#獅白ぼたん#風真いろは#ホロライブ#hololive#推し#推し活#かわいい#可愛い",
-              "channelTitle": "雪風MinETA 広告写真家",
-              "publishedAt": "2026-08-31T16:03:08.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/KGSJ_2DLDGE/maxresdefault.jpg",
-              "views": 16,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=KGSJ_2DLDGE"
+              "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
+              "views": 75371,
+              "likes": 1941,
+              "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             }
           ],
           "rank": 10,
-          "score": 72
+          "score": 71
         }
       ]
     }
