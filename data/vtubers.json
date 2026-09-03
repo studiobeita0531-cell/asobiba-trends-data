@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ok",
-  "generatedAt": "2026-09-03T06:09:32.984Z",
+  "generatedAt": "2026-09-03T06:16:17.874Z",
   "regionCode": "JP",
   "language": "ja",
   "message": "",
@@ -31,10 +31,10 @@
     "searchCallsPerRun": 4
   },
   "coverage": {
-    "candidateVideos": 99,
+    "candidateVideos": 50,
     "officialUploadVideos": 660,
-    "trackedVideos": 797,
-    "matchedVideos": 291,
+    "trackedVideos": 783,
+    "matchedVideos": 293,
     "externalVideos": 34,
     "uniqueChannels": 112,
     "matchedEntities": 97
@@ -47,23 +47,23 @@
           "name": "兎田ぺこら",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 699956,
-            "officialViewGain": 698844,
-            "externalViewGain": 1112,
+            "attentionPoints": 700054,
+            "officialViewGain": 698938,
+            "externalViewGain": 1116,
             "videoCount": 5,
             "officialVideoCount": 3,
             "externalVideoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 699956,
-            "totalLikes": 54890
+            "totalViews": 700054,
+            "totalLikes": 88969
           },
           "creators": [
             "エビフライ / Ebihurai",
             "からあげサーモン"
           ],
-          "summary": "24時間の話題再生数は699,956回。本人動画698,844回、外部動画1,112回を確認しています。",
+          "summary": "24時間の話題再生数は700,054回。本人動画698,938回、外部動画1,116回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -75,10 +75,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
-              "views": 155192,
-              "likes": 4465,
-              "viewGain": 1064,
-              "attributedViewGain": 1064,
+              "views": 155196,
+              "likes": 4467,
+              "viewGain": 1068,
+              "attributedViewGain": 1068,
               "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
             },
             {
@@ -90,9 +90,9 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 95,
+              "viewGain": 96,
               "attributedViewGain": 48,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
@@ -105,10 +105,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/S3FoT8gz9yc/maxresdefault.jpg",
-              "views": 698568,
-              "likes": 13805,
-              "viewGain": 698568,
-              "attributedViewGain": 698568,
+              "views": 698639,
+              "likes": 13807,
+              "viewGain": 698639,
+              "attributedViewGain": 698639,
               "url": "https://www.youtube.com/watch?v=S3FoT8gz9yc"
             },
             {
@@ -120,26 +120,26 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/hDsgtZw86dk/maxresdefault.jpg",
-              "views": 568651,
-              "likes": 23276,
-              "viewGain": 220,
-              "attributedViewGain": 220,
+              "views": 568664,
+              "likes": 23280,
+              "viewGain": 233,
+              "attributedViewGain": 233,
               "url": "https://www.youtube.com/watch?v=hDsgtZw86dk"
             },
             {
-              "videoId": "78Z6l559b5w",
-              "title": "【How to Fish】2日で100万本売れたバズってるおバカ釣りゲーやる！ぺこ！【ホロライブ/兎田ぺこら】",
+              "videoId": "36BSSfEkQr4",
+              "title": "【＃ホロぷよテト大会】ホロライブぷよテト大会2026！！！！！！！！！！！！！！【ぷよテト2】",
               "channelTitle": "Pekora Ch. 兎田ぺこら",
-              "publishedAt": "2026-09-01T14:28:02.000Z",
+              "publishedAt": "2026-08-30T14:12:17.000Z",
               "isLiveArchive": true,
               "isOfficial": true,
               "sourceType": "official",
-              "thumbnail": "https://i.ytimg.com/vi/78Z6l559b5w/maxresdefault.jpg",
-              "views": 481579,
-              "likes": 11399,
-              "viewGain": 56,
-              "attributedViewGain": 56,
-              "url": "https://www.youtube.com/watch?v=78Z6l559b5w"
+              "thumbnail": "https://i.ytimg.com/vi/36BSSfEkQr4/maxresdefault.jpg",
+              "views": 1873185,
+              "likes": 45470,
+              "viewGain": 66,
+              "attributedViewGain": 66,
+              "url": "https://www.youtube.com/watch?v=36BSSfEkQr4"
             }
           ],
           "rank": 1,
@@ -150,8 +150,8 @@
           "name": "綺々羅々ヴィヴィ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 452710,
-            "officialViewGain": 452027,
+            "attentionPoints": 452857,
+            "officialViewGain": 452174,
             "externalViewGain": 683,
             "videoCount": 5,
             "officialVideoCount": 3,
@@ -159,14 +159,14 @@
             "liveArchiveCount": 1,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 452710,
-            "totalLikes": 76186
+            "totalViews": 452857,
+            "totalLikes": 76220
           },
           "creators": [
-            "ホロっと切り抜き",
-            "からあげサーモン"
+            "からあげサーモン",
+            "ホロっと切り抜き"
           ],
-          "summary": "24時間の話題再生数は452,710回。本人動画452,027回、外部動画683回を確認しています。",
+          "summary": "24時間の話題再生数は452,857回。本人動画452,174回、外部動画683回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -179,7 +179,7 @@
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/sr4BHCOmnfM/maxresdefault.jpg",
               "views": 1270,
-              "likes": 52,
+              "likes": 53,
               "viewGain": 1270,
               "attributedViewGain": 635,
               "url": "https://www.youtube.com/watch?v=sr4BHCOmnfM"
@@ -193,9 +193,9 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 95,
+              "viewGain": 96,
               "attributedViewGain": 48,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
@@ -208,10 +208,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/dJLYRQ-6UyM/maxresdefault.jpg",
-              "views": 319430,
-              "likes": 9461,
-              "viewGain": 319430,
-              "attributedViewGain": 319430,
+              "views": 319488,
+              "likes": 9462,
+              "viewGain": 319488,
+              "attributedViewGain": 319488,
               "url": "https://www.youtube.com/watch?v=dJLYRQ-6UyM"
             },
             {
@@ -223,10 +223,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Ts55HIF8dJk/maxresdefault.jpg",
-              "views": 132191,
-              "likes": 13469,
-              "viewGain": 132191,
-              "attributedViewGain": 132191,
+              "views": 132231,
+              "likes": 13482,
+              "viewGain": 132231,
+              "attributedViewGain": 132231,
               "url": "https://www.youtube.com/watch?v=Ts55HIF8dJk"
             },
             {
@@ -238,10 +238,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/SXV7h2XVGoU/maxresdefault.jpg",
-              "views": 934368,
-              "likes": 51259,
-              "viewGain": 406,
-              "attributedViewGain": 406,
+              "views": 934417,
+              "likes": 51278,
+              "viewGain": 455,
+              "attributedViewGain": 455,
               "url": "https://www.youtube.com/watch?v=SXV7h2XVGoU"
             }
           ],
@@ -253,8 +253,8 @@
           "name": "アキ・ローゼンタール",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 394577,
-            "officialViewGain": 394577,
+            "attentionPoints": 394612,
+            "officialViewGain": 394612,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -262,11 +262,11 @@
             "liveArchiveCount": 2,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 394577,
-            "totalLikes": 39093
+            "totalViews": 394612,
+            "totalLikes": 39095
           },
           "creators": [],
-          "summary": "24時間の話題再生数は394,577回。本人動画394,577回、外部動画0回を確認しています。",
+          "summary": "24時間の話題再生数は394,612回。本人動画394,612回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -278,10 +278,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/cL8H1Kd98RY/maxresdefault.jpg",
-              "views": 394509,
-              "likes": 13310,
-              "viewGain": 394509,
-              "attributedViewGain": 394509,
+              "views": 394533,
+              "likes": 13311,
+              "viewGain": 394533,
+              "attributedViewGain": 394533,
               "url": "https://www.youtube.com/watch?v=cL8H1Kd98RY"
             },
             {
@@ -293,10 +293,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/OL2Yz8ouOT0/maxresdefault.jpg",
-              "views": 375887,
-              "likes": 14776,
-              "viewGain": 36,
-              "attributedViewGain": 36,
+              "views": 375892,
+              "likes": 14777,
+              "viewGain": 41,
+              "attributedViewGain": 41,
               "url": "https://www.youtube.com/watch?v=OL2Yz8ouOT0"
             },
             {
@@ -308,10 +308,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/V9gyLw5XPqc/maxresdefault.jpg",
-              "views": 420950,
+              "views": 420956,
               "likes": 11007,
-              "viewGain": 32,
-              "attributedViewGain": 32,
+              "viewGain": 38,
+              "attributedViewGain": 38,
               "url": "https://www.youtube.com/watch?v=V9gyLw5XPqc"
             }
           ],
@@ -323,22 +323,22 @@
           "name": "白上フブキ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 393170,
-            "officialViewGain": 392531,
-            "externalViewGain": 639,
+            "attentionPoints": 393189,
+            "officialViewGain": 392548,
+            "externalViewGain": 641,
             "videoCount": 4,
             "officialVideoCount": 3,
             "externalVideoCount": 1,
             "liveArchiveCount": 3,
             "channelCount": 2,
             "externalChannelCount": 1,
-            "totalViews": 393170,
-            "totalLikes": 21711
+            "totalViews": 393189,
+            "totalLikes": 21718
           },
           "creators": [
             "ホロ切り抜き"
           ],
-          "summary": "24時間の話題再生数は393,170回。本人動画392,531回、外部動画639回を確認しています。",
+          "summary": "24時間の話題再生数は393,189回。本人動画392,548回、外部動画641回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -350,10 +350,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/Cke85jhUTns/maxresdefault.jpg",
-              "views": 1918,
-              "likes": 76,
-              "viewGain": 1918,
-              "attributedViewGain": 639,
+              "views": 1922,
+              "likes": 81,
+              "viewGain": 1922,
+              "attributedViewGain": 641,
               "url": "https://www.youtube.com/watch?v=Cke85jhUTns"
             },
             {
@@ -365,10 +365,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/cBYG84VlsMw/maxresdefault.jpg",
-              "views": 205367,
+              "views": 205373,
               "likes": 7050,
-              "viewGain": 205367,
-              "attributedViewGain": 205367,
+              "viewGain": 205373,
+              "attributedViewGain": 205373,
               "url": "https://www.youtube.com/watch?v=cBYG84VlsMw"
             },
             {
@@ -380,10 +380,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/By327M3K0zU/maxresdefault.jpg",
-              "views": 187044,
-              "likes": 6246,
-              "viewGain": 187044,
-              "attributedViewGain": 187044,
+              "views": 187054,
+              "likes": 6248,
+              "viewGain": 187054,
+              "attributedViewGain": 187054,
               "url": "https://www.youtube.com/watch?v=By327M3K0zU"
             },
             {
@@ -395,10 +395,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/cCBbLjf33z4/maxresdefault.jpg",
-              "views": 284811,
+              "views": 284812,
               "likes": 8339,
-              "viewGain": 120,
-              "attributedViewGain": 120,
+              "viewGain": 121,
+              "attributedViewGain": 121,
               "url": "https://www.youtube.com/watch?v=cCBbLjf33z4"
             }
           ],
@@ -410,23 +410,23 @@
           "name": "星街すいせい",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 391112,
-            "officialViewGain": 390922,
-            "externalViewGain": 190,
+            "attentionPoints": 391556,
+            "officialViewGain": 391314,
+            "externalViewGain": 242,
             "videoCount": 5,
             "officialVideoCount": 3,
             "externalVideoCount": 2,
             "liveArchiveCount": 3,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 391112,
-            "totalLikes": 47314
+            "totalViews": 391556,
+            "totalLikes": 47322
           },
           "creators": [
             "Suisei Channel",
             "Koseki Bijou Ch. hololive-EN"
           ],
-          "summary": "24時間の話題再生数は391,112回。本人動画390,922回、外部動画190回を確認しています。",
+          "summary": "24時間の話題再生数は391,556回。本人動画391,314回、外部動画242回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -438,10 +438,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/uSDtkV3PXSA/maxresdefault.jpg",
-              "views": 714092,
-              "likes": 36320,
-              "viewGain": 188,
-              "attributedViewGain": 188,
+              "views": 714143,
+              "likes": 36327,
+              "viewGain": 239,
+              "attributedViewGain": 239,
               "url": "https://www.youtube.com/watch?v=uSDtkV3PXSA"
             },
             {
@@ -453,10 +453,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/mnMPPEB9DcQ/maxresdefault.jpg",
-              "views": 317735,
-              "likes": 10994,
-              "viewGain": 3,
-              "attributedViewGain": 2,
+              "views": 317737,
+              "likes": 10995,
+              "viewGain": 5,
+              "attributedViewGain": 3,
               "url": "https://www.youtube.com/watch?v=mnMPPEB9DcQ"
             },
             {
@@ -468,10 +468,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/ot59dtL29p0/maxresdefault.jpg",
-              "views": 390827,
+              "views": 391208,
               "likes": 0,
-              "viewGain": 390827,
-              "attributedViewGain": 390827,
+              "viewGain": 391208,
+              "attributedViewGain": 391208,
               "url": "https://www.youtube.com/watch?v=ot59dtL29p0"
             },
             {
@@ -483,10 +483,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/7oBIxsXV7t0/maxresdefault.jpg",
-              "views": 130801,
+              "views": 130803,
               "likes": 0,
-              "viewGain": 52,
-              "attributedViewGain": 52,
+              "viewGain": 54,
+              "attributedViewGain": 54,
               "url": "https://www.youtube.com/watch?v=7oBIxsXV7t0"
             },
             {
@@ -498,10 +498,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Wa8ZX0i_LPw/maxresdefault.jpg",
-              "views": 947713,
+              "views": 947722,
               "likes": 0,
-              "viewGain": 43,
-              "attributedViewGain": 43,
+              "viewGain": 52,
+              "attributedViewGain": 52,
               "url": "https://www.youtube.com/watch?v=Wa8ZX0i_LPw"
             }
           ],
@@ -513,8 +513,8 @@
           "name": "Koseki Bijou",
           "group": "ホロライブEN",
           "metrics": {
-            "attentionPoints": 368915,
-            "officialViewGain": 368915,
+            "attentionPoints": 369440,
+            "officialViewGain": 369440,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -522,11 +522,11 @@
             "liveArchiveCount": 2,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 368915,
-            "totalLikes": 24263
+            "totalViews": 369440,
+            "totalLikes": 24270
           },
           "creators": [],
-          "summary": "24時間の話題再生数は368,915回。本人動画368,915回、外部動画0回を確認しています。",
+          "summary": "24時間の話題再生数は369,440回。本人動画369,440回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -538,10 +538,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/YGu-T-wMMms/maxresdefault.jpg",
-              "views": 236541,
-              "likes": 8836,
-              "viewGain": 236541,
-              "attributedViewGain": 236541,
+              "views": 236543,
+              "likes": 8837,
+              "viewGain": 236543,
+              "attributedViewGain": 236543,
               "url": "https://www.youtube.com/watch?v=YGu-T-wMMms"
             },
             {
@@ -553,10 +553,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/a1pfTx8xYQM/maxresdefault_live.jpg",
-              "views": 132359,
-              "likes": 6750,
-              "viewGain": 132359,
-              "attributedViewGain": 132359,
+              "views": 132876,
+              "likes": 6753,
+              "viewGain": 132876,
+              "attributedViewGain": 132876,
               "url": "https://www.youtube.com/watch?v=a1pfTx8xYQM"
             },
             {
@@ -568,10 +568,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/HQBYjFSdE3E/maxresdefault.jpg",
-              "views": 80873,
-              "likes": 8677,
-              "viewGain": 15,
-              "attributedViewGain": 15,
+              "views": 80879,
+              "likes": 8680,
+              "viewGain": 21,
+              "attributedViewGain": 21,
               "url": "https://www.youtube.com/watch?v=HQBYjFSdE3E"
             }
           ],
@@ -583,8 +583,8 @@
           "name": "轟はじめ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 349295,
-            "officialViewGain": 349295,
+            "attentionPoints": 349336,
+            "officialViewGain": 349336,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -592,11 +592,11 @@
             "liveArchiveCount": 1,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 349295,
-            "totalLikes": 50808
+            "totalViews": 349336,
+            "totalLikes": 50814
           },
           "creators": [],
-          "summary": "24時間の話題再生数は349,295回。本人動画349,295回、外部動画0回を確認しています。",
+          "summary": "24時間の話題再生数は349,336回。本人動画349,336回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -608,10 +608,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/W8xA-3b8JF4/maxresdefault.jpg",
-              "views": 349203,
-              "likes": 10714,
-              "viewGain": 349203,
-              "attributedViewGain": 349203,
+              "views": 349230,
+              "likes": 10715,
+              "viewGain": 349230,
+              "attributedViewGain": 349230,
               "url": "https://www.youtube.com/watch?v=W8xA-3b8JF4"
             },
             {
@@ -623,10 +623,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/QxnDPBXEMn4/maxresdefault.jpg",
-              "views": 326619,
-              "likes": 22101,
-              "viewGain": 75,
-              "attributedViewGain": 75,
+              "views": 326631,
+              "likes": 22103,
+              "viewGain": 87,
+              "attributedViewGain": 87,
               "url": "https://www.youtube.com/watch?v=QxnDPBXEMn4"
             },
             {
@@ -638,10 +638,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/M3KqY5aiGjA/maxresdefault.jpg",
-              "views": 203797,
-              "likes": 17993,
-              "viewGain": 17,
-              "attributedViewGain": 17,
+              "views": 203799,
+              "likes": 17996,
+              "viewGain": 19,
+              "attributedViewGain": 19,
               "url": "https://www.youtube.com/watch?v=M3KqY5aiGjA"
             }
           ],
@@ -653,8 +653,8 @@
           "name": "博衣こより",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 295529,
-            "officialViewGain": 295529,
+            "attentionPoints": 295553,
+            "officialViewGain": 295553,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -662,11 +662,11 @@
             "liveArchiveCount": 1,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 295529,
-            "totalLikes": 24636
+            "totalViews": 295553,
+            "totalLikes": 24650
           },
           "creators": [],
-          "summary": "24時間の話題再生数は295,529回。本人動画295,529回、外部動画0回を確認しています。",
+          "summary": "24時間の話題再生数は295,553回。本人動画295,553回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -678,10 +678,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/6QivF7qiYt4/maxresdefault.jpg",
-              "views": 252790,
-              "likes": 5981,
-              "viewGain": 252790,
-              "attributedViewGain": 252790,
+              "views": 252798,
+              "likes": 5983,
+              "viewGain": 252798,
+              "attributedViewGain": 252798,
               "url": "https://www.youtube.com/watch?v=6QivF7qiYt4"
             },
             {
@@ -693,10 +693,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/QvojmBTOMX4/maxresdefault.jpg",
-              "views": 41862,
-              "likes": 4850,
-              "viewGain": 41862,
-              "attributedViewGain": 41862,
+              "views": 41871,
+              "likes": 4860,
+              "viewGain": 41871,
+              "attributedViewGain": 41871,
               "url": "https://www.youtube.com/watch?v=QvojmBTOMX4"
             },
             {
@@ -708,10 +708,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
-              "views": 141501,
-              "likes": 13805,
-              "viewGain": 877,
-              "attributedViewGain": 877,
+              "views": 141508,
+              "likes": 13807,
+              "viewGain": 884,
+              "attributedViewGain": 884,
               "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
             }
           ],
@@ -723,22 +723,22 @@
           "name": "胡桃のあ",
           "group": "ぶいすぽっ！",
           "metrics": {
-            "attentionPoints": 288199,
-            "officialViewGain": 276619,
-            "externalViewGain": 11580,
+            "attentionPoints": 288304,
+            "officialViewGain": 276628,
+            "externalViewGain": 11676,
             "videoCount": 4,
             "officialVideoCount": 3,
             "externalVideoCount": 1,
             "liveArchiveCount": 3,
             "channelCount": 2,
             "externalChannelCount": 1,
-            "totalViews": 288199,
-            "totalLikes": 5694
+            "totalViews": 288304,
+            "totalLikes": 6119
           },
           "creators": [
             "C君【ぶいすぽ切り抜き】"
           ],
-          "summary": "24時間の話題再生数は288,199回。本人動画276,619回、外部動画11,580回を確認しています。",
+          "summary": "24時間の話題再生数は288,304回。本人動画276,628回、外部動画11,676回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -750,10 +750,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/AcDLp2W2-DA/maxresdefault.jpg",
-              "views": 11580,
-              "likes": 569,
-              "viewGain": 11580,
-              "attributedViewGain": 11580,
+              "views": 11676,
+              "likes": 591,
+              "viewGain": 11676,
+              "attributedViewGain": 11676,
               "url": "https://www.youtube.com/watch?v=AcDLp2W2-DA"
             },
             {
@@ -765,10 +765,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/QpsI0FujLP4/maxresdefault.jpg",
-              "views": 150228,
-              "likes": 2042,
-              "viewGain": 150228,
-              "attributedViewGain": 150228,
+              "views": 150237,
+              "likes": 2043,
+              "viewGain": 150237,
+              "attributedViewGain": 150237,
               "url": "https://www.youtube.com/watch?v=QpsI0FujLP4"
             },
             {
@@ -780,26 +780,26 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/mBA-jzm9VxU/maxresdefault.jpg",
-              "views": 126376,
-              "likes": 1601,
-              "viewGain": 126376,
-              "attributedViewGain": 126376,
+              "views": 126378,
+              "likes": 1602,
+              "viewGain": 126378,
+              "attributedViewGain": 126378,
               "url": "https://www.youtube.com/watch?v=mBA-jzm9VxU"
             },
             {
-              "videoId": "uuiOxxnsnFE",
-              "title": "【 APEX 】ラジオまでやらせてください！【 ぶいすぽっ！胡桃のあ 】",
+              "videoId": "PtUDOnWDd1U",
+              "title": "【 Moo Who? 】動物の鳴き真似してかくれんぼ？するゲームをします！【 ぶいすぽっ！胡桃のあ 】",
               "channelTitle": "胡桃のあ",
-              "publishedAt": "2026-08-28T13:51:31.000Z",
+              "publishedAt": "2026-09-01T13:38:33.000Z",
               "isLiveArchive": true,
               "isOfficial": true,
               "sourceType": "official",
-              "thumbnail": "https://i.ytimg.com/vi/uuiOxxnsnFE/maxresdefault.jpg",
-              "views": 104008,
-              "likes": 1482,
-              "viewGain": 15,
-              "attributedViewGain": 15,
-              "url": "https://www.youtube.com/watch?v=uuiOxxnsnFE"
+              "thumbnail": "https://i.ytimg.com/vi/PtUDOnWDd1U/maxresdefault.jpg",
+              "views": 134522,
+              "likes": 1883,
+              "viewGain": 13,
+              "attributedViewGain": 13,
+              "url": "https://www.youtube.com/watch?v=PtUDOnWDd1U"
             }
           ],
           "rank": 9,
@@ -810,8 +810,8 @@
           "name": "ラプラス・ダークネス",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 282723,
-            "officialViewGain": 282723,
+            "attentionPoints": 282772,
+            "officialViewGain": 282772,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -819,11 +819,11 @@
             "liveArchiveCount": 3,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 282723,
-            "totalLikes": 31147
+            "totalViews": 282772,
+            "totalLikes": 31154
           },
           "creators": [],
-          "summary": "24時間の話題再生数は282,723回。本人動画282,723回、外部動画0回を確認しています。",
+          "summary": "24時間の話題再生数は282,772回。本人動画282,772回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -835,10 +835,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/wsSt8S9wRl4/maxresdefault.jpg",
-              "views": 282669,
-              "likes": 10711,
-              "viewGain": 282669,
-              "attributedViewGain": 282669,
+              "views": 282698,
+              "likes": 10718,
+              "viewGain": 282698,
+              "attributedViewGain": 282698,
               "url": "https://www.youtube.com/watch?v=wsSt8S9wRl4"
             },
             {
@@ -850,10 +850,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Drga5lIyP_g/maxresdefault.jpg",
-              "views": 560135,
+              "views": 560155,
               "likes": 13158,
-              "viewGain": 49,
-              "attributedViewGain": 49,
+              "viewGain": 69,
+              "attributedViewGain": 69,
               "url": "https://www.youtube.com/watch?v=Drga5lIyP_g"
             },
             {
@@ -884,24 +884,24 @@
           "name": "宝鐘マリン",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 2126111,
-            "officialViewGain": 923175,
-            "externalViewGain": 1202936,
+            "attentionPoints": 2126313,
+            "officialViewGain": 923289,
+            "externalViewGain": 1203024,
             "videoCount": 8,
             "officialVideoCount": 3,
             "externalVideoCount": 5,
             "liveArchiveCount": 2,
             "channelCount": 4,
             "externalChannelCount": 3,
-            "totalViews": 2126111,
-            "totalLikes": 227951
+            "totalViews": 2126313,
+            "totalLikes": 228017
           },
           "creators": [
             "Koyori ch. 博衣こより - holoX -",
             "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
             "Marine Clips-マリン船長切り抜き-"
           ],
-          "summary": "3日間の話題再生数は2,126,111回。本人動画923,175回、外部動画1,202,936回を確認しています。",
+          "summary": "3日間の話題再生数は2,126,313回。本人動画923,289回、外部動画1,203,024回を確認しています。",
           "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -913,10 +913,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/SXV7h2XVGoU/maxresdefault.jpg",
-              "views": 934368,
-              "likes": 51259,
-              "viewGain": 934368,
-              "attributedViewGain": 934368,
+              "views": 934417,
+              "likes": 51278,
+              "viewGain": 934417,
+              "attributedViewGain": 934417,
               "url": "https://www.youtube.com/watch?v=SXV7h2XVGoU"
             },
             {
@@ -928,10 +928,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/sInzemf-tX0/maxresdefault.jpg",
-              "views": 266972,
-              "likes": 13508,
-              "viewGain": 266972,
-              "attributedViewGain": 266972,
+              "views": 267004,
+              "likes": 13515,
+              "viewGain": 267004,
+              "attributedViewGain": 267004,
               "url": "https://www.youtube.com/watch?v=sInzemf-tX0"
             },
             {
@@ -943,10 +943,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
-              "views": 141501,
-              "likes": 13805,
-              "viewGain": 877,
-              "attributedViewGain": 877,
+              "views": 141508,
+              "likes": 13807,
+              "viewGain": 884,
+              "attributedViewGain": 884,
               "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
             },
             {
@@ -988,10 +988,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/xYgLIhO-7lM/maxresdefault.jpg",
-              "views": 923041,
-              "likes": 48651,
-              "viewGain": 923041,
-              "attributedViewGain": 923041,
+              "views": 923109,
+              "likes": 48682,
+              "viewGain": 923109,
+              "attributedViewGain": 923109,
               "url": "https://www.youtube.com/watch?v=xYgLIhO-7lM"
             },
             {
@@ -1003,10 +1003,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/IdBEq0ikuK0/maxresdefault.jpg",
-              "views": 628555,
+              "views": 628573,
               "likes": 33624,
-              "viewGain": 78,
-              "attributedViewGain": 78,
+              "viewGain": 96,
+              "attributedViewGain": 96,
               "url": "https://www.youtube.com/watch?v=IdBEq0ikuK0"
             },
             {
@@ -1018,10 +1018,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/MfFYjpTS8Rc/maxresdefault.jpg",
-              "views": 948231,
-              "likes": 55415,
-              "viewGain": 56,
-              "attributedViewGain": 56,
+              "views": 948259,
+              "likes": 55422,
+              "viewGain": 84,
+              "attributedViewGain": 84,
               "url": "https://www.youtube.com/watch?v=MfFYjpTS8Rc"
             }
           ],
@@ -1033,24 +1033,24 @@
           "name": "兎田ぺこら",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 1933968,
-            "officialViewGain": 1748798,
-            "externalViewGain": 185170,
+            "attentionPoints": 1934065,
+            "officialViewGain": 1748891,
+            "externalViewGain": 185174,
             "videoCount": 6,
             "officialVideoCount": 3,
             "externalVideoCount": 3,
             "liveArchiveCount": 3,
             "channelCount": 4,
             "externalChannelCount": 3,
-            "totalViews": 1933968,
-            "totalLikes": 61804
+            "totalViews": 1934065,
+            "totalLikes": 61812
           },
           "creators": [
             "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
             "エビフライ / Ebihurai",
             "からあげサーモン"
           ],
-          "summary": "3日間の話題再生数は1,933,968回。本人動画1,748,798回、外部動画185,170回を確認しています。",
+          "summary": "3日間の話題再生数は1,934,065回。本人動画1,748,891回、外部動画185,174回を確認しています。",
           "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -1077,10 +1077,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
-              "views": 155192,
-              "likes": 4465,
-              "viewGain": 1064,
-              "attributedViewGain": 1064,
+              "views": 155196,
+              "likes": 4467,
+              "viewGain": 1068,
+              "attributedViewGain": 1068,
               "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
             },
             {
@@ -1092,9 +1092,9 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 95,
+              "viewGain": 96,
               "attributedViewGain": 48,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
@@ -1107,10 +1107,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/S3FoT8gz9yc/maxresdefault.jpg",
-              "views": 698568,
-              "likes": 13805,
-              "viewGain": 698568,
-              "attributedViewGain": 698568,
+              "views": 698639,
+              "likes": 13807,
+              "viewGain": 698639,
+              "attributedViewGain": 698639,
               "url": "https://www.youtube.com/watch?v=S3FoT8gz9yc"
             },
             {
@@ -1122,10 +1122,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/hDsgtZw86dk/maxresdefault.jpg",
-              "views": 568651,
-              "likes": 23276,
-              "viewGain": 568651,
-              "attributedViewGain": 568651,
+              "views": 568664,
+              "likes": 23280,
+              "viewGain": 568664,
+              "attributedViewGain": 568664,
               "url": "https://www.youtube.com/watch?v=hDsgtZw86dk"
             },
             {
@@ -1137,10 +1137,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/78Z6l559b5w/maxresdefault.jpg",
-              "views": 481579,
+              "views": 481588,
               "likes": 11399,
-              "viewGain": 481579,
-              "attributedViewGain": 481579,
+              "viewGain": 481588,
+              "attributedViewGain": 481588,
               "url": "https://www.youtube.com/watch?v=78Z6l559b5w"
             }
           ],
@@ -1152,8 +1152,8 @@
           "name": "不破湊",
           "group": "にじさんじ",
           "metrics": {
-            "attentionPoints": 1789704,
-            "officialViewGain": 1789704,
+            "attentionPoints": 1789767,
+            "officialViewGain": 1789767,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -1161,11 +1161,11 @@
             "liveArchiveCount": 2,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 1789704,
-            "totalLikes": 85829
+            "totalViews": 1789767,
+            "totalLikes": 85841
           },
           "creators": [],
-          "summary": "3日間の話題再生数は1,789,704回。本人動画1,789,704回、外部動画0回を確認しています。",
+          "summary": "3日間の話題再生数は1,789,767回。本人動画1,789,767回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -1177,10 +1177,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/PADUsZmvi-w/maxresdefault.jpg",
-              "views": 842860,
+              "views": 842875,
               "likes": 32484,
-              "viewGain": 842860,
-              "attributedViewGain": 842860,
+              "viewGain": 842875,
+              "attributedViewGain": 842875,
               "url": "https://www.youtube.com/watch?v=PADUsZmvi-w"
             },
             {
@@ -1192,10 +1192,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/3_NaI0FrSY4/maxresdefault.jpg",
-              "views": 757796,
-              "likes": 37437,
-              "viewGain": 757796,
-              "attributedViewGain": 757796,
+              "views": 757841,
+              "likes": 37443,
+              "viewGain": 757841,
+              "attributedViewGain": 757841,
               "url": "https://www.youtube.com/watch?v=3_NaI0FrSY4"
             },
             {
@@ -1207,10 +1207,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/TkYDmcg6pOg/maxresdefault.jpg",
-              "views": 189048,
-              "likes": 15908,
-              "viewGain": 189048,
-              "attributedViewGain": 189048,
+              "views": 189051,
+              "likes": 15914,
+              "viewGain": 189051,
+              "attributedViewGain": 189051,
               "url": "https://www.youtube.com/watch?v=TkYDmcg6pOg"
             }
           ],
@@ -1222,8 +1222,8 @@
           "name": "綺々羅々ヴィヴィ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 1553477,
-            "officialViewGain": 1552794,
+            "attentionPoints": 1553584,
+            "officialViewGain": 1552901,
             "externalViewGain": 683,
             "videoCount": 5,
             "officialVideoCount": 3,
@@ -1231,14 +1231,14 @@
             "liveArchiveCount": 2,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 1553477,
-            "totalLikes": 71975
+            "totalViews": 1553584,
+            "totalLikes": 71996
           },
           "creators": [
-            "ホロっと切り抜き",
-            "からあげサーモン"
+            "からあげサーモン",
+            "ホロっと切り抜き"
           ],
-          "summary": "3日間の話題再生数は1,553,477回。本人動画1,552,794回、外部動画683回を確認しています。",
+          "summary": "3日間の話題再生数は1,553,584回。本人動画1,552,901回、外部動画683回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -1251,7 +1251,7 @@
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/sr4BHCOmnfM/maxresdefault.jpg",
               "views": 1270,
-              "likes": 52,
+              "likes": 53,
               "viewGain": 1270,
               "attributedViewGain": 635,
               "url": "https://www.youtube.com/watch?v=sr4BHCOmnfM"
@@ -1265,9 +1265,9 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 95,
+              "viewGain": 96,
               "attributedViewGain": 48,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
@@ -1280,10 +1280,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/SXV7h2XVGoU/maxresdefault.jpg",
-              "views": 934368,
-              "likes": 51259,
-              "viewGain": 934368,
-              "attributedViewGain": 934368,
+              "views": 934417,
+              "likes": 51278,
+              "viewGain": 934417,
+              "attributedViewGain": 934417,
               "url": "https://www.youtube.com/watch?v=SXV7h2XVGoU"
             },
             {
@@ -1295,10 +1295,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/dJLYRQ-6UyM/maxresdefault.jpg",
-              "views": 319430,
-              "likes": 9461,
-              "viewGain": 319430,
-              "attributedViewGain": 319430,
+              "views": 319488,
+              "likes": 9462,
+              "viewGain": 319488,
+              "attributedViewGain": 319488,
               "url": "https://www.youtube.com/watch?v=dJLYRQ-6UyM"
             },
             {
@@ -1325,23 +1325,23 @@
           "name": "星街すいせい",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 1497315,
-            "officialViewGain": 783221,
-            "externalViewGain": 714094,
+            "attentionPoints": 1497764,
+            "officialViewGain": 783618,
+            "externalViewGain": 714146,
             "videoCount": 5,
             "officialVideoCount": 3,
             "externalVideoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 1497315,
-            "totalLikes": 47314
+            "totalViews": 1497764,
+            "totalLikes": 47322
           },
           "creators": [
             "Suisei Channel",
             "Koseki Bijou Ch. hololive-EN"
           ],
-          "summary": "3日間の話題再生数は1,497,315回。本人動画783,221回、外部動画714,094回を確認しています。",
+          "summary": "3日間の話題再生数は1,497,764回。本人動画783,618回、外部動画714,146回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -1353,10 +1353,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/uSDtkV3PXSA/maxresdefault.jpg",
-              "views": 714092,
-              "likes": 36320,
-              "viewGain": 714092,
-              "attributedViewGain": 714092,
+              "views": 714143,
+              "likes": 36327,
+              "viewGain": 714143,
+              "attributedViewGain": 714143,
               "url": "https://www.youtube.com/watch?v=uSDtkV3PXSA"
             },
             {
@@ -1368,10 +1368,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/mnMPPEB9DcQ/maxresdefault.jpg",
-              "views": 317735,
-              "likes": 10994,
-              "viewGain": 3,
-              "attributedViewGain": 2,
+              "views": 317737,
+              "likes": 10995,
+              "viewGain": 5,
+              "attributedViewGain": 3,
               "url": "https://www.youtube.com/watch?v=mnMPPEB9DcQ"
             },
             {
@@ -1383,10 +1383,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/ot59dtL29p0/maxresdefault.jpg",
-              "views": 390827,
+              "views": 391208,
               "likes": 0,
-              "viewGain": 390827,
-              "attributedViewGain": 390827,
+              "viewGain": 391208,
+              "attributedViewGain": 391208,
               "url": "https://www.youtube.com/watch?v=ot59dtL29p0"
             },
             {
@@ -1398,10 +1398,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/nXMuntUkg94/maxresdefault.jpg",
-              "views": 261593,
+              "views": 261607,
               "likes": 0,
-              "viewGain": 261593,
-              "attributedViewGain": 261593,
+              "viewGain": 261607,
+              "attributedViewGain": 261607,
               "url": "https://www.youtube.com/watch?v=nXMuntUkg94"
             },
             {
@@ -1413,10 +1413,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/7oBIxsXV7t0/maxresdefault.jpg",
-              "views": 130801,
+              "views": 130803,
               "likes": 0,
-              "viewGain": 130801,
-              "attributedViewGain": 130801,
+              "viewGain": 130803,
+              "attributedViewGain": 130803,
               "url": "https://www.youtube.com/watch?v=7oBIxsXV7t0"
             }
           ],
@@ -1428,24 +1428,24 @@
           "name": "大空スバル",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 1314379,
-            "officialViewGain": 1313095,
-            "externalViewGain": 1284,
+            "attentionPoints": 1314527,
+            "officialViewGain": 1313231,
+            "externalViewGain": 1296,
             "videoCount": 6,
             "officialVideoCount": 3,
             "externalVideoCount": 3,
             "liveArchiveCount": 2,
             "channelCount": 4,
             "externalChannelCount": 3,
-            "totalViews": 1314379,
-            "totalLikes": 73595
+            "totalViews": 1314527,
+            "totalLikes": 73623
           },
           "creators": [
             "Miko Ch. さくらみこ",
             "かたくりこ",
             "ホロ切り抜き"
           ],
-          "summary": "3日間の話題再生数は1,314,379回。本人動画1,313,095回、外部動画1,284回を確認しています。",
+          "summary": "3日間の話題再生数は1,314,527回。本人動画1,313,231回、外部動画1,296回を確認しています。",
           "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -1457,10 +1457,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/Cke85jhUTns/maxresdefault.jpg",
-              "views": 1918,
-              "likes": 76,
-              "viewGain": 1918,
-              "attributedViewGain": 639,
+              "views": 1922,
+              "likes": 81,
+              "viewGain": 1922,
+              "attributedViewGain": 641,
               "url": "https://www.youtube.com/watch?v=Cke85jhUTns"
             },
             {
@@ -1487,10 +1487,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/d26z67psoik/maxresdefault.jpg",
-              "views": 312600,
-              "likes": 19051,
-              "viewGain": 32,
-              "attributedViewGain": 32,
+              "views": 312610,
+              "likes": 19052,
+              "viewGain": 42,
+              "attributedViewGain": 42,
               "url": "https://www.youtube.com/watch?v=d26z67psoik"
             },
             {
@@ -1502,10 +1502,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/91jQ1ktFtSI/maxresdefault.jpg",
-              "views": 631637,
-              "likes": 36812,
-              "viewGain": 631637,
-              "attributedViewGain": 631637,
+              "views": 631730,
+              "likes": 36831,
+              "viewGain": 631730,
+              "attributedViewGain": 631730,
               "url": "https://www.youtube.com/watch?v=91jQ1ktFtSI"
             },
             {
@@ -1517,10 +1517,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/git5b8w2P1M/maxresdefault.jpg",
-              "views": 443737,
+              "views": 443747,
               "likes": 9451,
-              "viewGain": 443737,
-              "attributedViewGain": 443737,
+              "viewGain": 443747,
+              "attributedViewGain": 443747,
               "url": "https://www.youtube.com/watch?v=git5b8w2P1M"
             },
             {
@@ -1532,10 +1532,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/LHmxDNYPDe8/maxresdefault.jpg",
-              "views": 237721,
-              "likes": 6880,
-              "viewGain": 237721,
-              "attributedViewGain": 237721,
+              "views": 237754,
+              "likes": 6883,
+              "viewGain": 237754,
+              "attributedViewGain": 237754,
               "url": "https://www.youtube.com/watch?v=LHmxDNYPDe8"
             }
           ],
@@ -1547,8 +1547,8 @@
           "name": "橘ひなの",
           "group": "ぶいすぽっ！",
           "metrics": {
-            "attentionPoints": 937943,
-            "officialViewGain": 937943,
+            "attentionPoints": 937948,
+            "officialViewGain": 937948,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -1556,11 +1556,11 @@
             "liveArchiveCount": 3,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 937943,
+            "totalViews": 937948,
             "totalLikes": 8229
           },
           "creators": [],
-          "summary": "3日間の話題再生数は937,943回。本人動画937,943回、外部動画0回を確認しています。",
+          "summary": "3日間の話題再生数は937,948回。本人動画937,948回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -1587,10 +1587,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/b64uW_ac8VU/maxresdefault.jpg",
-              "views": 400840,
+              "views": 400845,
               "likes": 4348,
-              "viewGain": 400840,
-              "attributedViewGain": 400840,
+              "viewGain": 400845,
+              "attributedViewGain": 400845,
               "url": "https://www.youtube.com/watch?v=b64uW_ac8VU"
             },
             {
@@ -1617,8 +1617,8 @@
           "name": "輪堂千速",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 919899,
-            "officialViewGain": 919899,
+            "attentionPoints": 920155,
+            "officialViewGain": 920155,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -1626,11 +1626,11 @@
             "liveArchiveCount": 1,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 919899,
-            "totalLikes": 28825
+            "totalViews": 920155,
+            "totalLikes": 28867
           },
           "creators": [],
-          "summary": "3日間の話題再生数は919,899回。本人動画919,899回、外部動画0回を確認しています。",
+          "summary": "3日間の話題再生数は920,155回。本人動画920,155回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -1642,10 +1642,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/EYTGVvCzlr0/maxresdefault.jpg",
-              "views": 449083,
+              "views": 449084,
               "likes": 10330,
-              "viewGain": 449083,
-              "attributedViewGain": 449083,
+              "viewGain": 449084,
+              "attributedViewGain": 449084,
               "url": "https://www.youtube.com/watch?v=EYTGVvCzlr0"
             },
             {
@@ -1657,10 +1657,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/J16c-KJM5lg/maxresdefault.jpg",
-              "views": 316557,
-              "likes": 11775,
-              "viewGain": 316557,
-              "attributedViewGain": 316557,
+              "views": 316693,
+              "likes": 11792,
+              "viewGain": 316693,
+              "attributedViewGain": 316693,
               "url": "https://www.youtube.com/watch?v=J16c-KJM5lg"
             },
             {
@@ -1672,10 +1672,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Xz7u5Lf2Ew8/maxresdefault.jpg",
-              "views": 154259,
-              "likes": 6720,
-              "viewGain": 154259,
-              "attributedViewGain": 154259,
+              "views": 154378,
+              "likes": 6745,
+              "viewGain": 154378,
+              "attributedViewGain": 154378,
               "url": "https://www.youtube.com/watch?v=Xz7u5Lf2Ew8"
             }
           ],
@@ -1687,8 +1687,8 @@
           "name": "アキ・ローゼンタール",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 827746,
-            "officialViewGain": 827746,
+            "attentionPoints": 827775,
+            "officialViewGain": 827775,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -1696,11 +1696,11 @@
             "liveArchiveCount": 3,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 827746,
-            "totalLikes": 32046
+            "totalViews": 827775,
+            "totalLikes": 32048
           },
           "creators": [],
-          "summary": "3日間の話題再生数は827,746回。本人動画827,746回、外部動画0回を確認しています。",
+          "summary": "3日間の話題再生数は827,775回。本人動画827,775回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -1712,10 +1712,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/cL8H1Kd98RY/maxresdefault.jpg",
-              "views": 394509,
-              "likes": 13310,
-              "viewGain": 394509,
-              "attributedViewGain": 394509,
+              "views": 394533,
+              "likes": 13311,
+              "viewGain": 394533,
+              "attributedViewGain": 394533,
               "url": "https://www.youtube.com/watch?v=cL8H1Kd98RY"
             },
             {
@@ -1727,10 +1727,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/OL2Yz8ouOT0/maxresdefault.jpg",
-              "views": 375887,
-              "likes": 14776,
-              "viewGain": 375887,
-              "attributedViewGain": 375887,
+              "views": 375892,
+              "likes": 14777,
+              "viewGain": 375892,
+              "attributedViewGain": 375892,
               "url": "https://www.youtube.com/watch?v=OL2Yz8ouOT0"
             },
             {
@@ -1757,8 +1757,8 @@
           "name": "博衣こより",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 794704,
-            "officialViewGain": 794704,
+            "attentionPoints": 794716,
+            "officialViewGain": 794716,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -1766,11 +1766,11 @@
             "liveArchiveCount": 3,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 794704,
-            "totalLikes": 24036
+            "totalViews": 794716,
+            "totalLikes": 24040
           },
           "creators": [],
-          "summary": "3日間の話題再生数は794,704回。本人動画794,704回、外部動画0回を確認しています。",
+          "summary": "3日間の話題再生数は794,716回。本人動画794,716回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -1782,10 +1782,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/lwLTWCM21y0/maxresdefault.jpg",
-              "views": 300152,
-              "likes": 10708,
-              "viewGain": 300152,
-              "attributedViewGain": 300152,
+              "views": 300156,
+              "likes": 10710,
+              "viewGain": 300156,
+              "attributedViewGain": 300156,
               "url": "https://www.youtube.com/watch?v=lwLTWCM21y0"
             },
             {
@@ -1797,10 +1797,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/6QivF7qiYt4/maxresdefault.jpg",
-              "views": 252790,
-              "likes": 5981,
-              "viewGain": 252790,
-              "attributedViewGain": 252790,
+              "views": 252798,
+              "likes": 5983,
+              "viewGain": 252798,
+              "attributedViewGain": 252798,
               "url": "https://www.youtube.com/watch?v=6QivF7qiYt4"
             },
             {
@@ -1831,17 +1831,17 @@
           "name": "宝鐘マリン",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 5529797,
-            "officialViewGain": 2602161,
-            "externalViewGain": 2927636,
+            "attentionPoints": 5529946,
+            "officialViewGain": 2602257,
+            "externalViewGain": 2927689,
             "videoCount": 10,
             "officialVideoCount": 3,
             "externalVideoCount": 7,
             "liveArchiveCount": 5,
             "channelCount": 6,
             "externalChannelCount": 5,
-            "totalViews": 5529797,
-            "totalLikes": 232833
+            "totalViews": 5529946,
+            "totalLikes": 232899
           },
           "creators": [
             "Koyori ch. 博衣こより - holoX -",
@@ -1850,7 +1850,7 @@
             "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
             "Marine Clips-マリン船長切り抜き-"
           ],
-          "summary": "7日間の話題再生数は5,529,797回。本人動画2,602,161回、外部動画2,927,636回を確認しています。",
+          "summary": "7日間の話題再生数は5,529,946回。本人動画2,602,257回、外部動画2,927,689回を確認しています。",
           "reason": "5件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -1862,10 +1862,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/SXV7h2XVGoU/maxresdefault.jpg",
-              "views": 934368,
-              "likes": 51259,
-              "viewGain": 934368,
-              "attributedViewGain": 934368,
+              "views": 934417,
+              "likes": 51278,
+              "viewGain": 934417,
+              "attributedViewGain": 934417,
               "url": "https://www.youtube.com/watch?v=SXV7h2XVGoU"
             },
             {
@@ -1892,10 +1892,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/cc7o8-ebFoM/maxresdefault.jpg",
-              "views": 502171,
+              "views": 502136,
               "likes": 11401,
-              "viewGain": 502171,
-              "attributedViewGain": 502171,
+              "viewGain": 502136,
+              "attributedViewGain": 502136,
               "url": "https://www.youtube.com/watch?v=cc7o8-ebFoM"
             },
             {
@@ -1922,10 +1922,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/sInzemf-tX0/maxresdefault.jpg",
-              "views": 266972,
-              "likes": 13508,
-              "viewGain": 266972,
-              "attributedViewGain": 266972,
+              "views": 267004,
+              "likes": 13515,
+              "viewGain": 267004,
+              "attributedViewGain": 267004,
               "url": "https://www.youtube.com/watch?v=sInzemf-tX0"
             },
             {
@@ -1937,10 +1937,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
-              "views": 141501,
-              "likes": 13805,
-              "viewGain": 141501,
-              "attributedViewGain": 141501,
+              "views": 141508,
+              "likes": 13807,
+              "viewGain": 141508,
+              "attributedViewGain": 141508,
               "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
             },
             {
@@ -1967,10 +1967,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/MfFYjpTS8Rc/maxresdefault.jpg",
-              "views": 948231,
-              "likes": 55415,
-              "viewGain": 948231,
-              "attributedViewGain": 948231,
+              "views": 948259,
+              "likes": 55422,
+              "viewGain": 948259,
+              "attributedViewGain": 948259,
               "url": "https://www.youtube.com/watch?v=MfFYjpTS8Rc"
             }
           ],
@@ -1982,24 +1982,24 @@
           "name": "兎田ぺこら",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 3712114,
-            "officialViewGain": 3334976,
-            "externalViewGain": 377138,
+            "attentionPoints": 3712224,
+            "officialViewGain": 3335081,
+            "externalViewGain": 377143,
             "videoCount": 6,
             "officialVideoCount": 3,
             "externalVideoCount": 3,
             "liveArchiveCount": 4,
             "channelCount": 4,
             "externalChannelCount": 3,
-            "totalViews": 3712114,
-            "totalLikes": 86648
+            "totalViews": 3712224,
+            "totalLikes": 86653
           },
           "creators": [
             "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
             "エビフライ / Ebihurai",
             "からあげサーモン"
           ],
-          "summary": "7日間の話題再生数は3,712,114回。本人動画3,334,976回、外部動画377,138回を確認しています。",
+          "summary": "7日間の話題再生数は3,712,224回。本人動画3,335,081回、外部動画377,143回を確認しています。",
           "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -2026,10 +2026,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
-              "views": 155192,
-              "likes": 4465,
-              "viewGain": 155192,
-              "attributedViewGain": 155192,
+              "views": 155196,
+              "likes": 4467,
+              "viewGain": 155196,
+              "attributedViewGain": 155196,
               "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
             },
             {
@@ -2041,10 +2041,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 75776,
-              "attributedViewGain": 37888,
+              "viewGain": 75777,
+              "attributedViewGain": 37889,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
             {
@@ -2056,10 +2056,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/36BSSfEkQr4/maxresdefault.jpg",
-              "views": 1873174,
+              "views": 1873185,
               "likes": 45470,
-              "viewGain": 1873174,
-              "attributedViewGain": 1873174,
+              "viewGain": 1873185,
+              "attributedViewGain": 1873185,
               "url": "https://www.youtube.com/watch?v=36BSSfEkQr4"
             },
             {
@@ -2071,10 +2071,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Ra1YllAVpU8/maxresdefault.jpg",
-              "views": 763234,
-              "likes": 14049,
-              "viewGain": 763234,
-              "attributedViewGain": 763234,
+              "views": 763257,
+              "likes": 14050,
+              "viewGain": 763257,
+              "attributedViewGain": 763257,
               "url": "https://www.youtube.com/watch?v=Ra1YllAVpU8"
             },
             {
@@ -2086,10 +2086,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/S3FoT8gz9yc/maxresdefault.jpg",
-              "views": 698568,
-              "likes": 13805,
-              "viewGain": 698568,
-              "attributedViewGain": 698568,
+              "views": 698639,
+              "likes": 13807,
+              "viewGain": 698639,
+              "attributedViewGain": 698639,
               "url": "https://www.youtube.com/watch?v=S3FoT8gz9yc"
             }
           ],
@@ -2101,17 +2101,17 @@
           "name": "星街すいせい",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 3153068,
-            "officialViewGain": 1600133,
-            "externalViewGain": 1552935,
+            "attentionPoints": 3153519,
+            "officialViewGain": 1600537,
+            "externalViewGain": 1552982,
             "videoCount": 7,
             "officialVideoCount": 3,
             "externalVideoCount": 4,
             "liveArchiveCount": 5,
             "channelCount": 5,
             "externalChannelCount": 4,
-            "totalViews": 3153068,
-            "totalLikes": 61541
+            "totalViews": 3153519,
+            "totalLikes": 61549
           },
           "creators": [
             "Suisei Channel",
@@ -2119,7 +2119,7 @@
             "Koseki Bijou Ch. hololive-EN",
             "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW"
           ],
-          "summary": "7日間の話題再生数は3,153,068回。本人動画1,600,133回、外部動画1,552,935回を確認しています。",
+          "summary": "7日間の話題再生数は3,153,519回。本人動画1,600,537回、外部動画1,552,982回を確認しています。",
           "reason": "4件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -2131,10 +2131,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/uSDtkV3PXSA/maxresdefault.jpg",
-              "views": 714092,
-              "likes": 36320,
-              "viewGain": 714092,
-              "attributedViewGain": 714092,
+              "views": 714143,
+              "likes": 36327,
+              "viewGain": 714143,
+              "attributedViewGain": 714143,
               "url": "https://www.youtube.com/watch?v=uSDtkV3PXSA"
             },
             {
@@ -2161,10 +2161,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/qHC9c62GCpc/maxresdefault.jpg",
-              "views": 310043,
+              "views": 310038,
               "likes": 7329,
-              "viewGain": 310043,
-              "attributedViewGain": 310043,
+              "viewGain": 310038,
+              "attributedViewGain": 310038,
               "url": "https://www.youtube.com/watch?v=qHC9c62GCpc"
             },
             {
@@ -2176,10 +2176,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/mnMPPEB9DcQ/maxresdefault.jpg",
-              "views": 317735,
-              "likes": 10994,
-              "viewGain": 317735,
-              "attributedViewGain": 158868,
+              "views": 317737,
+              "likes": 10995,
+              "viewGain": 317737,
+              "attributedViewGain": 158869,
               "url": "https://www.youtube.com/watch?v=mnMPPEB9DcQ"
             },
             {
@@ -2191,10 +2191,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Wa8ZX0i_LPw/maxresdefault.jpg",
-              "views": 947713,
+              "views": 947722,
               "likes": 0,
-              "viewGain": 947713,
-              "attributedViewGain": 947713,
+              "viewGain": 947722,
+              "attributedViewGain": 947722,
               "url": "https://www.youtube.com/watch?v=Wa8ZX0i_LPw"
             },
             {
@@ -2206,10 +2206,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/ot59dtL29p0/maxresdefault.jpg",
-              "views": 390827,
+              "views": 391208,
               "likes": 0,
-              "viewGain": 390827,
-              "attributedViewGain": 390827,
+              "viewGain": 391208,
+              "attributedViewGain": 391208,
               "url": "https://www.youtube.com/watch?v=ot59dtL29p0"
             },
             {
@@ -2221,10 +2221,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/nXMuntUkg94/maxresdefault.jpg",
-              "views": 261593,
+              "views": 261607,
               "likes": 0,
-              "viewGain": 261593,
-              "attributedViewGain": 261593,
+              "viewGain": 261607,
+              "attributedViewGain": 261607,
               "url": "https://www.youtube.com/watch?v=nXMuntUkg94"
             }
           ],
@@ -2236,23 +2236,23 @@
           "name": "綺々羅々ヴィヴィ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 2885781,
-            "officialViewGain": 2847258,
-            "externalViewGain": 38523,
+            "attentionPoints": 2885843,
+            "officialViewGain": 2847319,
+            "externalViewGain": 38524,
             "videoCount": 5,
             "officialVideoCount": 3,
             "externalVideoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 3,
             "externalChannelCount": 2,
-            "totalViews": 2885781,
-            "totalLikes": 116741
+            "totalViews": 2885843,
+            "totalLikes": 116766
           },
           "creators": [
-            "ホロっと切り抜き",
-            "からあげサーモン"
+            "からあげサーモン",
+            "ホロっと切り抜き"
           ],
-          "summary": "7日間の話題再生数は2,885,781回。本人動画2,847,258回、外部動画38,523回を確認しています。",
+          "summary": "7日間の話題再生数は2,885,843回。本人動画2,847,319回、外部動画38,524回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -2264,10 +2264,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
-              "views": 75776,
+              "views": 75777,
               "likes": 1945,
-              "viewGain": 75776,
-              "attributedViewGain": 37888,
+              "viewGain": 75777,
+              "attributedViewGain": 37889,
               "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
             },
             {
@@ -2280,7 +2280,7 @@
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/sr4BHCOmnfM/maxresdefault.jpg",
               "views": 1270,
-              "likes": 52,
+              "likes": 53,
               "viewGain": 1270,
               "attributedViewGain": 635,
               "url": "https://www.youtube.com/watch?v=sr4BHCOmnfM"
@@ -2294,10 +2294,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/1WDHebAydJ4/maxresdefault.jpg",
-              "views": 1321152,
-              "likes": 51800,
-              "viewGain": 1321152,
-              "attributedViewGain": 1321152,
+              "views": 1321164,
+              "likes": 51805,
+              "viewGain": 1321164,
+              "attributedViewGain": 1321164,
               "url": "https://www.youtube.com/watch?v=1WDHebAydJ4"
             },
             {
@@ -2309,10 +2309,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/SXV7h2XVGoU/maxresdefault.jpg",
-              "views": 934368,
-              "likes": 51259,
-              "viewGain": 934368,
-              "attributedViewGain": 934368,
+              "views": 934417,
+              "likes": 51278,
+              "viewGain": 934417,
+              "attributedViewGain": 934417,
               "url": "https://www.youtube.com/watch?v=SXV7h2XVGoU"
             },
             {
@@ -2339,24 +2339,24 @@
           "name": "大空スバル",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 2601756,
-            "officialViewGain": 2220749,
-            "externalViewGain": 381007,
+            "attentionPoints": 2601870,
+            "officialViewGain": 2220851,
+            "externalViewGain": 381019,
             "videoCount": 6,
             "officialVideoCount": 3,
             "externalVideoCount": 3,
             "liveArchiveCount": 2,
             "channelCount": 4,
             "externalChannelCount": 3,
-            "totalViews": 2601756,
-            "totalLikes": 77939
+            "totalViews": 2601870,
+            "totalLikes": 77964
           },
           "creators": [
             "Miko Ch. さくらみこ",
             "かたくりこ",
             "ホロ切り抜き"
           ],
-          "summary": "7日間の話題再生数は2,601,756回。本人動画2,220,749回、外部動画381,007回を確認しています。",
+          "summary": "7日間の話題再生数は2,601,870回。本人動画2,220,851回、外部動画381,019回を確認しています。",
           "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
@@ -2368,10 +2368,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/d26z67psoik/maxresdefault.jpg",
-              "views": 312600,
-              "likes": 19051,
-              "viewGain": 312600,
-              "attributedViewGain": 312600,
+              "views": 312610,
+              "likes": 19052,
+              "viewGain": 312610,
+              "attributedViewGain": 312610,
               "url": "https://www.youtube.com/watch?v=d26z67psoik"
             },
             {
@@ -2398,10 +2398,10 @@
               "isOfficial": false,
               "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/Cke85jhUTns/maxresdefault.jpg",
-              "views": 1918,
-              "likes": 76,
-              "viewGain": 1918,
-              "attributedViewGain": 639,
+              "views": 1922,
+              "likes": 81,
+              "viewGain": 1922,
+              "attributedViewGain": 641,
               "url": "https://www.youtube.com/watch?v=Cke85jhUTns"
             },
             {
@@ -2428,10 +2428,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/4a_TgDZpYNM/maxresdefault.jpg",
-              "views": 781201,
+              "views": 781210,
               "likes": 10023,
-              "viewGain": 781201,
-              "attributedViewGain": 781201,
+              "viewGain": 781210,
+              "attributedViewGain": 781210,
               "url": "https://www.youtube.com/watch?v=4a_TgDZpYNM"
             },
             {
@@ -2443,10 +2443,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/91jQ1ktFtSI/maxresdefault.jpg",
-              "views": 631637,
-              "likes": 36812,
-              "viewGain": 631637,
-              "attributedViewGain": 631637,
+              "views": 631730,
+              "likes": 36831,
+              "viewGain": 631730,
+              "attributedViewGain": 631730,
               "url": "https://www.youtube.com/watch?v=91jQ1ktFtSI"
             }
           ],
@@ -2458,8 +2458,8 @@
           "name": "さくらみこ",
           "group": "ホロライブ",
           "metrics": {
-            "attentionPoints": 2471851,
-            "officialViewGain": 2430146,
+            "attentionPoints": 2471882,
+            "officialViewGain": 2430177,
             "externalViewGain": 41705,
             "videoCount": 4,
             "officialVideoCount": 3,
@@ -2467,13 +2467,13 @@
             "liveArchiveCount": 2,
             "channelCount": 2,
             "externalChannelCount": 1,
-            "totalViews": 2471851,
-            "totalLikes": 76347
+            "totalViews": 2471882,
+            "totalLikes": 76355
           },
           "creators": [
             "Polka Ch. 尾丸ポルカ"
           ],
-          "summary": "7日間の話題再生数は2,471,851回。本人動画2,430,146回、外部動画41,705回を確認しています。",
+          "summary": "7日間の話題再生数は2,471,882回。本人動画2,430,177回、外部動画41,705回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -2486,7 +2486,7 @@
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/wfpD00n5dvQ/maxresdefault.jpg",
               "views": 41705,
-              "likes": 5565,
+              "likes": 5567,
               "viewGain": 41705,
               "attributedViewGain": 41705,
               "url": "https://www.youtube.com/watch?v=wfpD00n5dvQ"
@@ -2500,10 +2500,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/YIgjuwJSCtA/maxresdefault.jpg",
-              "views": 1182939,
-              "likes": 41854,
-              "viewGain": 1182939,
-              "attributedViewGain": 1182939,
+              "views": 1182965,
+              "likes": 41861,
+              "viewGain": 1182965,
+              "attributedViewGain": 1182965,
               "url": "https://www.youtube.com/watch?v=YIgjuwJSCtA"
             },
             {
@@ -2515,10 +2515,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/03T6NhJ9u-I/maxresdefault.jpg",
-              "views": 749357,
-              "likes": 17406,
-              "viewGain": 749357,
-              "attributedViewGain": 749357,
+              "views": 749362,
+              "likes": 17405,
+              "viewGain": 749362,
+              "attributedViewGain": 749362,
               "url": "https://www.youtube.com/watch?v=03T6NhJ9u-I"
             },
             {
@@ -2545,8 +2545,8 @@
           "name": "剣持刀也",
           "group": "にじさんじ",
           "metrics": {
-            "attentionPoints": 2255860,
-            "officialViewGain": 2255860,
+            "attentionPoints": 2255904,
+            "officialViewGain": 2255904,
             "externalViewGain": 0,
             "videoCount": 2,
             "officialVideoCount": 2,
@@ -2554,11 +2554,11 @@
             "liveArchiveCount": 0,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 2255860,
-            "totalLikes": 135914
+            "totalViews": 2255904,
+            "totalLikes": 135938
           },
           "creators": [],
-          "summary": "7日間の話題再生数は2,255,860回。本人動画2,255,860回、外部動画0回を確認しています。",
+          "summary": "7日間の話題再生数は2,255,904回。本人動画2,255,904回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -2570,10 +2570,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/fatWMgzETEw/maxresdefault.jpg",
-              "views": 1933361,
-              "likes": 108764,
-              "viewGain": 1933361,
-              "attributedViewGain": 1933361,
+              "views": 1933391,
+              "likes": 108781,
+              "viewGain": 1933391,
+              "attributedViewGain": 1933391,
               "url": "https://www.youtube.com/watch?v=fatWMgzETEw"
             },
             {
@@ -2585,10 +2585,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/BZahBDuJZF8/maxresdefault.jpg",
-              "views": 322499,
-              "likes": 27150,
-              "viewGain": 322499,
-              "attributedViewGain": 322499,
+              "views": 322513,
+              "likes": 27157,
+              "viewGain": 322513,
+              "attributedViewGain": 322513,
               "url": "https://www.youtube.com/watch?v=BZahBDuJZF8"
             }
           ],
@@ -2600,8 +2600,8 @@
           "name": "不破湊",
           "group": "にじさんじ",
           "metrics": {
-            "attentionPoints": 1831310,
-            "officialViewGain": 1831310,
+            "attentionPoints": 1831370,
+            "officialViewGain": 1831370,
             "externalViewGain": 0,
             "videoCount": 3,
             "officialVideoCount": 3,
@@ -2609,11 +2609,11 @@
             "liveArchiveCount": 3,
             "channelCount": 1,
             "externalChannelCount": 0,
-            "totalViews": 1831310,
-            "totalLikes": 75440
+            "totalViews": 1831370,
+            "totalLikes": 75446
           },
           "creators": [],
-          "summary": "7日間の話題再生数は1,831,310回。本人動画1,831,310回、外部動画0回を確認しています。",
+          "summary": "7日間の話題再生数は1,831,370回。本人動画1,831,370回、外部動画0回を確認しています。",
           "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
@@ -2625,10 +2625,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/PADUsZmvi-w/maxresdefault.jpg",
-              "views": 842860,
+              "views": 842875,
               "likes": 32484,
-              "viewGain": 842860,
-              "attributedViewGain": 842860,
+              "viewGain": 842875,
+              "attributedViewGain": 842875,
               "url": "https://www.youtube.com/watch?v=PADUsZmvi-w"
             },
             {
@@ -2640,10 +2640,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/3_NaI0FrSY4/maxresdefault.jpg",
-              "views": 757796,
-              "likes": 37437,
-              "viewGain": 757796,
-              "attributedViewGain": 757796,
+              "views": 757841,
+              "likes": 37443,
+              "viewGain": 757841,
+              "attributedViewGain": 757841,
               "url": "https://www.youtube.com/watch?v=3_NaI0FrSY4"
             },
             {
@@ -2740,22 +2740,22 @@
           "name": "FUWAMOCO",
           "group": "ホロライブEN",
           "metrics": {
-            "attentionPoints": 1566957,
-            "officialViewGain": 1408089,
-            "externalViewGain": 158868,
+            "attentionPoints": 1566959,
+            "officialViewGain": 1408090,
+            "externalViewGain": 158869,
             "videoCount": 4,
             "officialVideoCount": 3,
             "externalVideoCount": 1,
             "liveArchiveCount": 4,
             "channelCount": 2,
             "externalChannelCount": 1,
-            "totalViews": 1566957,
-            "totalLikes": 65855
+            "totalViews": 1566959,
+            "totalLikes": 65857
           },
           "creators": [
             "Koseki Bijou Ch. hololive-EN"
           ],
-          "summary": "7日間の話題再生数は1,566,957回。本人動画1,408,089回、外部動画158,868回を確認しています。",
+          "summary": "7日間の話題再生数は1,566,959回。本人動画1,408,090回、外部動画158,869回を確認しています。",
           "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
@@ -2767,10 +2767,10 @@
               "isOfficial": false,
               "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/mnMPPEB9DcQ/maxresdefault.jpg",
-              "views": 317735,
-              "likes": 10994,
-              "viewGain": 317735,
-              "attributedViewGain": 158868,
+              "views": 317737,
+              "likes": 10995,
+              "viewGain": 317737,
+              "attributedViewGain": 158869,
               "url": "https://www.youtube.com/watch?v=mnMPPEB9DcQ"
             },
             {
@@ -2782,10 +2782,10 @@
               "isOfficial": true,
               "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/Pd1rwtbxO6A/maxresdefault.jpg",
-              "views": 749856,
-              "likes": 36859,
-              "viewGain": 749856,
-              "attributedViewGain": 749856,
+              "views": 749857,
+              "likes": 36860,
+              "viewGain": 749857,
+              "attributedViewGain": 749857,
               "url": "https://www.youtube.com/watch?v=Pd1rwtbxO6A"
             },
             {
