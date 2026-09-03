@@ -1,82 +1,145 @@
 {
   "schemaVersion": 1,
   "status": "ok",
-  "generatedAt": "2026-09-02T22:41:39.805Z",
+  "generatedAt": "2026-09-03T04:24:23.323Z",
   "regionCode": "JP",
   "language": "ja",
   "message": "",
   "methodology": {
     "source": "YouTube Data API v3",
     "category": "VTuber",
+    "rankingMetric": "viewGain",
     "windowsHours": [
       24,
       72,
       168
     ],
-    "scoreFactors": [
-      "videoCount",
-      "liveArchives",
-      "viewVelocity",
-      "views",
-      "likes",
-      "freshness"
+    "sourceTypes": [
+      "official",
+      "clip",
+      "news",
+      "commentary",
+      "external"
     ],
-    "identityFilter": "channelProfile",
+    "multiEntityAllocation": "equalShare",
+    "maxVideosPerSourceChannel": 3,
+    "entityCount": 63,
     "candidateLimit": 100,
     "searchCallsPerRun": 4
   },
   "coverage": {
     "candidateVideos": 100,
-    "matchedVideos": 40,
-    "uniqueChannels": 33
+    "trackedVideos": 100,
+    "matchedVideos": 68,
+    "externalVideos": 27,
+    "uniqueChannels": 58,
+    "matchedEntities": 62
   },
   "windows": {
     "24": {
       "rankings": [
         {
-          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
-          "name": "豹矢りいす / 日常ch",
+          "id": "UCspv01oxUFf_MTSipURRhkA",
+          "name": "叶",
+          "group": "にじさんじ",
           "metrics": {
+            "attentionPoints": 14262,
+            "officialViewGain": 0,
+            "externalViewGain": 14262,
             "videoCount": 1,
-            "liveArchiveCount": 1,
+            "officialVideoCount": 0,
+            "externalVideoCount": 1,
+            "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 18304,
-            "totalLikes": 396,
-            "viewVelocity": 1996
+            "externalChannelCount": 1,
+            "totalViews": 14262,
+            "totalLikes": 357
           },
-          "creators": [],
-          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計18,304回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "V宝庫"
+          ],
+          "summary": "24時間の話題再生数は14,262回。本人動画0回、外部動画14,262回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
           "sources": [
             {
-              "videoId": "Bn6q6cRO1PA",
-              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
-              "channelTitle": "豹矢りいす / 日常ch",
-              "publishedAt": "2026-09-02T13:31:25.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
-              "views": 18304,
-              "likes": 396,
-              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
+              "videoId": "x_21_wCGPQo",
+              "title": "綺麗な神楽めあ #神楽めあ  #叶 #shorts",
+              "channelTitle": "V宝庫",
+              "publishedAt": "2026-09-02T20:55:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/x_21_wCGPQo/maxresdefault.jpg",
+              "views": 28523,
+              "likes": 357,
+              "viewGain": 28523,
+              "attributedViewGain": 14262,
+              "url": "https://www.youtube.com/watch?v=x_21_wCGPQo"
             }
           ],
           "rank": 1,
           "score": 100
         },
         {
-          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
-          "name": "春水レイ / Shunsui Rei",
+          "id": "UCSld_0sQQ8HG38yEaK_LqMA",
+          "name": "V宝庫",
+          "group": "",
           "metrics": {
+            "attentionPoints": 14262,
+            "officialViewGain": 14262,
+            "externalViewGain": 0,
             "videoCount": 1,
-            "liveArchiveCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 11007,
-            "totalLikes": 162,
-            "viewVelocity": 1459
+            "externalChannelCount": 0,
+            "totalViews": 14262,
+            "totalLikes": 357
           },
           "creators": [],
-          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計11,007回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "24時間の話題再生数は14,262回。本人動画14,262回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "x_21_wCGPQo",
+              "title": "綺麗な神楽めあ #神楽めあ  #叶 #shorts",
+              "channelTitle": "V宝庫",
+              "publishedAt": "2026-09-02T20:55:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/x_21_wCGPQo/maxresdefault.jpg",
+              "views": 28523,
+              "likes": 357,
+              "viewGain": 28523,
+              "attributedViewGain": 14262,
+              "url": "https://www.youtube.com/watch?v=x_21_wCGPQo"
+            }
+          ],
+          "rank": 2,
+          "score": 100
+        },
+        {
+          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
+          "name": "春水レイ",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 11989,
+            "officialViewGain": 11989,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 11989,
+            "totalLikes": 169
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は11,989回。本人動画11,989回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
               "videoId": "nj7ML4XyssY",
@@ -84,29 +147,254 @@
               "channelTitle": "春水レイ / Shunsui Rei",
               "publishedAt": "2026-09-02T15:08:57.000Z",
               "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/nj7ML4XyssY/maxresdefault.jpg",
-              "views": 11007,
-              "likes": 162,
+              "views": 11989,
+              "likes": 169,
+              "viewGain": 11989,
+              "attributedViewGain": 11989,
               "url": "https://www.youtube.com/watch?v=nj7ML4XyssY"
             }
           ],
-          "rank": 2,
-          "score": 97
+          "rank": 3,
+          "score": 84
+        },
+        {
+          "id": "UCGClS0TVxAQn_lWU7XladIw",
+          "name": "Chelzor The Destroyer",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 8764,
+            "officialViewGain": 8764,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 8764,
+            "totalLikes": 610
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は8,764回。本人動画8,764回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "jbfLoqoQL4c",
+              "title": "\"I'm Gonna Bite Daddy\"  #chelzor #vtuber #clips #outofcontext",
+              "channelTitle": "Chelzor The Destroyer",
+              "publishedAt": "2026-09-02T17:00:37.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/jbfLoqoQL4c/maxresdefault.jpg",
+              "views": 8764,
+              "likes": 610,
+              "viewGain": 8764,
+              "attributedViewGain": 8764,
+              "url": "https://www.youtube.com/watch?v=jbfLoqoQL4c"
+            }
+          ],
+          "rank": 4,
+          "score": 61
+        },
+        {
+          "id": "UCpUQWXUl2axKXQF1wOFZu1Q",
+          "name": "稲荷華奈",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 5270,
+            "officialViewGain": 5270,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 5270,
+            "totalLikes": 175
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は5,270回。本人動画5,270回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "e4VnYV_h3zw",
+              "title": "【大切なお知らせ】今後の活動に関するおはなし🦊※活動終了は回避したい【#VTuber】【#稲荷華奈】",
+              "channelTitle": "稲荷華奈",
+              "publishedAt": "2026-09-02T12:22:15.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/e4VnYV_h3zw/maxresdefault.jpg",
+              "views": 5270,
+              "likes": 175,
+              "viewGain": 5270,
+              "attributedViewGain": 5270,
+              "url": "https://www.youtube.com/watch?v=e4VnYV_h3zw"
+            }
+          ],
+          "rank": 5,
+          "score": 37
+        },
+        {
+          "id": "UCqcMC9ilIVNgjYrxkvXCrKw",
+          "name": "藍覇 - Aiha channel",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 2922,
+            "officialViewGain": 2922,
+            "externalViewGain": 0,
+            "videoCount": 2,
+            "officialVideoCount": 2,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 2922,
+            "totalLikes": 44
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は2,922回。本人動画2,922回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "s7Wjq0gQq6o",
+              "title": "【第五人格】vsオペラ歌手 神すぎる瞬間移動止めタックルが決まった！！【1位】#shorts #第五人格 #アイデンティティv #identityv #제5인격 #ゲーム実況 #切り抜き",
+              "channelTitle": "藍覇 - Aiha channel  【vtuber】",
+              "publishedAt": "2026-09-02T22:00:26.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/s7Wjq0gQq6o/maxresdefault.jpg",
+              "views": 1894,
+              "likes": 21,
+              "viewGain": 1894,
+              "attributedViewGain": 1894,
+              "url": "https://www.youtube.com/watch?v=s7Wjq0gQq6o"
+            },
+            {
+              "videoId": "yUDty_M_FiM",
+              "title": "【第五人格】vsハスター このバグマジで爆笑しちゃうｗｗｗ【1位】#shorts #第五人格 #アイデンティティv #identityv #제5인격 #ゲーム実況 #切り抜き",
+              "channelTitle": "藍覇 - Aiha channel  【vtuber】",
+              "publishedAt": "2026-09-03T03:00:28.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/yUDty_M_FiM/maxresdefault.jpg",
+              "views": 1028,
+              "likes": 23,
+              "viewGain": 1028,
+              "attributedViewGain": 1028,
+              "url": "https://www.youtube.com/watch?v=yUDty_M_FiM"
+            }
+          ],
+          "rank": 6,
+          "score": 20
+        },
+        {
+          "id": "UCpM2F6QP7kr69fnRUk_OO4A",
+          "name": "尾手またび　Ote matabi",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 2101,
+            "officialViewGain": 2101,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 2101,
+            "totalLikes": 57
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は2,101回。本人動画2,101回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "lacZX4QiGuI",
+              "title": "【 #パルワールド 】だから私はパルじゃないって！(ｎ回目)【 尾手またび /3dPLAYce 】#vtuber #palworld",
+              "channelTitle": "尾手またび　Ote matabi",
+              "publishedAt": "2026-09-02T22:45:49.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/lacZX4QiGuI/maxresdefault.jpg",
+              "views": 2101,
+              "likes": 57,
+              "viewGain": 2101,
+              "attributedViewGain": 2101,
+              "url": "https://www.youtube.com/watch?v=lacZX4QiGuI"
+            }
+          ],
+          "rank": 7,
+          "score": 15
+        },
+        {
+          "id": "UCbom6gPrA94PlwJbbAZHK8g",
+          "name": "Essi",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 1941,
+            "officialViewGain": 1941,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 1941,
+            "totalLikes": 122
+          },
+          "creators": [],
+          "summary": "24時間の話題再生数は1,941回。本人動画1,941回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "Rog7A6aOKuA",
+              "title": "YOU CAN BOWL?! 🤣🤣🤣 #reaction #vtuber #moments",
+              "channelTitle": "Essi",
+              "publishedAt": "2026-09-02T20:00:30.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/Rog7A6aOKuA/maxresdefault.jpg",
+              "views": 1941,
+              "likes": 122,
+              "viewGain": 1941,
+              "attributedViewGain": 1941,
+              "url": "https://www.youtube.com/watch?v=Rog7A6aOKuA"
+            }
+          ],
+          "rank": 8,
+          "score": 14
         },
         {
           "id": "UChCYWZOpBnp8-6dFhPC5USg",
-          "name": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
+          "name": "猫本にゃこちゃんねる",
+          "group": "",
           "metrics": {
+            "attentionPoints": 1901,
+            "officialViewGain": 1901,
+            "externalViewGain": 0,
             "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 1848,
-            "totalLikes": 37,
-            "viewVelocity": 254
+            "externalChannelCount": 0,
+            "totalViews": 1901,
+            "totalLikes": 37
           },
           "creators": [],
-          "summary": "24時間で関連動画1本、うち1本が終了済みライブ。合計1,848回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "24時間の話題再生数は1,901回。本人動画1,901回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
               "videoId": "c3igsp7bk9s",
@@ -114,215 +402,214 @@
               "channelTitle": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
               "publishedAt": "2026-09-02T15:24:17.000Z",
               "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
-              "views": 1848,
+              "views": 1901,
               "likes": 37,
+              "viewGain": 1901,
+              "attributedViewGain": 1901,
               "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
             }
           ],
-          "rank": 3,
-          "score": 82
+          "rank": 9,
+          "score": 13
         },
         {
-          "id": "UCfnlZsd6RDC36OclV-5Kn1g",
-          "name": "星の子 スピネル",
+          "id": "UCzHiiP2r1zyTr8A1-6HtQtw",
+          "name": "山田龍一郎",
+          "group": "",
           "metrics": {
+            "attentionPoints": 1468,
+            "officialViewGain": 0,
+            "externalViewGain": 1468,
             "videoCount": 1,
+            "officialVideoCount": 0,
+            "externalVideoCount": 1,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 4415,
-            "totalLikes": 63,
-            "viewVelocity": 193
+            "externalChannelCount": 1,
+            "totalViews": 1468,
+            "totalLikes": 58
           },
-          "creators": [],
-          "summary": "24時間で関連動画1本。合計4,415回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "ぺんぎんのにじさんじ切り抜き"
+          ],
+          "summary": "24時間の話題再生数は1,468回。本人動画0回、外部動画1,468回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
           "sources": [
             {
-              "videoId": "cgCyKScLk-c",
-              "title": "エクチケきちゃ!!!!#vtuber#バーチャル#Youtuber#シャドウバース#シャドバ#シャドバWB#バズれ #切り抜き #shadowversewb",
-              "channelTitle": "星の子 スピネル",
-              "publishedAt": "2026-09-01T23:49:05.000Z",
+              "videoId": "8WYOrWjMq28",
+              "title": "ハオ山田【#切り抜き #山田龍一郎 】 #vtuber #新人vtuber",
+              "channelTitle": "ぺんぎんのにじさんじ切り抜き",
+              "publishedAt": "2026-09-02T22:00:02.000Z",
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
-              "views": 4415,
-              "likes": 63,
-              "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/8WYOrWjMq28/maxresdefault.jpg",
+              "views": 1468,
+              "likes": 58,
+              "viewGain": 1468,
+              "attributedViewGain": 1468,
+              "url": "https://www.youtube.com/watch?v=8WYOrWjMq28"
             }
           ],
-          "rank": 4,
-          "score": 75
-        },
-        {
-          "id": "UC-Hbn_VjsGLMy7_QgyjXFOg",
-          "name": "描田れん / KakitaRen",
-          "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 69,
-            "totalLikes": 7,
-            "viewVelocity": 8
-          },
-          "creators": [],
-          "summary": "24時間で関連動画2本、うち1本が終了済みライブ。合計69回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "ne8xfZDGPKQ",
-              "title": "【めっちゃカメレオン】イラストレーターなら上手く隠れられるはず【VTuber】【描田れん】",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T15:16:29.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ne8xfZDGPKQ/maxresdefault.jpg",
-              "views": 59,
-              "likes": 6,
-              "url": "https://www.youtube.com/watch?v=ne8xfZDGPKQ"
-            },
-            {
-              "videoId": "Qt_yCEEOhJk",
-              "title": "料理中に起こった悲劇2",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T00:15:23.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Qt_yCEEOhJk/maxresdefault.jpg",
-              "views": 10,
-              "likes": 1,
-              "url": "https://www.youtube.com/watch?v=Qt_yCEEOhJk"
-            }
-          ],
-          "rank": 5,
-          "score": 67
-        },
-        {
-          "id": "UCp_fE5n7_1WpYvhZF5Q_Y3w",
-          "name": "薄明 綺霄 / Hakume Isora",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 882,
-            "totalLikes": 4,
-            "viewVelocity": 65
-          },
-          "creators": [],
-          "summary": "24時間で関連動画1本。合計882回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "u2zT6Y9tP9U",
-              "title": "【スーパーダンガンロンパ2】未亡人感溢れる狛枝(弱った狂人の姿)に大興奮する人外Vtuber #バーチャルyoutuber #人外vtuber #スーパーダンガンロンパ2",
-              "channelTitle": "薄明 綺霄 / Hakume Isora",
-              "publishedAt": "2026-09-02T09:05:31.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/u2zT6Y9tP9U/maxresdefault.jpg",
-              "views": 882,
-              "likes": 4,
-              "url": "https://www.youtube.com/watch?v=u2zT6Y9tP9U"
-            }
-          ],
-          "rank": 6,
-          "score": 64
-        },
-        {
-          "id": "UCoBzW_LVIQvsxT7TsKYqY2A",
-          "name": "揺蕩もあれ",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 220,
-            "totalLikes": 0,
-            "viewVelocity": 41
-          },
-          "creators": [],
-          "summary": "24時間で関連動画1本。合計220回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "hZoBE3TEmQ8",
-              "title": "幻想小説紹介『もうひとつの街』 #vtuber #バーチャルyoutuber #本 #小説",
-              "channelTitle": "揺蕩もあれ",
-              "publishedAt": "2026-09-02T17:20:41.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/hZoBE3TEmQ8/maxresdefault.jpg",
-              "views": 220,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=hZoBE3TEmQ8"
-            }
-          ],
-          "rank": 7,
-          "score": 59
+          "rank": 10,
+          "score": 10
         }
       ]
     },
     "72": {
       "rankings": [
         {
-          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
-          "name": "春水レイ / Shunsui Rei",
+          "id": "UCspv01oxUFf_MTSipURRhkA",
+          "name": "叶",
+          "group": "にじさんじ",
           "metrics": {
+            "attentionPoints": 230114,
+            "officialViewGain": 215852,
+            "externalViewGain": 14262,
             "videoCount": 2,
-            "liveArchiveCount": 2,
-            "channelCount": 1,
-            "totalViews": 23886,
-            "totalLikes": 382,
-            "viewVelocity": 1852
+            "officialVideoCount": 1,
+            "externalVideoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 2,
+            "externalChannelCount": 1,
+            "totalViews": 230114,
+            "totalLikes": 357
           },
-          "creators": [],
-          "summary": "3日間で関連動画2本、うち2本が終了済みライブ。合計23,886回再生の反応を確認しています。",
-          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
+          "creators": [
+            "V宝庫"
+          ],
+          "summary": "3日間の話題再生数は230,114回。本人動画215,852回、外部動画14,262回を確認しています。",
+          "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
             {
-              "videoId": "nj7ML4XyssY",
-              "title": "【エンドフィールド】ティフォン履修→ティフォロスキャラスト！【アークナイツ：エンドフィールド/Vtuber/春水レイ】",
-              "channelTitle": "春水レイ / Shunsui Rei",
-              "publishedAt": "2026-09-02T15:08:57.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/nj7ML4XyssY/maxresdefault.jpg",
-              "views": 11007,
-              "likes": 162,
-              "url": "https://www.youtube.com/watch?v=nj7ML4XyssY"
+              "videoId": "x_21_wCGPQo",
+              "title": "綺麗な神楽めあ #神楽めあ  #叶 #shorts",
+              "channelTitle": "V宝庫",
+              "publishedAt": "2026-09-02T20:55:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/x_21_wCGPQo/maxresdefault.jpg",
+              "views": 28523,
+              "likes": 357,
+              "viewGain": 28523,
+              "attributedViewGain": 14262,
+              "url": "https://www.youtube.com/watch?v=x_21_wCGPQo"
             },
             {
-              "videoId": "nvcw79nO2AU",
-              "title": "【アークナイツ】ティフォロスに向け！サーミを知ろうの回【エンドフィールド/Vtuber/春水レイ】",
-              "channelTitle": "春水レイ / Shunsui Rei",
-              "publishedAt": "2026-09-01T13:57:26.000Z",
+              "videoId": "A_c4fCETecs",
+              "title": "#1 錬金術を作る工場・・？なのか？  | Alchemy Factory【にじさんじ/叶】",
+              "channelTitle": "Kanae Channel",
+              "publishedAt": "2026-09-01T12:47:39.000Z",
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/nvcw79nO2AU/maxresdefault.jpg",
-              "views": 12879,
-              "likes": 220,
-              "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/A_c4fCETecs/maxresdefault.jpg",
+              "views": 215852,
+              "likes": 0,
+              "viewGain": 215852,
+              "attributedViewGain": 215852,
+              "url": "https://www.youtube.com/watch?v=A_c4fCETecs"
             }
           ],
           "rank": 1,
           "score": 100
         },
         {
-          "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-          "name": "Koyori ch. 博衣こより - holoX -",
+          "id": "UCo2ooegVFJdWmqAydVMpFEA",
+          "name": "兎に角ぴりか",
+          "group": "",
           "metrics": {
-            "videoCount": 2,
+            "attentionPoints": 64893,
+            "officialViewGain": 64893,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 81650,
-            "totalLikes": 8820,
-            "viewVelocity": 1830
+            "externalChannelCount": 0,
+            "totalViews": 64893,
+            "totalLikes": 708
           },
           "creators": [],
-          "summary": "3日間で関連動画2本。合計81,650回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "3日間の話題再生数は64,893回。本人動画64,893回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
+            {
+              "videoId": "VSUnUn_bH6w",
+              "title": "【育成論】ついにZメガシンカが来た！新ルールで追加されるポケモンを徹底的に考察してみた！！！【ポケモンチャンピオンズ / VTuber】",
+              "channelTitle": "兎に角ぴりかch",
+              "publishedAt": "2026-09-01T10:08:08.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/VSUnUn_bH6w/maxresdefault.jpg",
+              "views": 64893,
+              "likes": 708,
+              "viewGain": 64893,
+              "attributedViewGain": 64893,
+              "url": "https://www.youtube.com/watch?v=VSUnUn_bH6w"
+            }
+          ],
+          "rank": 2,
+          "score": 28
+        },
+        {
+          "id": "UC1DCedRgGHBdm81E1llLhOQ",
+          "name": "兎田ぺこら",
+          "group": "ホロライブ",
+          "metrics": {
+            "attentionPoints": 63099,
+            "officialViewGain": 0,
+            "externalViewGain": 63099,
+            "videoCount": 3,
+            "officialVideoCount": 0,
+            "externalVideoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 2,
+            "externalChannelCount": 2,
+            "totalViews": 63099,
+            "totalLikes": 10339
+          },
+          "creators": [
+            "ホロライブNEWS【切り抜きch】",
+            "Koyori ch. 博衣こより - holoX -"
+          ],
+          "summary": "3日間の話題再生数は63,099回。本人動画0回、外部動画63,099回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
+          "sources": [
+            {
+              "videoId": "_fB8dLliAXk",
+              "title": "Forbes JAPAN の「世界を変える30歳未満の30人」に選出されたことに対しての本音を明かすらでん【儒烏風亭らでん/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブNEWS【切り抜きch】",
+              "publishedAt": "2026-08-31T19:48:08.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_fB8dLliAXk/maxresdefault.jpg",
+              "views": 164073,
+              "likes": 1357,
+              "viewGain": 164073,
+              "attributedViewGain": 54691,
+              "url": "https://www.youtube.com/watch?v=_fB8dLliAXk"
+            },
             {
               "videoId": "_cixew6LYs4",
               "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
               "channelTitle": "Koyori ch. 博衣こより - holoX -",
               "publishedAt": "2026-09-01T08:02:51.000Z",
               "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
-              "views": 53153,
-              "likes": 5192,
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
               "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
             },
             {
@@ -331,89 +618,282 @@
               "channelTitle": "Koyori ch. 博衣こより - holoX -",
               "publishedAt": "2026-08-31T08:00:13.000Z",
               "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
-              "views": 28497,
-              "likes": 3628,
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
               "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
             }
           ],
-          "rank": 2,
-          "score": 98
-        },
-        {
-          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
-          "name": "豹矢りいす / 日常ch",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 18304,
-            "totalLikes": 396,
-            "viewVelocity": 1996
-          },
-          "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計18,304回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "Bn6q6cRO1PA",
-              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
-              "channelTitle": "豹矢りいす / 日常ch",
-              "publishedAt": "2026-09-02T13:31:25.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
-              "views": 18304,
-              "likes": 396,
-              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
-            }
-          ],
           "rank": 3,
-          "score": 89
+          "score": 27
         },
         {
-          "id": "UCspv01oxUFf_MTSipURRhkA",
-          "name": "Kanae Channel",
+          "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+          "name": "さくらみこ",
+          "group": "ホロライブ",
           "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 213639,
-            "totalLikes": 0,
-            "viewVelocity": 6302
+            "attentionPoints": 63099,
+            "officialViewGain": 0,
+            "externalViewGain": 63099,
+            "videoCount": 3,
+            "officialVideoCount": 0,
+            "externalVideoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 2,
+            "externalChannelCount": 2,
+            "totalViews": 63099,
+            "totalLikes": 10339
           },
-          "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計213,639回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "ホロライブNEWS【切り抜きch】",
+            "Koyori ch. 博衣こより - holoX -"
+          ],
+          "summary": "3日間の話題再生数は63,099回。本人動画0回、外部動画63,099回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
           "sources": [
             {
-              "videoId": "A_c4fCETecs",
-              "title": "#1 錬金術を作る工場・・？なのか？  | Alchemy Factory【にじさんじ/叶】",
-              "channelTitle": "Kanae Channel",
-              "publishedAt": "2026-09-01T12:47:39.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/A_c4fCETecs/maxresdefault.jpg",
-              "views": 213639,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=A_c4fCETecs"
+              "videoId": "_fB8dLliAXk",
+              "title": "Forbes JAPAN の「世界を変える30歳未満の30人」に選出されたことに対しての本音を明かすらでん【儒烏風亭らでん/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブNEWS【切り抜きch】",
+              "publishedAt": "2026-08-31T19:48:08.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_fB8dLliAXk/maxresdefault.jpg",
+              "views": 164073,
+              "likes": 1357,
+              "viewGain": 164073,
+              "attributedViewGain": 54691,
+              "url": "https://www.youtube.com/watch?v=_fB8dLliAXk"
+            },
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
             }
           ],
           "rank": 4,
-          "score": 87
+          "score": 27
         },
         {
-          "id": "UCy5mPPRT1q7AOK2-gLtcOnw",
-          "name": "覇王別姫樹里チャンネル",
+          "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+          "name": "戌神ころね",
+          "group": "ホロライブ",
           "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
+            "attentionPoints": 63099,
+            "officialViewGain": 0,
+            "externalViewGain": 63099,
+            "videoCount": 3,
+            "officialVideoCount": 0,
+            "externalVideoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 2,
+            "externalChannelCount": 2,
+            "totalViews": 63099,
+            "totalLikes": 10339
+          },
+          "creators": [
+            "ホロライブNEWS【切り抜きch】",
+            "Koyori ch. 博衣こより - holoX -"
+          ],
+          "summary": "3日間の話題再生数は63,099回。本人動画0回、外部動画63,099回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
+          "sources": [
+            {
+              "videoId": "_fB8dLliAXk",
+              "title": "Forbes JAPAN の「世界を変える30歳未満の30人」に選出されたことに対しての本音を明かすらでん【儒烏風亭らでん/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブNEWS【切り抜きch】",
+              "publishedAt": "2026-08-31T19:48:08.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_fB8dLliAXk/maxresdefault.jpg",
+              "views": 164073,
+              "likes": 1357,
+              "viewGain": 164073,
+              "attributedViewGain": 54691,
+              "url": "https://www.youtube.com/watch?v=_fB8dLliAXk"
+            },
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
+            }
+          ],
+          "rank": 5,
+          "score": 27
+        },
+        {
+          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
+          "name": "春水レイ",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 24942,
+            "officialViewGain": 24942,
+            "externalViewGain": 0,
+            "videoCount": 2,
+            "officialVideoCount": 2,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 2,
             "channelCount": 1,
-            "totalViews": 29068,
-            "totalLikes": 667,
-            "viewVelocity": 517
+            "externalChannelCount": 0,
+            "totalViews": 24942,
+            "totalLikes": 390
           },
           "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計29,068回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "3日間の話題再生数は24,942回。本人動画24,942回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "nvcw79nO2AU",
+              "title": "【アークナイツ】ティフォロスに向け！サーミを知ろうの回【エンドフィールド/Vtuber/春水レイ】",
+              "channelTitle": "春水レイ / Shunsui Rei",
+              "publishedAt": "2026-09-01T13:57:26.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/nvcw79nO2AU/maxresdefault.jpg",
+              "views": 12953,
+              "likes": 221,
+              "viewGain": 12953,
+              "attributedViewGain": 12953,
+              "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
+            },
+            {
+              "videoId": "nj7ML4XyssY",
+              "title": "【エンドフィールド】ティフォン履修→ティフォロスキャラスト！【アークナイツ：エンドフィールド/Vtuber/春水レイ】",
+              "channelTitle": "春水レイ / Shunsui Rei",
+              "publishedAt": "2026-09-02T15:08:57.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/nj7ML4XyssY/maxresdefault.jpg",
+              "views": 11989,
+              "likes": 169,
+              "viewGain": 11989,
+              "attributedViewGain": 11989,
+              "url": "https://www.youtube.com/watch?v=nj7ML4XyssY"
+            }
+          ],
+          "rank": 6,
+          "score": 11
+        },
+        {
+          "id": "UC8RPl9KN1UwND3lWA0mdSsg",
+          "name": "桜川モナミ",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 18927,
+            "officialViewGain": 18927,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 18927,
+            "totalLikes": 410
+          },
+          "creators": [],
+          "summary": "3日間の話題再生数は18,927回。本人動画18,927回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "c8964IWt5vc",
+              "title": "【#アークナイツ】完全初見🔰P3Rコラボに惹かれて始めた新人ドクター #2【桜川モナミ】",
+              "channelTitle": "桜川モナミ / Monami's GAME Ch.🎮",
+              "publishedAt": "2026-09-01T15:36:30.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/c8964IWt5vc/maxresdefault.jpg",
+              "views": 18927,
+              "likes": 410,
+              "viewGain": 18927,
+              "attributedViewGain": 18927,
+              "url": "https://www.youtube.com/watch?v=c8964IWt5vc"
+            }
+          ],
+          "rank": 7,
+          "score": 8
+        },
+        {
+          "id": "UCMH9OSAm1vcXSnKVOsnxk7A",
+          "name": "Dium",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 14874,
+            "officialViewGain": 319,
+            "externalViewGain": 14555,
+            "videoCount": 2,
+            "officialVideoCount": 1,
+            "externalVideoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 2,
+            "externalChannelCount": 1,
+            "totalViews": 14874,
+            "totalLikes": 698
+          },
+          "creators": [
+            "覇王別姫樹里チャンネル"
+          ],
+          "summary": "3日間の話題再生数は14,874回。本人動画319回、外部動画14,555回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
           "sources": [
             {
               "videoId": "mbFdKLbmXTc",
@@ -421,216 +901,276 @@
               "channelTitle": "覇王別姫樹里チャンネル",
               "publishedAt": "2026-08-31T14:25:03.000Z",
               "isLiveArchive": true,
+              "isOfficial": false,
+              "sourceType": "external",
               "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
-              "views": 29068,
+              "views": 29110,
               "likes": 667,
+              "viewGain": 29110,
+              "attributedViewGain": 14555,
               "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
-            }
-          ],
-          "rank": 5,
-          "score": 81
-        },
-        {
-          "id": "UChCYWZOpBnp8-6dFhPC5USg",
-          "name": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 1848,
-            "totalLikes": 37,
-            "viewVelocity": 254
-          },
-          "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,848回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "c3igsp7bk9s",
-              "title": "【 #スパロボV】実はロボアニメあんまり知らないから、初めてのスパロボで知っていきたい🐈#04 【 VTuber #猫本にゃこ 】",
-              "channelTitle": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
-              "publishedAt": "2026-09-02T15:24:17.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
-              "views": 1848,
-              "likes": 37,
-              "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
-            }
-          ],
-          "rank": 6,
-          "score": 73
-        },
-        {
-          "id": "UC-Hbn_VjsGLMy7_QgyjXFOg",
-          "name": "描田れん / KakitaRen",
-          "metrics": {
-            "videoCount": 3,
-            "liveArchiveCount": 2,
-            "channelCount": 1,
-            "totalViews": 107,
-            "totalLikes": 9,
-            "viewVelocity": 9
-          },
-          "creators": [],
-          "summary": "3日間で関連動画3本、うち2本が終了済みライブ。合計107回再生の反応を確認しています。",
-          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
-          "sources": [
-            {
-              "videoId": "ne8xfZDGPKQ",
-              "title": "【めっちゃカメレオン】イラストレーターなら上手く隠れられるはず【VTuber】【描田れん】",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T15:16:29.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ne8xfZDGPKQ/maxresdefault.jpg",
-              "views": 59,
-              "likes": 6,
-              "url": "https://www.youtube.com/watch?v=ne8xfZDGPKQ"
             },
             {
-              "videoId": "2H7S4sdga9A",
-              "title": "【家族コラボ】PEAK【VTuber】【描田れん】",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-08-31T14:20:08.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/2H7S4sdga9A/maxresdefault.jpg",
-              "views": 38,
-              "likes": 2,
-              "url": "https://www.youtube.com/watch?v=2H7S4sdga9A"
-            },
-            {
-              "videoId": "Qt_yCEEOhJk",
-              "title": "料理中に起こった悲劇2",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T00:15:23.000Z",
+              "videoId": "PaZWB7Vgs7M",
+              "title": "誰？この人知らないな。【自己紹介｜Vtuber】",
+              "channelTitle": "Dium Channel",
+              "publishedAt": "2026-09-01T13:00:13.000Z",
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Qt_yCEEOhJk/maxresdefault.jpg",
-              "views": 10,
-              "likes": 1,
-              "url": "https://www.youtube.com/watch?v=Qt_yCEEOhJk"
-            }
-          ],
-          "rank": 7,
-          "score": 70
-        },
-        {
-          "id": "UCfnlZsd6RDC36OclV-5Kn1g",
-          "name": "星の子 スピネル",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 4415,
-            "totalLikes": 63,
-            "viewVelocity": 193
-          },
-          "creators": [],
-          "summary": "3日間で関連動画1本。合計4,415回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "cgCyKScLk-c",
-              "title": "エクチケきちゃ!!!!#vtuber#バーチャル#Youtuber#シャドウバース#シャドバ#シャドバWB#バズれ #切り抜き #shadowversewb",
-              "channelTitle": "星の子 スピネル",
-              "publishedAt": "2026-09-01T23:49:05.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/cgCyKScLk-c/maxresdefault.jpg",
-              "views": 4415,
-              "likes": 63,
-              "url": "https://www.youtube.com/watch?v=cgCyKScLk-c"
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/PaZWB7Vgs7M/maxresdefault.jpg",
+              "views": 319,
+              "likes": 31,
+              "viewGain": 319,
+              "attributedViewGain": 319,
+              "url": "https://www.youtube.com/watch?v=PaZWB7Vgs7M"
             }
           ],
           "rank": 8,
-          "score": 68
+          "score": 6
         },
         {
-          "id": "UCp1dpQ7gKVaRw-3O1juR5JA",
-          "name": "スイクンゲームズ",
+          "id": "UCy5mPPRT1q7AOK2-gLtcOnw",
+          "name": "覇王別姫樹里",
+          "group": "",
           "metrics": {
+            "attentionPoints": 14555,
+            "officialViewGain": 14555,
+            "externalViewGain": 0,
             "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
             "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 2545,
-            "totalLikes": 30,
-            "viewVelocity": 82
+            "externalChannelCount": 0,
+            "totalViews": 14555,
+            "totalLikes": 667
           },
           "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計2,545回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "3日間の話題再生数は14,555回。本人動画14,555回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
-              "videoId": "hvQYNHDn37s",
-              "title": "【POE2】ACTらんらん！ミニリーグ楽しみー！！",
-              "channelTitle": "スイクンゲームズ",
-              "publishedAt": "2026-09-01T15:38:09.000Z",
+              "videoId": "mbFdKLbmXTc",
+              "title": "【記念雑談】皆で30万人突破をじっくり見守っちゃお～～～よ！！！【Vtuber/#サボちゃん観察日記】",
+              "channelTitle": "覇王別姫樹里チャンネル",
+              "publishedAt": "2026-08-31T14:25:03.000Z",
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/hvQYNHDn37s/maxresdefault.jpg",
-              "views": 2545,
-              "likes": 30,
-              "url": "https://www.youtube.com/watch?v=hvQYNHDn37s"
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
+              "views": 29110,
+              "likes": 667,
+              "viewGain": 29110,
+              "attributedViewGain": 14555,
+              "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
             }
           ],
           "rank": 9,
-          "score": 66
+          "score": 6
         },
         {
-          "id": "UC1LtKo3FDty3EGSi2UUzQVg",
-          "name": "Bell Ch.天使 鐘",
+          "id": "UCSld_0sQQ8HG38yEaK_LqMA",
+          "name": "V宝庫",
+          "group": "",
           "metrics": {
+            "attentionPoints": 14262,
+            "officialViewGain": 14262,
+            "externalViewGain": 0,
             "videoCount": 1,
-            "liveArchiveCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 1988,
-            "totalLikes": 30,
-            "viewVelocity": 37
+            "externalChannelCount": 0,
+            "totalViews": 14262,
+            "totalLikes": 357
           },
           "creators": [],
-          "summary": "3日間で関連動画1本、うち1本が終了済みライブ。合計1,988回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "3日間の話題再生数は14,262回。本人動画14,262回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
-              "videoId": "axRbkd2Nxzc",
-              "title": "【ポケモンユナイト】マスター749~ 最終日にレジェンドに戻す ソロランク👼♪#337👼♪ 【Pokémon UNITE VTuber 天使 鐘】",
-              "channelTitle": "Bell Ch.天使 鐘",
-              "publishedAt": "2026-08-31T16:56:37.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/axRbkd2Nxzc/maxresdefault.jpg",
-              "views": 1988,
-              "likes": 30,
-              "url": "https://www.youtube.com/watch?v=axRbkd2Nxzc"
+              "videoId": "x_21_wCGPQo",
+              "title": "綺麗な神楽めあ #神楽めあ  #叶 #shorts",
+              "channelTitle": "V宝庫",
+              "publishedAt": "2026-09-02T20:55:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/x_21_wCGPQo/maxresdefault.jpg",
+              "views": 28523,
+              "likes": 357,
+              "viewGain": 28523,
+              "attributedViewGain": 14262,
+              "url": "https://www.youtube.com/watch?v=x_21_wCGPQo"
             }
           ],
           "rank": 10,
-          "score": 61
+          "score": 6
         }
       ]
     },
     "168": {
       "rankings": [
         {
-          "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-          "name": "Koyori ch. 博衣こより - holoX -",
+          "id": "UCzHiiP2r1zyTr8A1-6HtQtw",
+          "name": "山田龍一郎",
+          "group": "",
           "metrics": {
-            "videoCount": 3,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 220075,
-            "totalLikes": 22480,
-            "viewVelocity": 2858
+            "attentionPoints": 1607634,
+            "officialViewGain": 598766,
+            "externalViewGain": 1008868,
+            "videoCount": 5,
+            "officialVideoCount": 1,
+            "externalVideoCount": 4,
+            "liveArchiveCount": 1,
+            "channelCount": 5,
+            "externalChannelCount": 4,
+            "totalViews": 1607634,
+            "totalLikes": 86280
           },
-          "creators": [],
-          "summary": "7日間で関連動画3本。合計220,075回再生の反応を確認しています。",
-          "reason": "短期間に複数の動画が公開され、継続的な反応が集まっています。",
+          "creators": [
+            "クオタ探偵局",
+            "こうにいの流行り者YouTuber解説ch",
+            "RhyZyGy_毎日にじさんじ新人切り抜きCH",
+            "ぺんぎんのにじさんじ切り抜き"
+          ],
+          "summary": "7日間の話題再生数は1,607,634回。本人動画598,766回、外部動画1,008,868回を確認しています。",
+          "reason": "4件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
-              "videoId": "_cixew6LYs4",
-              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
-              "channelTitle": "Koyori ch. 博衣こより - holoX -",
-              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "videoId": "O9GPxlIhpIE",
+              "title": "にじさんじ新人2人、モチーフを調べたら意味深すぎた… #にじさんじ #RhyZyGy #vtuber",
+              "channelTitle": "クオタ探偵局",
+              "publishedAt": "2026-08-27T14:38:36.000Z",
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
-              "views": 53153,
-              "likes": 5192,
-              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+              "isOfficial": false,
+              "sourceType": "news",
+              "thumbnail": "https://i.ytimg.com/vi/O9GPxlIhpIE/maxresdefault.jpg",
+              "views": 898580,
+              "likes": 38353,
+              "viewGain": 898580,
+              "attributedViewGain": 898580,
+              "url": "https://www.youtube.com/watch?v=O9GPxlIhpIE"
+            },
+            {
+              "videoId": "Jg0NWzPNbvk",
+              "title": "【にじさんじ大型新人】作詞作曲から生演奏まで！目指すは武道館の自給自足ペア #RhyZyGy #神永タイガ #山田龍一郎 #shorts",
+              "channelTitle": "こうにいの流行り者YouTuber解説ch",
+              "publishedAt": "2026-08-29T09:00:25.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/Jg0NWzPNbvk/maxresdefault.jpg",
+              "views": 180078,
+              "likes": 6643,
+              "viewGain": 180078,
+              "attributedViewGain": 90039,
+              "url": "https://www.youtube.com/watch?v=Jg0NWzPNbvk"
+            },
+            {
+              "videoId": "G3S9l4w0j8k",
+              "title": "【期待の新人】コメ欄に注意するにじさんじ神永タイガ/切り抜き",
+              "channelTitle": "RhyZyGy_毎日にじさんじ新人切り抜きCH",
+              "publishedAt": "2026-08-30T01:00:39.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/G3S9l4w0j8k/maxresdefault.jpg",
+              "views": 18781,
+              "likes": 176,
+              "viewGain": 18781,
+              "attributedViewGain": 18781,
+              "url": "https://www.youtube.com/watch?v=G3S9l4w0j8k"
+            },
+            {
+              "videoId": "8WYOrWjMq28",
+              "title": "ハオ山田【#切り抜き #山田龍一郎 】 #vtuber #新人vtuber",
+              "channelTitle": "ぺんぎんのにじさんじ切り抜き",
+              "publishedAt": "2026-09-02T22:00:02.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/8WYOrWjMq28/maxresdefault.jpg",
+              "views": 1468,
+              "likes": 58,
+              "viewGain": 1468,
+              "attributedViewGain": 1468,
+              "url": "https://www.youtube.com/watch?v=8WYOrWjMq28"
+            },
+            {
+              "videoId": "giyQMGNY8fw",
+              "title": "【初配信】音楽をやります【山田龍一郎 / にじさんじ】",
+              "channelTitle": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+              "publishedAt": "2026-08-28T12:00:24.000Z",
+              "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/giyQMGNY8fw/maxresdefault.jpg",
+              "views": 598766,
+              "likes": 41050,
+              "viewGain": 598766,
+              "attributedViewGain": 598766,
+              "url": "https://www.youtube.com/watch?v=giyQMGNY8fw"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
+          "id": "UCENwRMx5Yh42zWpzURebzTw",
+          "name": "ラプラス・ダークネス",
+          "group": "ホロライブ",
+          "metrics": {
+            "attentionPoints": 475684,
+            "officialViewGain": 0,
+            "externalViewGain": 475684,
+            "videoCount": 5,
+            "officialVideoCount": 0,
+            "externalVideoCount": 5,
+            "liveArchiveCount": 0,
+            "channelCount": 2,
+            "externalChannelCount": 2,
+            "totalViews": 475684,
+            "totalLikes": 40529
+          },
+          "creators": [
+            "ロロイト",
+            "Koyori ch. 博衣こより - holoX -"
+          ],
+          "summary": "7日間の話題再生数は475,684回。本人動画0回、外部動画475,684回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
+          "sources": [
+            {
+              "videoId": "MpFWtShZWA0",
+              "title": "【誰？】結局お前はなんなの？ってキャラ3選【スプラ3】【スプラトゥーン3】 #shorts #スプラトゥーンレイダース #splatoon3 #スプラ",
+              "channelTitle": "ロロイト",
+              "publishedAt": "2026-08-28T09:15:10.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/MpFWtShZWA0/maxresdefault.jpg",
+              "views": 300382,
+              "likes": 11090,
+              "viewGain": 300382,
+              "attributedViewGain": 300382,
+              "url": "https://www.youtube.com/watch?v=MpFWtShZWA0"
+            },
+            {
+              "videoId": "nJVvZ7WX4z0",
+              "title": "【ゲームハック】エイムは才能？それとも努力？【スプラ3】【スプラトゥーン3】 #shorts #スプラトゥーンレイダース #splatoon3 #スプラ",
+              "channelTitle": "ロロイト",
+              "publishedAt": "2026-08-27T08:40:12.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/nJVvZ7WX4z0/maxresdefault.jpg",
+              "views": 152831,
+              "likes": 6682,
+              "viewGain": 152831,
+              "attributedViewGain": 152831,
+              "url": "https://www.youtube.com/watch?v=nJVvZ7WX4z0"
             },
             {
               "videoId": "y1cpJ0E9MAQ",
@@ -638,10 +1178,29 @@
               "channelTitle": "Koyori ch. 博衣こより - holoX -",
               "publishedAt": "2026-08-28T08:00:19.000Z",
               "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
-              "views": 138425,
-              "likes": 13660,
+              "views": 140624,
+              "likes": 13775,
+              "viewGain": 140624,
+              "attributedViewGain": 14062,
               "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
+            },
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
             },
             {
               "videoId": "1ViiQX_MtzU",
@@ -649,328 +1208,546 @@
               "channelTitle": "Koyori ch. 博衣こより - holoX -",
               "publishedAt": "2026-08-31T08:00:13.000Z",
               "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
               "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
-              "views": 28497,
-              "likes": 3628,
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
               "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
             }
           ],
-          "rank": 1,
-          "score": 100
-        },
-        {
-          "id": "UCYRUVhql7_2UiB5ADw8KZAQ",
-          "name": "春水レイ / Shunsui Rei",
-          "metrics": {
-            "videoCount": 3,
-            "liveArchiveCount": 3,
-            "channelCount": 1,
-            "totalViews": 33671,
-            "totalLikes": 502,
-            "viewVelocity": 1947
-          },
-          "creators": [],
-          "summary": "7日間で関連動画3本、うち3本が終了済みライブ。合計33,671回再生の反応を確認しています。",
-          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
-          "sources": [
-            {
-              "videoId": "nj7ML4XyssY",
-              "title": "【エンドフィールド】ティフォン履修→ティフォロスキャラスト！【アークナイツ：エンドフィールド/Vtuber/春水レイ】",
-              "channelTitle": "春水レイ / Shunsui Rei",
-              "publishedAt": "2026-09-02T15:08:57.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/nj7ML4XyssY/maxresdefault.jpg",
-              "views": 11007,
-              "likes": 162,
-              "url": "https://www.youtube.com/watch?v=nj7ML4XyssY"
-            },
-            {
-              "videoId": "nvcw79nO2AU",
-              "title": "【アークナイツ】ティフォロスに向け！サーミを知ろうの回【エンドフィールド/Vtuber/春水レイ】",
-              "channelTitle": "春水レイ / Shunsui Rei",
-              "publishedAt": "2026-09-01T13:57:26.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/nvcw79nO2AU/maxresdefault.jpg",
-              "views": 12879,
-              "likes": 220,
-              "url": "https://www.youtube.com/watch?v=nvcw79nO2AU"
-            },
-            {
-              "videoId": "qvmU4dEw3_0",
-              "title": "【アークナイツ】堅守協定で999量産を目指してみる…？【Vtuber/春水レイ】",
-              "channelTitle": "春水レイ / Shunsui Rei",
-              "publishedAt": "2026-08-29T15:23:36.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/qvmU4dEw3_0/maxresdefault.jpg",
-              "views": 9785,
-              "likes": 120,
-              "url": "https://www.youtube.com/watch?v=qvmU4dEw3_0"
-            }
-          ],
           "rank": 2,
-          "score": 98
+          "score": 30
         },
         {
-          "id": "UCzHiiP2r1zyTr8A1-6HtQtw",
-          "name": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+          "id": "UCaz6RpPS2oYAU4Su3aN_odQ",
+          "name": "かなえ先生の漢気",
+          "group": "",
           "metrics": {
+            "attentionPoints": 361980,
+            "officialViewGain": 361980,
+            "externalViewGain": 0,
             "videoCount": 1,
-            "liveArchiveCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 597116,
-            "totalLikes": 41010,
-            "viewVelocity": 4569
+            "externalChannelCount": 0,
+            "totalViews": 361980,
+            "totalLikes": 3548
           },
           "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計597,116回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "7日間の話題再生数は361,980回。本人動画361,980回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
-              "videoId": "giyQMGNY8fw",
-              "title": "【初配信】音楽をやります【山田龍一郎 / にじさんじ】",
-              "channelTitle": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
-              "publishedAt": "2026-08-28T12:00:24.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/giyQMGNY8fw/maxresdefault.jpg",
-              "views": 597116,
-              "likes": 41010,
-              "url": "https://www.youtube.com/watch?v=giyQMGNY8fw"
+              "videoId": "wNRy0dNAikA",
+              "title": "【神回】PC音痴のかなえ先生、神楽めあ＆犬山たまきに完全包囲され強制アプデ介護されるｗｗｗ【かなえ先生切り抜き】VTubeStudio　とわママ　Vtuber",
+              "channelTitle": "かなえ先生の漢気【公認チャンネル】",
+              "publishedAt": "2026-08-27T11:15:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/wNRy0dNAikA/maxresdefault.jpg",
+              "views": 361980,
+              "likes": 3548,
+              "viewGain": 361980,
+              "attributedViewGain": 361980,
+              "url": "https://www.youtube.com/watch?v=wNRy0dNAikA"
             }
           ],
           "rank": 3,
-          "score": 90
+          "score": 23
         },
         {
-          "id": "UCl8bSkB41JhyziKIcFmVYOQ",
-          "name": "豹矢りいす / 日常ch",
+          "id": "UC1DCedRgGHBdm81E1llLhOQ",
+          "name": "兎田ぺこら",
+          "group": "ホロライブ",
           "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 18304,
-            "totalLikes": 396,
-            "viewVelocity": 1996
+            "attentionPoints": 276376,
+            "officialViewGain": 0,
+            "externalViewGain": 276376,
+            "videoCount": 7,
+            "officialVideoCount": 0,
+            "externalVideoCount": 7,
+            "liveArchiveCount": 0,
+            "channelCount": 4,
+            "externalChannelCount": 4,
+            "totalViews": 276376,
+            "totalLikes": 30740
           },
-          "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計18,304回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "Koyori ch. 博衣こより - holoX -",
+            "ホロライブNEWS【切り抜きch】",
+            "エビフライ / Ebihurai",
+            "からあげサーモン"
+          ],
+          "summary": "7日間の話題再生数は276,376回。本人動画0回、外部動画276,376回を確認しています。",
+          "reason": "4件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
-              "videoId": "Bn6q6cRO1PA",
-              "title": "【雑談】動画からの方もお気軽に！なんとなく聴けるラジオのようなライブ配信！2026.09.02 #VTuber",
-              "channelTitle": "豹矢りいす / 日常ch",
-              "publishedAt": "2026-09-02T13:31:25.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/Bn6q6cRO1PA/maxresdefault.jpg",
-              "views": 18304,
-              "likes": 396,
-              "url": "https://www.youtube.com/watch?v=Bn6q6cRO1PA"
+              "videoId": "2PlmJ0y5_Hc",
+              "title": "🥕🎀ぺこらマミーの圧🎀🥕",
+              "channelTitle": "エビフライ / Ebihurai",
+              "publishedAt": "2026-08-27T10:03:41.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/2PlmJ0y5_Hc/maxresdefault.jpg",
+              "views": 154128,
+              "likes": 4456,
+              "viewGain": 154128,
+              "attributedViewGain": 154128,
+              "url": "https://www.youtube.com/watch?v=2PlmJ0y5_Hc"
+            },
+            {
+              "videoId": "_fB8dLliAXk",
+              "title": "Forbes JAPAN の「世界を変える30歳未満の30人」に選出されたことに対しての本音を明かすらでん【儒烏風亭らでん/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブNEWS【切り抜きch】",
+              "publishedAt": "2026-08-31T19:48:08.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_fB8dLliAXk/maxresdefault.jpg",
+              "views": 164073,
+              "likes": 1357,
+              "viewGain": 164073,
+              "attributedViewGain": 54691,
+              "url": "https://www.youtube.com/watch?v=_fB8dLliAXk"
+            },
+            {
+              "videoId": "vJ5EGiHvVDY",
+              "title": "【手描き】デスゲームで容赦なくヴィヴィを○せるぺこら【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ/切り抜き漫画】",
+              "channelTitle": "からあげサーモン",
+              "publishedAt": "2026-08-28T11:00:26.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/vJ5EGiHvVDY/maxresdefault.jpg",
+              "views": 75681,
+              "likes": 1945,
+              "viewGain": 75681,
+              "attributedViewGain": 37841,
+              "url": "https://www.youtube.com/watch?v=vJ5EGiHvVDY"
+            },
+            {
+              "videoId": "y1cpJ0E9MAQ",
+              "title": "「きゃぴ / 宝鐘マリン」踊ってみた🏴‍☠️💘 #宝鐘マリン #きゃぴ #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-28T08:00:19.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
+              "views": 140624,
+              "likes": 13775,
+              "viewGain": 140624,
+              "attributedViewGain": 14062,
+              "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
+            },
+            {
+              "videoId": "708NNHNZ5ak",
+              "title": "体調を心配してくれているリスナーに伝えたいことがある大神ミオ【大神ミオ/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブNEWS【切り抜きch】",
+              "publishedAt": "2026-08-27T20:59:57.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/708NNHNZ5ak/maxresdefault.jpg",
+              "views": 21737,
+              "likes": 225,
+              "viewGain": 21737,
+              "attributedViewGain": 7246,
+              "url": "https://www.youtube.com/watch?v=708NNHNZ5ak"
+            },
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
             }
           ],
           "rank": 4,
-          "score": 79
+          "score": 17
+        },
+        {
+          "id": "UCSubsy9OCQMXcVVrIzsXCEA",
+          "name": "VTuberしか勝たん",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 268834,
+            "officialViewGain": 268834,
+            "externalViewGain": 0,
+            "videoCount": 2,
+            "officialVideoCount": 2,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "externalChannelCount": 0,
+            "totalViews": 268834,
+            "totalLikes": 2944
+          },
+          "creators": [],
+          "summary": "7日間の話題再生数は268,834回。本人動画268,834回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
+          "sources": [
+            {
+              "videoId": "CA5zSmR09Wc",
+              "title": "【悲報】大手人気VTuberの〇〇がまさかの場所で発見されネット悲しむ #ホロライブ #vtuber",
+              "channelTitle": "VTuberしか勝たん",
+              "publishedAt": "2026-08-28T09:00:31.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/CA5zSmR09Wc/maxresdefault.jpg",
+              "views": 201780,
+              "likes": 2155,
+              "viewGain": 201780,
+              "attributedViewGain": 201780,
+              "url": "https://www.youtube.com/watch?v=CA5zSmR09Wc"
+            },
+            {
+              "videoId": "k1WT8IrGXb8",
+              "title": "【悲報】ホロライブ運営が異例の謝罪コメントを発表しネットざわつく #ホロライブ #vtuber",
+              "channelTitle": "VTuberしか勝たん",
+              "publishedAt": "2026-08-29T03:00:39.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/k1WT8IrGXb8/maxresdefault.jpg",
+              "views": 67054,
+              "likes": 789,
+              "viewGain": 67054,
+              "attributedViewGain": 67054,
+              "url": "https://www.youtube.com/watch?v=k1WT8IrGXb8"
+            }
+          ],
+          "rank": 5,
+          "score": 17
+        },
+        {
+          "id": "UCCxG4UTNSeEJ1ux4k4rvQpA",
+          "name": "こうにいの流行り者YouTuber解説",
+          "group": "",
+          "metrics": {
+            "attentionPoints": 239117,
+            "officialViewGain": 90039,
+            "externalViewGain": 149078,
+            "videoCount": 2,
+            "officialVideoCount": 1,
+            "externalVideoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 2,
+            "externalChannelCount": 1,
+            "totalViews": 239117,
+            "totalLikes": 8967
+          },
+          "creators": [
+            "こへー / 古兵"
+          ],
+          "summary": "7日間の話題再生数は239,117回。本人動画90,039回、外部動画149,078回を確認しています。",
+          "reason": "本人動画よりも外部動画の再生が伸び、第三者からの注目が広がっています。",
+          "sources": [
+            {
+              "videoId": "roLE-aJpwMM",
+              "title": "【ゼンゼロ】クラレッタ性能解説・公式放送Ver3.2【ゼンレスゾーンゼロ配信切り抜き・攻略・考察】【質問回答】【Vtuber】#shorts",
+              "channelTitle": "こへー / 古兵",
+              "publishedAt": "2026-08-29T07:15:06.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/roLE-aJpwMM/maxresdefault.jpg",
+              "views": 149078,
+              "likes": 2324,
+              "viewGain": 149078,
+              "attributedViewGain": 149078,
+              "url": "https://www.youtube.com/watch?v=roLE-aJpwMM"
+            },
+            {
+              "videoId": "Jg0NWzPNbvk",
+              "title": "【にじさんじ大型新人】作詞作曲から生演奏まで！目指すは武道館の自給自足ペア #RhyZyGy #神永タイガ #山田龍一郎 #shorts",
+              "channelTitle": "こうにいの流行り者YouTuber解説ch",
+              "publishedAt": "2026-08-29T09:00:25.000Z",
+              "isLiveArchive": false,
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/Jg0NWzPNbvk/maxresdefault.jpg",
+              "views": 180078,
+              "likes": 6643,
+              "viewGain": 180078,
+              "attributedViewGain": 90039,
+              "url": "https://www.youtube.com/watch?v=Jg0NWzPNbvk"
+            }
+          ],
+          "rank": 6,
+          "score": 15
         },
         {
           "id": "UCspv01oxUFf_MTSipURRhkA",
-          "name": "Kanae Channel",
+          "name": "叶",
+          "group": "にじさんじ",
           "metrics": {
-            "videoCount": 1,
+            "attentionPoints": 230114,
+            "officialViewGain": 215852,
+            "externalViewGain": 14262,
+            "videoCount": 2,
+            "officialVideoCount": 1,
+            "externalVideoCount": 1,
             "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 213639,
-            "totalLikes": 0,
-            "viewVelocity": 6302
+            "channelCount": 2,
+            "externalChannelCount": 1,
+            "totalViews": 230114,
+            "totalLikes": 357
           },
-          "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計213,639回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "V宝庫"
+          ],
+          "summary": "7日間の話題再生数は230,114回。本人動画215,852回、外部動画14,262回を確認しています。",
+          "reason": "本人動画に加え、外部の関連動画にも再生が集まっています。",
           "sources": [
+            {
+              "videoId": "x_21_wCGPQo",
+              "title": "綺麗な神楽めあ #神楽めあ  #叶 #shorts",
+              "channelTitle": "V宝庫",
+              "publishedAt": "2026-09-02T20:55:21.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/x_21_wCGPQo/maxresdefault.jpg",
+              "views": 28523,
+              "likes": 357,
+              "viewGain": 28523,
+              "attributedViewGain": 14262,
+              "url": "https://www.youtube.com/watch?v=x_21_wCGPQo"
+            },
             {
               "videoId": "A_c4fCETecs",
               "title": "#1 錬金術を作る工場・・？なのか？  | Alchemy Factory【にじさんじ/叶】",
               "channelTitle": "Kanae Channel",
               "publishedAt": "2026-09-01T12:47:39.000Z",
               "isLiveArchive": true,
+              "isOfficial": true,
+              "sourceType": "official",
               "thumbnail": "https://i.ytimg.com/vi/A_c4fCETecs/maxresdefault.jpg",
-              "views": 213639,
+              "views": 215852,
               "likes": 0,
+              "viewGain": 215852,
+              "attributedViewGain": 215852,
               "url": "https://www.youtube.com/watch?v=A_c4fCETecs"
             }
           ],
-          "rank": 5,
-          "score": 79
+          "rank": 7,
+          "score": 14
         },
         {
-          "id": "UCy5mPPRT1q7AOK2-gLtcOnw",
-          "name": "覇王別姫樹里チャンネル",
+          "id": "UCHdUcM7xA2RGc1gLr4njucw",
+          "name": "有珠川カゲホ@バトスピVtuber",
+          "group": "",
           "metrics": {
+            "attentionPoints": 220465,
+            "officialViewGain": 220465,
+            "externalViewGain": 0,
             "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 29068,
-            "totalLikes": 667,
-            "viewVelocity": 517
-          },
-          "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計29,068回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "mbFdKLbmXTc",
-              "title": "【記念雑談】皆で30万人突破をじっくり見守っちゃお～～～よ！！！【Vtuber/#サボちゃん観察日記】",
-              "channelTitle": "覇王別姫樹里チャンネル",
-              "publishedAt": "2026-08-31T14:25:03.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/mbFdKLbmXTc/maxresdefault.jpg",
-              "views": 29068,
-              "likes": 667,
-              "url": "https://www.youtube.com/watch?v=mbFdKLbmXTc"
-            }
-          ],
-          "rank": 6,
-          "score": 74
-        },
-        {
-          "id": "UC_mMc2nvlfwIxHL__v3wm-g",
-          "name": "ねる先生 / NeruSensei",
-          "metrics": {
-            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
             "liveArchiveCount": 0,
             "channelCount": 1,
-            "totalViews": 271222,
-            "totalLikes": 0,
-            "viewVelocity": 1627
+            "externalChannelCount": 0,
+            "totalViews": 220465,
+            "totalLikes": 2967
           },
           "creators": [],
-          "summary": "7日間で関連動画1本。合計271,222回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "summary": "7日間の話題再生数は220,465回。本人動画220,465回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
-              "videoId": "dYJFsoNhxoE",
-              "title": "【TRPG】クリティカルの\"呼び方\"まとめ。 #vrchat #trpg #shorts 【CoC】",
-              "channelTitle": "ねる先生 / NeruSensei",
-              "publishedAt": "2026-08-27T00:00:26.000Z",
+              "videoId": "gMjAeNyuZfQ",
+              "title": "カードゲームアニメ史上に残るあまりにも内容が重すぎる伝説級のアニメ バトルスピリッツブレイヴの話をしよう!! #tcg #バトスピ#パロディ  @VolZ_0",
+              "channelTitle": "有珠川カゲホ@バトスピVtuber",
+              "publishedAt": "2026-08-29T05:35:43.000Z",
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/dYJFsoNhxoE/maxresdefault.jpg",
-              "views": 271222,
-              "likes": 0,
-              "url": "https://www.youtube.com/watch?v=dYJFsoNhxoE"
-            }
-          ],
-          "rank": 7,
-          "score": 68
-        },
-        {
-          "id": "UChCYWZOpBnp8-6dFhPC5USg",
-          "name": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 1848,
-            "totalLikes": 37,
-            "viewVelocity": 254
-          },
-          "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計1,848回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
-          "sources": [
-            {
-              "videoId": "c3igsp7bk9s",
-              "title": "【 #スパロボV】実はロボアニメあんまり知らないから、初めてのスパロボで知っていきたい🐈#04 【 VTuber #猫本にゃこ 】",
-              "channelTitle": "猫本にゃこちゃんねる / Nekomoto Nyako channel",
-              "publishedAt": "2026-09-02T15:24:17.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/c3igsp7bk9s/maxresdefault.jpg",
-              "views": 1848,
-              "likes": 37,
-              "url": "https://www.youtube.com/watch?v=c3igsp7bk9s"
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/gMjAeNyuZfQ/maxresdefault.jpg",
+              "views": 220465,
+              "likes": 2967,
+              "viewGain": 220465,
+              "attributedViewGain": 220465,
+              "url": "https://www.youtube.com/watch?v=gMjAeNyuZfQ"
             }
           ],
           "rank": 8,
-          "score": 66
+          "score": 14
         },
         {
-          "id": "UC-Hbn_VjsGLMy7_QgyjXFOg",
-          "name": "描田れん / KakitaRen",
+          "id": "UC6ixLgVB4D6ucEXb4VhZ-PA",
+          "name": "Chinami Channel ♡ 毒ヶ衣ちなみ",
+          "group": "",
           "metrics": {
-            "videoCount": 3,
-            "liveArchiveCount": 2,
+            "attentionPoints": 104588,
+            "officialViewGain": 104588,
+            "externalViewGain": 0,
+            "videoCount": 1,
+            "officialVideoCount": 1,
+            "externalVideoCount": 0,
+            "liveArchiveCount": 1,
             "channelCount": 1,
-            "totalViews": 107,
-            "totalLikes": 9,
-            "viewVelocity": 9
+            "externalChannelCount": 0,
+            "totalViews": 104588,
+            "totalLikes": 2783
           },
           "creators": [],
-          "summary": "7日間で関連動画3本、うち2本が終了済みライブ。合計107回再生の反応を確認しています。",
-          "reason": "終了したライブ配信が重なり、短時間で再生が伸びています。",
+          "summary": "7日間の話題再生数は104,588回。本人動画104,588回、外部動画0回を確認しています。",
+          "reason": "集計期間中に本人動画の再生が大きく伸びています。",
           "sources": [
             {
-              "videoId": "ne8xfZDGPKQ",
-              "title": "【めっちゃカメレオン】イラストレーターなら上手く隠れられるはず【VTuber】【描田れん】",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T15:16:29.000Z",
+              "videoId": "0pCNunStzik",
+              "title": "【完全初見】ちいかわを何も知らないメンバー3人に映画を見せた感想がこちらｗ【毒☆あきお/キムテス/あーずかい/おっＰ/毒ヶ衣ちなみ】",
+              "channelTitle": "Chinami Channel ♡ 毒ヶ衣ちなみ【Vtuber】",
+              "publishedAt": "2026-08-29T11:28:20.000Z",
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ne8xfZDGPKQ/maxresdefault.jpg",
-              "views": 59,
-              "likes": 6,
-              "url": "https://www.youtube.com/watch?v=ne8xfZDGPKQ"
-            },
-            {
-              "videoId": "2H7S4sdga9A",
-              "title": "【家族コラボ】PEAK【VTuber】【描田れん】",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-08-31T14:20:08.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/2H7S4sdga9A/maxresdefault.jpg",
-              "views": 38,
-              "likes": 2,
-              "url": "https://www.youtube.com/watch?v=2H7S4sdga9A"
-            },
-            {
-              "videoId": "Qt_yCEEOhJk",
-              "title": "料理中に起こった悲劇2",
-              "channelTitle": "描田れん / KakitaRen",
-              "publishedAt": "2026-09-02T00:15:23.000Z",
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Qt_yCEEOhJk/maxresdefault.jpg",
-              "views": 10,
-              "likes": 1,
-              "url": "https://www.youtube.com/watch?v=Qt_yCEEOhJk"
+              "isOfficial": true,
+              "sourceType": "official",
+              "thumbnail": "https://i.ytimg.com/vi/0pCNunStzik/maxresdefault.jpg",
+              "views": 104588,
+              "likes": 2783,
+              "viewGain": 104588,
+              "attributedViewGain": 104588,
+              "url": "https://www.youtube.com/watch?v=0pCNunStzik"
             }
           ],
           "rank": 9,
-          "score": 64
+          "score": 7
         },
         {
-          "id": "UC2WA4Uk_0_w2CSBAGgsGaFw",
-          "name": "マイケル",
+          "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+          "name": "大空スバル",
+          "group": "ホロライブ",
           "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 7555,
-            "totalLikes": 422,
-            "viewVelocity": 71
+            "attentionPoints": 90308,
+            "officialViewGain": 0,
+            "externalViewGain": 90308,
+            "videoCount": 5,
+            "officialVideoCount": 0,
+            "externalVideoCount": 5,
+            "liveArchiveCount": 0,
+            "channelCount": 3,
+            "externalChannelCount": 3,
+            "totalViews": 90308,
+            "totalLikes": 24136
           },
-          "creators": [],
-          "summary": "7日間で関連動画1本、うち1本が終了済みライブ。合計7,555回再生の反応を確認しています。",
-          "reason": "公開直後の再生速度と反応の新しさが相対的に高くなっています。",
+          "creators": [
+            "Koyori ch. 博衣こより - holoX -",
+            "かたくりこ",
+            "ホロ切り抜き"
+          ],
+          "summary": "7日間の話題再生数は90,308回。本人動画0回、外部動画90,308回を確認しています。",
+          "reason": "3件の外部チャンネルが切り抜き・ニュースなどで取り上げています。",
           "sources": [
             {
-              "videoId": "gBsZPIIp8j4",
-              "title": "はじめまして、日本人たち。",
-              "channelTitle": "マイケル",
-              "publishedAt": "2026-08-29T13:00:28.000Z",
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/gBsZPIIp8j4/maxresdefault.jpg",
-              "views": 7555,
-              "likes": 422,
-              "url": "https://www.youtube.com/watch?v=gBsZPIIp8j4"
+              "videoId": "hSAL_GhXnOQ",
+              "title": "【手描き】シャラップジジ【大空スバル/Hakos Baelz/Mori Calliope/Gigi Murin/ホロライブ切り抜き/切り抜き漫画】 #shorts",
+              "channelTitle": "かたくりこ",
+              "publishedAt": "2026-08-29T09:30:26.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/hSAL_GhXnOQ/maxresdefault.jpg",
+              "views": 67155,
+              "likes": 1322,
+              "viewGain": 67155,
+              "attributedViewGain": 67155,
+              "url": "https://www.youtube.com/watch?v=hSAL_GhXnOQ"
+            },
+            {
+              "videoId": "y1cpJ0E9MAQ",
+              "title": "「きゃぴ / 宝鐘マリン」踊ってみた🏴‍☠️💘 #宝鐘マリン #きゃぴ #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-28T08:00:19.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/y1cpJ0E9MAQ/maxresdefault.jpg",
+              "views": 140624,
+              "likes": 13775,
+              "viewGain": 140624,
+              "attributedViewGain": 14062,
+              "url": "https://www.youtube.com/watch?v=y1cpJ0E9MAQ"
+            },
+            {
+              "videoId": "_cixew6LYs4",
+              "title": "FRUITS ZIPPER『センセーション』踊ってみた #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #fruitszipper",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-01T08:02:51.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/_cixew6LYs4/maxresdefault.jpg",
+              "views": 55319,
+              "likes": 5332,
+              "viewGain": 55319,
+              "attributedViewGain": 5532,
+              "url": "https://www.youtube.com/watch?v=_cixew6LYs4"
+            },
+            {
+              "videoId": "1ViiQX_MtzU",
+              "title": "PiKi新曲「Twilight Twilight」踊ってみた🍑 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #Piki",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-08-31T08:00:13.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/1ViiQX_MtzU/maxresdefault.jpg",
+              "views": 28765,
+              "likes": 3650,
+              "viewGain": 28765,
+              "attributedViewGain": 2877,
+              "url": "https://www.youtube.com/watch?v=1ViiQX_MtzU"
+            },
+            {
+              "videoId": "Cke85jhUTns",
+              "title": "体がアツくなるスバル #vtuber #切り抜き #大空スバル #ホロライブ2期生 #白上フブキ #夏色まつり #一条莉々華 #7d2d #ホロライブ切り抜き #ゲーム実況 #shorts",
+              "channelTitle": "ホロ切り抜き",
+              "publishedAt": "2026-09-03T01:00:07.000Z",
+              "isLiveArchive": false,
+              "isOfficial": false,
+              "sourceType": "clip",
+              "thumbnail": "https://i.ytimg.com/vi/Cke85jhUTns/maxresdefault.jpg",
+              "views": 1364,
+              "likes": 57,
+              "viewGain": 1364,
+              "attributedViewGain": 682,
+              "url": "https://www.youtube.com/watch?v=Cke85jhUTns"
             }
           ],
           "rank": 10,
-          "score": 63
+          "score": 6
         }
       ]
     }
