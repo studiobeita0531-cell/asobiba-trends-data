@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ok",
-  "generatedAt": "2026-09-22T16:59:57.414Z",
+  "generatedAt": "2026-09-23T04:48:34.460Z",
   "regionCode": "JP",
   "language": "ja",
   "message": "",
@@ -25,8 +25,8 @@
   },
   "coverage": {
     "candidateVideos": 100,
-    "matchedVideos": 86,
-    "uniqueChannels": 86
+    "matchedVideos": 88,
+    "uniqueChannels": 88
   },
   "windows": {
     "24": {
@@ -36,40 +36,60 @@
           "name": "#にじ遊戯王祭2026",
           "fallbackTopic": true,
           "metrics": {
-            "videoCount": 7,
-            "liveArchiveCount": 7,
-            "channelCount": 7,
-            "totalViews": 1970727,
-            "totalLikes": 18502,
-            "viewVelocity": 378873
+            "videoCount": 9,
+            "liveArchiveCount": 8,
+            "channelCount": 9,
+            "totalViews": 2482316,
+            "totalLikes": 24590,
+            "viewVelocity": 150609
           },
           "creators": [
             "にじさんじ",
+            "加賀美 ハヤト/Hayato Kagami",
             "イブラヒム【にじさんじ】",
+            "VTuver切り抜き隊",
             "星川サラ / Sara Hoshikawa",
-            "天宮 こころ / Amamya Ch.",
-            "鏑木ろこ / Kaburaki Roco【にじさんじ】",
-            "壱百満天原サロメ / Hyakumantenbara Salome"
+            "天宮 こころ / Amamya Ch."
           ],
-          "summary": "24時間で関連動画7本を確認、うち7本が終了済みライブ。7チャンネルの公開データをもとに集計しています。",
-          "reason": "終了済みライブが7本あり、複数チャンネルで配信の動きが重なっています。",
+          "summary": "24時間で関連動画9本を確認、うち8本が終了済みライブ。9チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが8本あり、複数チャンネルで配信の動きが重なっています。",
           "sources": [
             {
               "videoId": "zNfeViA9maE",
               "title": "【#にじ遊戯王祭2026】にじさんじ遊戯王マスターデュエル祭2026 Day2：予選Bリーグ",
               "channelTitle": "にじさんじ",
               "publishedAt": "2026-09-22T11:47:14.000Z",
-              "views": 992658,
+              "views": 1015736,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/zNfeViA9maE/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=zNfeViA9maE"
+            },
+            {
+              "videoId": "SI1v2RgT2wk",
+              "title": "【#にじ遊戯王祭2026】　Bリーグ予選開始ッ！！それゆけコレモアイ島！！！　【にじさんじ/加賀美ハヤト】",
+              "channelTitle": "加賀美 ハヤト/Hayato Kagami",
+              "publishedAt": "2026-09-22T11:46:07.000Z",
+              "views": 305623,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/SI1v2RgT2wk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=SI1v2RgT2wk"
+            },
+            {
+              "videoId": "s13vFAPiTR0",
+              "title": "【にじ遊戯王祭2026】お友達が欲しい長尾景の全盤面封鎖クシャトリラを見た各チームの反応まとめ【にじさんじ切り抜き/梢桃音/社築/春崎エアル/山神カルタ/加賀美ハヤト/オリバーエバンス/伏見ガク】",
+              "channelTitle": "VTuver切り抜き隊",
+              "publishedAt": "2026-09-22T17:12:27.000Z",
+              "views": 172705,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/s13vFAPiTR0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=s13vFAPiTR0"
             },
             {
               "videoId": "wRIDPgTQ7EA",
               "title": "【 #にじ遊戯王祭2026 】予選リーグ【にじさんじ/イブラヒム】",
               "channelTitle": "イブラヒム【にじさんじ】",
               "publishedAt": "2026-09-22T11:37:12.000Z",
-              "views": 229870,
+              "views": 232998,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/wRIDPgTQ7EA/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=wRIDPgTQ7EA"
@@ -79,7 +99,7 @@
               "title": "【#にじ遊戯王祭2026】大会本番！妖精伝姫✨コレモアWIN！！！！！！！！！！【星川サラ/にじさんじ】",
               "channelTitle": "星川サラ / Sara Hoshikawa",
               "publishedAt": "2026-09-22T11:51:28.000Z",
-              "views": 163354,
+              "views": 166362,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/Zxt3_jTPerM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=Zxt3_jTPerM"
@@ -89,30 +109,10 @@
               "title": "✯┊ #にじ遊戯王祭2026┊大会本番！いくぞ先鋒！コレモアイ島へ！〖 天宮こころ / 加賀美ハヤト/星川サラ〗",
               "channelTitle": "天宮 こころ / Amamya Ch.",
               "publishedAt": "2026-09-22T11:52:13.000Z",
-              "views": 162184,
+              "views": 161172,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/WLbTRFC4ucM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=WLbTRFC4ucM"
-            },
-            {
-              "videoId": "NCvPD-14aWc",
-              "title": "【  #にじ遊戯王祭2026 】 いよいよBリーグ本番！行くわよ！チーム HALO-別々に路で出会った僕らは共に歩み、そして一人の道を征く- MADmaidLAND ！！！",
-              "channelTitle": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
-              "publishedAt": "2026-09-22T11:55:33.000Z",
-              "views": 148978,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/NCvPD-14aWc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=NCvPD-14aWc"
-            },
-            {
-              "videoId": "2NJ2U6l4g3w",
-              "title": "#にじ遊戯王祭2026 DAY2 ✦ 遂に本番チーム８♡ ✦壱百満天原サロメですわ～",
-              "channelTitle": "壱百満天原サロメ / Hyakumantenbara Salome",
-              "publishedAt": "2026-09-22T11:43:37.000Z",
-              "views": 142741,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/2NJ2U6l4g3w/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=2NJ2U6l4g3w"
             }
           ],
           "rank": 1,
@@ -123,40 +123,531 @@
           "name": "Apex Legends",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 8,
+            "videoCount": 6,
             "liveArchiveCount": 3,
-            "channelCount": 8,
-            "totalViews": 2158719,
-            "totalLikes": 17845,
-            "viewVelocity": 160115
+            "channelCount": 6,
+            "totalViews": 1509255,
+            "totalLikes": 11892,
+            "viewVelocity": 91579
           },
           "creators": [
-            "Kuzuha Channel",
-            "なるせ部",
-            "橘ひなの / Hinano Tachibana",
             "ぶいすぽ倉庫",
+            "橘ひなの / Hinano Tachibana",
             "SHAKAch",
-            "tttcheekyttt"
+            "LEOの遊び場【山田涼介】",
+            "不破 湊 / Fuwa Minato【にじさんじ】",
+            "KAMIto神クリップ【公認】"
           ],
-          "summary": "24時間で関連動画8本を確認、うち3本が終了済みライブ。8チャンネルの公開データをもとに集計しています。",
-          "reason": "8チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "summary": "24時間で関連動画6本を確認、うち3本が終了済みライブ。6チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが3本あり、複数チャンネルで配信の動きが重なっています。",
           "sources": [
+            {
+              "videoId": "MmqlItWH6sQ",
+              "title": "SHAKAのお子さんに名前を呼ばれて癒されたり、英語の発音の良さに驚愕するひなーの、SHAKAに冷笑系扱いされ動揺するひなーのｗｗ【橘ひなの/SHAKA/ボドカ/ぶいすぽ】",
+              "channelTitle": "ぶいすぽ倉庫",
+              "publishedAt": "2026-09-22T09:57:57.000Z",
+              "views": 397235,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/MmqlItWH6sQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=MmqlItWH6sQ"
+            },
+            {
+              "videoId": "pbT8u-UkKYQ",
+              "title": "ちょっとだけ配信。APEX",
+              "channelTitle": "LEOの遊び場【山田涼介】",
+              "publishedAt": "2026-09-22T16:10:49.000Z",
+              "views": 223031,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/pbT8u-UkKYQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pbT8u-UkKYQ"
+            },
+            {
+              "videoId": "AKaWMmxhb4Q",
+              "title": "なんでもありすぎるツルギ＆なるせのAPEXに巻き込まれるSHAKA【Apex Legends】",
+              "channelTitle": "SHAKAch",
+              "publishedAt": "2026-09-22T10:30:10.000Z",
+              "views": 290980,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/AKaWMmxhb4Q/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=AKaWMmxhb4Q"
+            },
             {
               "videoId": "eLsxNqhAleA",
               "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
               "channelTitle": "橘ひなの / Hinano Tachibana",
               "publishedAt": "2026-09-22T08:02:45.000Z",
-              "views": 324284,
+              "views": 327114,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=eLsxNqhAleA"
             },
             {
+              "videoId": "gx_sDEYjTDw",
+              "title": "【地獄アパート】極上の恐怖をあなたに【不破湊/にじさんじ】",
+              "channelTitle": "不破 湊 / Fuwa Minato【にじさんじ】",
+              "publishedAt": "2026-09-22T15:49:49.000Z",
+              "views": 145855,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/gx_sDEYjTDw/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=gx_sDEYjTDw"
+            },
+            {
+              "videoId": "4aqlXg181xg",
+              "title": "胡桃のあが見た\"夢の話”に興奮して暴走するオタクKamito【胡桃のあ/猫汰つな】【APEXまとめ】【かみと切り抜き】",
+              "channelTitle": "KAMIto神クリップ【公認】",
+              "publishedAt": "2026-09-22T16:14:47.000Z",
+              "views": 125040,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/4aqlXg181xg/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=4aqlXg181xg"
+            }
+          ],
+          "rank": 2,
+          "score": 89
+        },
+        {
+          "id": "pokemon",
+          "name": "ポケットモンスター",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 6,
+            "liveArchiveCount": 2,
+            "channelCount": 6,
+            "totalViews": 1015395,
+            "totalLikes": 4629,
+            "viewVelocity": 63676
+          },
+          "creators": [
+            "【公式】ポケモンカードチャンネル",
+            "ケビンのポケモン部屋",
+            "バンビー",
+            "くろこ",
+            "レイクレGAMES",
+            "インゲン"
+          ],
+          "summary": "24時間で関連動画6本を確認、うち2本が終了済みライブ。6チャンネルの公開データをもとに集計しています。",
+          "reason": "6チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "sources": [
+            {
+              "videoId": "Ob9KEiS_vo8",
+              "title": "〈PART2〉【ポケカCL2027 横浜】チャンピオンズリーグ2027 横浜 生放送【ポケモンカードゲーム】",
+              "channelTitle": "【公式】ポケモンカードチャンネル",
+              "publishedAt": "2026-09-22T11:16:34.000Z",
+              "views": 302611,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/Ob9KEiS_vo8/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Ob9KEiS_vo8"
+            },
+            {
+              "videoId": "kVuXOdrJrIE",
+              "title": "【気づいた時には詰み】最強アイテム採用で”攻撃せずに削りまくる”悪魔型『ガブリアス』何やっても強すぎだろ…【ポケチャン】",
+              "channelTitle": "くろこ",
+              "publishedAt": "2026-09-22T20:13:31.000Z",
+              "views": 124475,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/kVuXOdrJrIE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=kVuXOdrJrIE"
+            },
+            {
+              "videoId": "tjqmyEynfYA",
+              "title": "【緊急】18:20までに色違い4匹捕まえろ！",
+              "channelTitle": "ケビンのポケモン部屋",
+              "publishedAt": "2026-09-22T09:21:30.000Z",
+              "views": 236316,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/tjqmyEynfYA/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=tjqmyEynfYA"
+            },
+            {
+              "videoId": "Fc-0av-MTfM",
+              "title": "【ポケモンGO】個体値MAX出るまでドライブでついにあいつが出しましたwwwww(ダイマックス　ラルトス編)",
+              "channelTitle": "レイクレGAMES",
+              "publishedAt": "2026-09-22T11:00:20.000Z",
+              "views": 124157,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/Fc-0av-MTfM/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Fc-0av-MTfM"
+            },
+            {
+              "videoId": "iDNjzArG1hI",
+              "title": "【このコンボ強すぎだろ！】「サイコフィールド」で弱点を克服した『グレンアルマ』、誰で止めんの？【ポケモンチャンピオンズ】",
+              "channelTitle": "バンビー",
+              "publishedAt": "2026-09-22T09:00:33.000Z",
+              "views": 129375,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/iDNjzArG1hI/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=iDNjzArG1hI"
+            },
+            {
+              "videoId": "3akC6WK8xS4",
+              "title": "環境トップたちを完全に起点にするHBソウブレイズ、ガチ。",
+              "channelTitle": "インゲン",
+              "publishedAt": "2026-09-22T13:04:50.000Z",
+              "views": 98461,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/3akC6WK8xS4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=3akC6WK8xS4"
+            }
+          ],
+          "rank": 3,
+          "score": 87
+        },
+        {
+          "id": "minecraft",
+          "name": "Minecraft",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 5,
+            "liveArchiveCount": 2,
+            "channelCount": 5,
+            "totalViews": 1018965,
+            "totalLikes": 24267,
+            "viewVelocity": 64054
+          },
+          "creators": [
+            "ドズル社",
+            "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+            "G. Nチャンネル",
+            "KUNの50人クラフト",
+            "まいぜんシスターズ"
+          ],
+          "summary": "24時間で関連動画5本を確認、うち2本が終了済みライブ。5チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "pNDbIEaUNE0",
+              "title": "#2【 Minecraftハードコア 】〇んだら終わり！？人生初ハードコアに挑戦！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+              "channelTitle": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+              "publishedAt": "2026-09-22T16:16:27.000Z",
+              "views": 291705,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/pNDbIEaUNE0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pNDbIEaUNE0"
+            },
+            {
+              "videoId": "5IgvemsUfnE",
+              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
+              "channelTitle": "ドズル社",
+              "publishedAt": "2026-09-22T09:48:58.000Z",
+              "views": 333670,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
+            },
+            {
+              "videoId": "5jbcdgpedoU",
+              "title": "【ゆっくり実況:Minecraft】剣魔の世界を統べる Ep.56",
+              "channelTitle": "G. Nチャンネル",
+              "publishedAt": "2026-09-22T09:12:47.000Z",
+              "views": 200682,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/5jbcdgpedoU/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=5jbcdgpedoU"
+            },
+            {
+              "videoId": "KF07JKkahVU",
+              "title": "超幻想的なエンドの世界で５０人全員集合 - マインクラフト【KUN】",
+              "channelTitle": "KUNの50人クラフト",
+              "publishedAt": "2026-09-22T07:00:14.000Z",
+              "views": 152106,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/KF07JKkahVU/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=KF07JKkahVU"
+            },
+            {
+              "videoId": "ZuwyF9MSu-E",
+              "title": "１００日後に討伐される世界で本気サバイバルした結果！？【トレインイーター生活】",
+              "channelTitle": "まいぜんシスターズ",
+              "publishedAt": "2026-09-22T22:00:32.000Z",
+              "views": 40802,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/ZuwyF9MSu-E/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=ZuwyF9MSu-E"
+            }
+          ],
+          "rank": 4,
+          "score": 83
+        },
+        {
+          "id": "street-fighter-6",
+          "name": "ストリートファイター6",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 3,
+            "totalViews": 503413,
+            "totalLikes": 4268,
+            "viewVelocity": 26459
+          },
+          "creators": [
+            "キャベツの人【ゲーム紹介】",
+            "ストーム久保",
+            "ハイタニ TV"
+          ],
+          "summary": "24時間で関連動画3本を確認。3チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "Jtn_pgyW0iI",
+              "title": "龍が如くスタジオ新作にado登場も演技に賛否..個人的には好き＆朝倉未来を思い出せ/スト6が突然プリキュアコラボでザワつく/酷評続きだったバイオの映画、ついに好評＆爆裂売上で歴代No1",
+              "channelTitle": "キャベツの人【ゲーム紹介】",
+              "publishedAt": "2026-09-22T12:00:28.000Z",
+              "views": 217870,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/Jtn_pgyW0iI/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Jtn_pgyW0iI"
+            },
+            {
+              "videoId": "_c60A2r5Ojo",
+              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
+              "channelTitle": "ストーム久保",
+              "publishedAt": "2026-09-22T09:00:13.000Z",
+              "views": 143109,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
+            },
+            {
+              "videoId": "VR6dnNSJgLQ",
+              "title": "【RedBull Revenge】SFLからの因縁！カワノ vs LeSharの凄まじいレベルの高さにビビるハイタニ【SF6 ストリートファイター6 スト6】",
+              "channelTitle": "ハイタニ TV",
+              "publishedAt": "2026-09-22T06:04:45.000Z",
+              "views": 142434,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/VR6dnNSJgLQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=VR6dnNSJgLQ"
+            }
+          ],
+          "rank": 5,
+          "score": 69
+        },
+        {
+          "id": "dragon-quest",
+          "name": "ドラゴンクエスト",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 2,
+            "channelCount": 2,
+            "totalViews": 851504,
+            "totalLikes": 13585,
+            "viewVelocity": 56843
+          },
+          "creators": [
+            "Korone Ch. 戌神ころね",
+            "Patra Channel / 周防パトラ"
+          ],
+          "summary": "24時間で関連動画2本を確認、うち2本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "LyQJRzm0J9Q",
+              "title": "【トルネコの大冒険】９９階チャレンジ！！！！【１回目】※ネタバレ注意",
+              "channelTitle": "Korone Ch. 戌神ころね",
+              "publishedAt": "2026-09-22T14:56:13.000Z",
+              "views": 602971,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/LyQJRzm0J9Q/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=LyQJRzm0J9Q"
+            },
+            {
+              "videoId": "mFpgJSZFJMo",
+              "title": "#3【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
+              "channelTitle": "Patra Channel / 周防パトラ",
+              "publishedAt": "2026-09-22T10:13:57.000Z",
+              "views": 248533,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/mFpgJSZFJMo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=mFpgJSZFJMo"
+            }
+          ],
+          "rank": 6,
+          "score": 66
+        },
+        {
+          "id": "hashtag-生スバル",
+          "name": "#生スバル",
+          "fallbackTopic": true,
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 1,
+            "channelCount": 2,
+            "totalViews": 612988,
+            "totalLikes": 11164,
+            "viewVelocity": 46637
+          },
+          "creators": [
+            "Subaru Ch. 大空スバル",
+            "ホロライブ速報【切り抜きch】"
+          ],
+          "summary": "24時間で関連動画2本を確認、うち1本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "EHcGLCvLxRk",
+              "title": "【#生スバル】スバルに似てるマ？！？噂の餓狼伝説やるしゅばあああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+              "channelTitle": "Subaru Ch. 大空スバル",
+              "publishedAt": "2026-09-22T14:08:37.000Z",
+              "views": 464608,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/EHcGLCvLxRk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=EHcGLCvLxRk"
+            },
+            {
+              "videoId": "4vE7J-3HPp4",
+              "title": "餓狼伝説に何故かいるクリロナやエロい女たちに目移りしながらも、テリー・ボガードのストーリーに感動する大空スバル ※ネタバレあり【餓狼CotW/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブ速報【切り抜きch】",
+              "publishedAt": "2026-09-22T18:53:23.000Z",
+              "views": 148380,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/4vE7J-3HPp4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=4vE7J-3HPp4"
+            }
+          ],
+          "rank": 7,
+          "score": 65
+        },
+        {
+          "id": "hashtag-ホロ甲2026",
+          "name": "#ホロ甲2026",
+          "fallbackTopic": true,
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 2,
+            "channelCount": 2,
+            "totalViews": 465288,
+            "totalLikes": 10788,
+            "viewVelocity": 25472
+          },
+          "creators": [
+            "Koyori ch. 博衣こより - holoX -",
+            "Riona Ch. 響咲リオナ - FLOW GLOW"
+          ],
+          "summary": "24時間で関連動画2本を確認、うち2本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "RrpVc4o4Hw4",
+              "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目秋大会！全国制覇目指して！！！🏆✨【博衣こより/ホロライブ】",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-22T08:35:07.000Z",
+              "views": 288252,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/RrpVc4o4Hw4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=RrpVc4o4Hw4"
+            },
+            {
+              "videoId": "hZfAOQA60jo",
+              "title": "【 ＃ホロ甲2026 】壁咲高校、２年目夏！どこまで勝ち進める！？🔥【ホロライブ FLOW GLOW 響咲リオナ】",
+              "channelTitle": "Riona Ch. 響咲リオナ - FLOW GLOW",
+              "publishedAt": "2026-09-22T13:01:47.000Z",
+              "views": 177036,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/hZfAOQA60jo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=hZfAOQA60jo"
+            }
+          ],
+          "rank": 8,
+          "score": 64
+        },
+        {
+          "id": "ark-survival",
+          "name": "ARK",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 1,
+            "channelCount": 1,
+            "totalViews": 284819,
+            "totalLikes": 2047,
+            "viewVelocity": 24599
+          },
+          "creators": [
+            "エクス・アルビオ -Ex Albio-"
+          ],
+          "summary": "24時間で関連動画1本を確認、うち1本が終了済みライブ。1チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "POSWzYoea4w",
+              "title": "新しく来たARK鯖で超久しぶりの新ラグナロク完全攻略目指すぞ！！『 ARK: Survival Ascended 』＃4【 エビオ/にじさんじ 】",
+              "channelTitle": "エクス・アルビオ -Ex Albio-",
+              "publishedAt": "2026-09-22T17:13:52.000Z",
+              "views": 284819,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/POSWzYoea4w/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=POSWzYoea4w"
+            }
+          ],
+          "rank": 9,
+          "score": 53
+        },
+        {
+          "id": "mario-kart-world",
+          "name": "マリオカート ワールド",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 1,
+            "liveArchiveCount": 0,
+            "channelCount": 1,
+            "totalViews": 191294,
+            "totalLikes": 1251,
+            "viewVelocity": 16699
+          },
+          "creators": [
+            "加藤純一ロードショー"
+          ],
+          "summary": "24時間で関連動画1本を確認。1チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "VYMYZaWOQzw",
+              "title": "加藤純一のマリオカートワールドダイジェスト レート9000への道【2026/09/21】",
+              "channelTitle": "加藤純一ロードショー",
+              "publishedAt": "2026-09-22T17:21:16.000Z",
+              "views": 191294,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/VYMYZaWOQzw/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=VYMYZaWOQzw"
+            }
+          ],
+          "rank": 10,
+          "score": 51
+        }
+      ]
+    },
+    "72": {
+      "rankings": [
+        {
+          "id": "apex-legends",
+          "name": "Apex Legends",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 11,
+            "liveArchiveCount": 5,
+            "channelCount": 11,
+            "totalViews": 3041613,
+            "totalLikes": 24263,
+            "viewVelocity": 138873
+          },
+          "creators": [
+            "Kuzuha Channel",
+            "ぶいすぽ倉庫",
+            "なるせ部",
+            "橘ひなの / Hinano Tachibana",
+            "SHAKAch",
+            "LEOの遊び場【山田涼介】"
+          ],
+          "summary": "3日間で関連動画11本を確認、うち5本が終了済みライブ。11チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが5本あり、複数チャンネルで配信の動きが重なっています。",
+          "sources": [
+            {
               "videoId": "NgBvJE1lMnE",
               "title": "【APEX】鈍化するまで【ゴールデンウィーク4】",
               "channelTitle": "Kuzuha Channel",
               "publishedAt": "2026-09-21T17:59:26.000Z",
-              "views": 756849,
+              "views": 750448,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/NgBvJE1lMnE/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=NgBvJE1lMnE"
@@ -166,40 +657,137 @@
               "title": "SHAKAのお子さんに名前を呼ばれて癒されたり、英語の発音の良さに驚愕するひなーの、SHAKAに冷笑系扱いされ動揺するひなーのｗｗ【橘ひなの/SHAKA/ボドカ/ぶいすぽ】",
               "channelTitle": "ぶいすぽ倉庫",
               "publishedAt": "2026-09-22T09:57:57.000Z",
-              "views": 204524,
+              "views": 397235,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/MmqlItWH6sQ/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=MmqlItWH6sQ"
+            },
+            {
+              "videoId": "pbT8u-UkKYQ",
+              "title": "ちょっとだけ配信。APEX",
+              "channelTitle": "LEOの遊び場【山田涼介】",
+              "publishedAt": "2026-09-22T16:10:49.000Z",
+              "views": 223031,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/pbT8u-UkKYQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pbT8u-UkKYQ"
             },
             {
               "videoId": "AKaWMmxhb4Q",
               "title": "なんでもありすぎるツルギ＆なるせのAPEXに巻き込まれるSHAKA【Apex Legends】",
               "channelTitle": "SHAKAch",
               "publishedAt": "2026-09-22T10:30:10.000Z",
-              "views": 146568,
+              "views": 290980,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/AKaWMmxhb4Q/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=AKaWMmxhb4Q"
             },
             {
-              "videoId": "ivvBCzs0HEQ",
-              "title": "【 APEX LEGENDS  】やるぞ、理由は楽しいから w/ 釈迦 柊ツルギ",
-              "channelTitle": "なるせ部",
-              "publishedAt": "2026-09-21T18:00:18.000Z",
-              "views": 365994,
+              "videoId": "eLsxNqhAleA",
+              "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
+              "channelTitle": "橘ひなの / Hinano Tachibana",
+              "publishedAt": "2026-09-22T08:02:45.000Z",
+              "views": 327114,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ivvBCzs0HEQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=ivvBCzs0HEQ"
+              "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=eLsxNqhAleA"
             },
             {
-              "videoId": "wNqoszq0fcs",
-              "title": "神IGLで爆盛りキャリーして最高に気持ちよくなるボドカ【APEX/関優太/じゃすぱー】",
-              "channelTitle": "ボドカ / Riddle - ゲーム実況",
-              "publishedAt": "2026-09-22T03:00:13.000Z",
-              "views": 120808,
+              "videoId": "gx_sDEYjTDw",
+              "title": "【地獄アパート】極上の恐怖をあなたに【不破湊/にじさんじ】",
+              "channelTitle": "不破 湊 / Fuwa Minato【にじさんじ】",
+              "publishedAt": "2026-09-22T15:49:49.000Z",
+              "views": 145855,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/gx_sDEYjTDw/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=gx_sDEYjTDw"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
+          "id": "hashtag-にじ遊戯王祭2026",
+          "name": "#にじ遊戯王祭2026",
+          "fallbackTopic": true,
+          "metrics": {
+            "videoCount": 10,
+            "liveArchiveCount": 9,
+            "channelCount": 10,
+            "totalViews": 2851080,
+            "totalLikes": 27955,
+            "viewVelocity": 159732
+          },
+          "creators": [
+            "にじさんじ",
+            "社築",
+            "加賀美 ハヤト/Hayato Kagami",
+            "イブラヒム【にじさんじ】",
+            "VTuver切り抜き隊",
+            "星川サラ / Sara Hoshikawa"
+          ],
+          "summary": "3日間で関連動画10本を確認、うち9本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが9本あり、複数チャンネルで配信の動きが重なっています。",
+          "sources": [
+            {
+              "videoId": "zNfeViA9maE",
+              "title": "【#にじ遊戯王祭2026】にじさんじ遊戯王マスターデュエル祭2026 Day2：予選Bリーグ",
+              "channelTitle": "にじさんじ",
+              "publishedAt": "2026-09-22T11:47:14.000Z",
+              "views": 1015736,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/zNfeViA9maE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=zNfeViA9maE"
+            },
+            {
+              "videoId": "SI1v2RgT2wk",
+              "title": "【#にじ遊戯王祭2026】　Bリーグ予選開始ッ！！それゆけコレモアイ島！！！　【にじさんじ/加賀美ハヤト】",
+              "channelTitle": "加賀美 ハヤト/Hayato Kagami",
+              "publishedAt": "2026-09-22T11:46:07.000Z",
+              "views": 305623,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/SI1v2RgT2wk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=SI1v2RgT2wk"
+            },
+            {
+              "videoId": "s13vFAPiTR0",
+              "title": "【にじ遊戯王祭2026】お友達が欲しい長尾景の全盤面封鎖クシャトリラを見た各チームの反応まとめ【にじさんじ切り抜き/梢桃音/社築/春崎エアル/山神カルタ/加賀美ハヤト/オリバーエバンス/伏見ガク】",
+              "channelTitle": "VTuver切り抜き隊",
+              "publishedAt": "2026-09-22T17:12:27.000Z",
+              "views": 172705,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/wNqoszq0fcs/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=wNqoszq0fcs"
+              "thumbnail": "https://i.ytimg.com/vi/s13vFAPiTR0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=s13vFAPiTR0"
+            },
+            {
+              "videoId": "wRIDPgTQ7EA",
+              "title": "【 #にじ遊戯王祭2026 】予選リーグ【にじさんじ/イブラヒム】",
+              "channelTitle": "イブラヒム【にじさんじ】",
+              "publishedAt": "2026-09-22T11:37:12.000Z",
+              "views": 232998,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/wRIDPgTQ7EA/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=wRIDPgTQ7EA"
+            },
+            {
+              "videoId": "Zxt3_jTPerM",
+              "title": "【#にじ遊戯王祭2026】大会本番！妖精伝姫✨コレモアWIN！！！！！！！！！！【星川サラ/にじさんじ】",
+              "channelTitle": "星川サラ / Sara Hoshikawa",
+              "publishedAt": "2026-09-22T11:51:28.000Z",
+              "views": 166362,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/Zxt3_jTPerM/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Zxt3_jTPerM"
+            },
+            {
+              "videoId": "WLbTRFC4ucM",
+              "title": "✯┊ #にじ遊戯王祭2026┊大会本番！いくぞ先鋒！コレモアイ島へ！〖 天宮こころ / 加賀美ハヤト/星川サラ〗",
+              "channelTitle": "天宮 こころ / Amamya Ch.",
+              "publishedAt": "2026-09-22T11:52:13.000Z",
+              "views": 161172,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/WLbTRFC4ucM/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=WLbTRFC4ucM"
             }
           ],
           "rank": 2,
@@ -210,588 +798,130 @@
           "name": "Minecraft",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 6,
-            "liveArchiveCount": 2,
-            "channelCount": 6,
-            "totalViews": 1070181,
-            "totalLikes": 24522,
-            "viewVelocity": 86330
-          },
-          "creators": [
-            "ホロライブ日記",
-            "Watame Ch. 角巻わため",
-            "ドズル社",
-            "G. Nチャンネル",
-            "KUNの50人クラフト",
-            "まいぜんシスターズ"
-          ],
-          "summary": "24時間で関連動画6本を確認、うち2本が終了済みライブ。6チャンネルの公開データをもとに集計しています。",
-          "reason": "6チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
-          "sources": [
-            {
-              "videoId": "5IgvemsUfnE",
-              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
-              "channelTitle": "ドズル社",
-              "publishedAt": "2026-09-22T09:48:58.000Z",
-              "views": 222211,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
-            },
-            {
-              "videoId": "5jbcdgpedoU",
-              "title": "【ゆっくり実況:Minecraft】剣魔の世界を統べる Ep.56",
-              "channelTitle": "G. Nチャンネル",
-              "publishedAt": "2026-09-22T09:12:47.000Z",
-              "views": 139142,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/5jbcdgpedoU/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=5jbcdgpedoU"
-            },
-            {
-              "videoId": "GoDkP6ecjBg",
-              "title": "【先輩ごっこ】架空のダルい後輩への接し方が違いすぎる件【ホロライブ切り抜き/水宮枢/輪堂千速/綺々羅々ヴィヴィ】",
-              "channelTitle": "ホロライブ日記",
-              "publishedAt": "2026-09-21T17:41:54.000Z",
-              "views": 268276,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/GoDkP6ecjBg/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=GoDkP6ecjBg"
-            },
-            {
-              "videoId": "KF07JKkahVU",
-              "title": "超幻想的なエンドの世界で５０人全員集合 - マインクラフト【KUN】",
-              "channelTitle": "KUNの50人クラフト",
-              "publishedAt": "2026-09-22T07:00:14.000Z",
-              "views": 112116,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/KF07JKkahVU/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=KF07JKkahVU"
-            },
-            {
-              "videoId": "ryRxq2HQ2Bg",
-              "title": "【 #マイクラ肝試し2026 】マイクラ肝試しの地に初めて降り立つひつじ...🐏🌳【角巻わため/ホロライブ４期生】",
-              "channelTitle": "Watame Ch. 角巻わため",
-              "publishedAt": "2026-09-21T17:16:59.000Z",
-              "views": 238141,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ryRxq2HQ2Bg/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=ryRxq2HQ2Bg"
-            },
-            {
-              "videoId": "MvT77ZZlN9A",
-              "title": "最強の文明作り対決【まいくら・マインクラフト】",
-              "channelTitle": "まいぜんシスターズ",
-              "publishedAt": "2026-09-21T22:00:09.000Z",
-              "views": 90295,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/MvT77ZZlN9A/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=MvT77ZZlN9A"
-            }
-          ],
-          "rank": 3,
-          "score": 90
-        },
-        {
-          "id": "pokemon",
-          "name": "ポケットモンスター",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 5,
+            "videoCount": 10,
             "liveArchiveCount": 3,
-            "channelCount": 5,
-            "totalViews": 1252157,
-            "totalLikes": 8613,
-            "viewVelocity": 127338
+            "channelCount": 10,
+            "totalViews": 3077466,
+            "totalLikes": 75746,
+            "viewVelocity": 110483
           },
           "creators": [
-            "鈴原るる【にじさんじ所属】",
-            "【公式】ポケモンカードチャンネル",
-            "ケビンのポケモン部屋",
-            "くろこ",
-            "バンビー"
-          ],
-          "summary": "24時間で関連動画5本を確認、うち3本が終了済みライブ。5チャンネルの公開データをもとに集計しています。",
-          "reason": "終了済みライブが3本あり、複数チャンネルで配信の動きが重なっています。",
-          "sources": [
-            {
-              "videoId": "Ob9KEiS_vo8",
-              "title": "〈PART2〉【ポケカCL2027 横浜】チャンピオンズリーグ2027 横浜 生放送【ポケモンカードゲーム】",
-              "channelTitle": "【公式】ポケモンカードチャンネル",
-              "publishedAt": "2026-09-22T11:16:34.000Z",
-              "views": 287652,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/Ob9KEiS_vo8/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Ob9KEiS_vo8"
-            },
-            {
-              "videoId": "tjqmyEynfYA",
-              "title": "【緊急】18:20までに色違い4匹捕まえろ！",
-              "channelTitle": "ケビンのポケモン部屋",
-              "publishedAt": "2026-09-22T09:21:30.000Z",
-              "views": 236316,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/tjqmyEynfYA/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=tjqmyEynfYA"
-            },
-            {
-              "videoId": "xk3YTvP7LO0",
-              "title": "【Bloodborne】シルバーウィークフロム！ブラボやるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-              "channelTitle": "鈴原るる【にじさんじ所属】",
-              "publishedAt": "2026-09-21T23:43:34.000Z",
-              "views": 441413,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/xk3YTvP7LO0/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=xk3YTvP7LO0"
-            },
-            {
-              "videoId": "iDNjzArG1hI",
-              "title": "【このコンボ強すぎだろ！】「サイコフィールド」で弱点を克服した『グレンアルマ』、誰で止めんの？【ポケモンチャンピオンズ】",
-              "channelTitle": "バンビー",
-              "publishedAt": "2026-09-22T09:00:33.000Z",
-              "views": 89463,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/iDNjzArG1hI/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=iDNjzArG1hI"
-            },
-            {
-              "videoId": "tHljgIXtA8I",
-              "title": "【攻守共に完璧】タイプ、特性、技範囲全てが優秀で現環境に刺さりまくる『ミロカロス』時代きたわ。【ポケチャン】",
-              "channelTitle": "くろこ",
-              "publishedAt": "2026-09-21T20:00:13.000Z",
-              "views": 197313,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/tHljgIXtA8I/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=tHljgIXtA8I"
-            }
-          ],
-          "rank": 4,
-          "score": 88
-        },
-        {
-          "id": "street-fighter-6",
-          "name": "ストリートファイター6",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 0,
-            "channelCount": 2,
-            "totalViews": 199943,
-            "totalLikes": 2026,
-            "viewVelocity": 21507
-          },
-          "creators": [
-            "ハイタニ TV",
-            "ストーム久保"
-          ],
-          "summary": "24時間で関連動画2本を確認。2チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "_c60A2r5Ojo",
-              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
-              "channelTitle": "ストーム久保",
-              "publishedAt": "2026-09-22T09:00:13.000Z",
-              "views": 95451,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
-            },
-            {
-              "videoId": "VR6dnNSJgLQ",
-              "title": "【RedBull Revenge】SFLからの因縁！カワノ vs LeSharの凄まじいレベルの高さにビビるハイタニ【SF6 ストリートファイター6 スト6】",
-              "channelTitle": "ハイタニ TV",
-              "publishedAt": "2026-09-22T06:04:45.000Z",
-              "views": 104492,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/VR6dnNSJgLQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=VR6dnNSJgLQ"
-            }
-          ],
-          "rank": 5,
-          "score": 63
-        },
-        {
-          "id": "roblox",
-          "name": "Roblox",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 0,
-            "channelCount": 2,
-            "totalViews": 150405,
-            "totalLikes": 2919,
-            "viewVelocity": 14417
-          },
-          "creators": [
-            "ネオンch",
-            "てきと"
-          ],
-          "summary": "24時間で関連動画2本を確認。2チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "mLp7cZn7JFE",
-              "title": "大量のSCPを合体させまくるロブロックス...",
-              "channelTitle": "てきと",
-              "publishedAt": "2026-09-22T08:00:21.000Z",
-              "views": 72978,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/mLp7cZn7JFE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mLp7cZn7JFE"
-            },
-            {
-              "videoId": "Ng7zjJqk1Vc",
-              "title": "【ロブロックス】海の中で激レアな卵を盗みまくるロブロックス！【Roblox/ブレインロット/ネオンch/ゆっくり実況】",
-              "channelTitle": "ネオンch",
-              "publishedAt": "2026-09-22T04:42:50.000Z",
-              "views": 77427,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Ng7zjJqk1Vc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Ng7zjJqk1Vc"
-            }
-          ],
-          "rank": 6,
-          "score": 62
-        },
-        {
-          "id": "dragon-quest",
-          "name": "ドラゴンクエスト",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 249802,
-            "totalLikes": 3334,
-            "viewVelocity": 36916
-          },
-          "creators": [
-            "Patra Channel / 周防パトラ"
-          ],
-          "summary": "24時間で関連動画1本を確認、うち1本が終了済みライブ。1チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "mFpgJSZFJMo",
-              "title": "【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
-              "channelTitle": "Patra Channel / 周防パトラ",
-              "publishedAt": "2026-09-22T10:13:57.000Z",
-              "views": 249802,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/mFpgJSZFJMo/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mFpgJSZFJMo"
-            }
-          ],
-          "rank": 7,
-          "score": 56
-        },
-        {
-          "id": "genshin-impact",
-          "name": "原神",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 282104,
-            "totalLikes": 13948,
-            "viewVelocity": 21709
-          },
-          "creators": [
-            "原神-Genshin-公式"
-          ],
-          "summary": "24時間で関連動画1本を確認。1チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "h_d2YD62xmA",
-              "title": "【原神】キャラクタートレーラー ヴォジャニーツァ（CV：伊藤かな恵）「歌声の海に沈む夜」",
-              "channelTitle": "原神-Genshin-公式",
-              "publishedAt": "2026-09-22T04:00:17.000Z",
-              "views": 282104,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/h_d2YD62xmA/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=h_d2YD62xmA"
-            }
-          ],
-          "rank": 8,
-          "score": 53
-        },
-        {
-          "id": "ark-survival",
-          "name": "ARK",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 1,
-            "channelCount": 1,
-            "totalViews": 282064,
-            "totalLikes": 2148,
-            "viewVelocity": 11814
-          },
-          "creators": [
-            "エクス・アルビオ -Ex Albio-"
-          ],
-          "summary": "24時間で関連動画1本を確認、うち1本が終了済みライブ。1チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "6tgoDsXeIHk",
-              "title": "新しく来たARK鯖で超久しぶりの新ラグナロク完全攻略目指すぞ！！『 ARK: Survival Ascended 』＃3【 エビオ/にじさんじ 】",
-              "channelTitle": "エクス・アルビオ -Ex Albio-",
-              "publishedAt": "2026-09-21T17:07:25.000Z",
-              "views": 282064,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/6tgoDsXeIHk/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=6tgoDsXeIHk"
-            }
-          ],
-          "rank": 9,
-          "score": 52
-        },
-        {
-          "id": "honkai-star-rail",
-          "name": "崩壊：スターレイル",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 1,
-            "liveArchiveCount": 0,
-            "channelCount": 1,
-            "totalViews": 222766,
-            "totalLikes": 3182,
-            "viewVelocity": 16851
-          },
-          "creators": [
-            "マグロヘッド"
-          ],
-          "summary": "24時間で関連動画1本を確認。1チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "wuNO1osf7zI",
-              "title": "【スタレ】限定★５「パール」は強いのか？無凸で解説。光円錐/遺物/PT編成/凸orモチーフ…全てが分かる！【崩壊スターレイル】",
-              "channelTitle": "マグロヘッド",
-              "publishedAt": "2026-09-22T03:46:45.000Z",
-              "views": 222766,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/wuNO1osf7zI/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=wuNO1osf7zI"
-            }
-          ],
-          "rank": 10,
-          "score": 52
-        }
-      ]
-    },
-    "72": {
-      "rankings": [
-        {
-          "id": "hashtag-にじ遊戯王祭2026",
-          "name": "#にじ遊戯王祭2026",
-          "fallbackTopic": true,
-          "metrics": {
-            "videoCount": 12,
-            "liveArchiveCount": 11,
-            "channelCount": 12,
-            "totalViews": 3142557,
-            "totalLikes": 32367,
-            "viewVelocity": 420217
-          },
-          "creators": [
-            "にじさんじ",
-            "社築",
-            "長尾 景 / Nagao Kei【にじさんじ】",
-            "小清水 透 / Koshimizu Toru【にじさんじ】",
-            "イブラヒム【にじさんじ】",
-            "星川サラ / Sara Hoshikawa"
-          ],
-          "summary": "3日間で関連動画12本を確認、うち11本が終了済みライブ。12チャンネルの公開データをもとに集計しています。",
-          "reason": "終了済みライブが11本あり、複数チャンネルで配信の動きが重なっています。",
-          "sources": [
-            {
-              "videoId": "zNfeViA9maE",
-              "title": "【#にじ遊戯王祭2026】にじさんじ遊戯王マスターデュエル祭2026 Day2：予選Bリーグ",
-              "channelTitle": "にじさんじ",
-              "publishedAt": "2026-09-22T11:47:14.000Z",
-              "views": 992658,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/zNfeViA9maE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=zNfeViA9maE"
-            },
-            {
-              "videoId": "wRIDPgTQ7EA",
-              "title": "【 #にじ遊戯王祭2026 】予選リーグ【にじさんじ/イブラヒム】",
-              "channelTitle": "イブラヒム【にじさんじ】",
-              "publishedAt": "2026-09-22T11:37:12.000Z",
-              "views": 229870,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/wRIDPgTQ7EA/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=wRIDPgTQ7EA"
-            },
-            {
-              "videoId": "Zxt3_jTPerM",
-              "title": "【#にじ遊戯王祭2026】大会本番！妖精伝姫✨コレモアWIN！！！！！！！！！！【星川サラ/にじさんじ】",
-              "channelTitle": "星川サラ / Sara Hoshikawa",
-              "publishedAt": "2026-09-22T11:51:28.000Z",
-              "views": 163354,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/Zxt3_jTPerM/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Zxt3_jTPerM"
-            },
-            {
-              "videoId": "WLbTRFC4ucM",
-              "title": "✯┊ #にじ遊戯王祭2026┊大会本番！いくぞ先鋒！コレモアイ島へ！〖 天宮こころ / 加賀美ハヤト/星川サラ〗",
-              "channelTitle": "天宮 こころ / Amamya Ch.",
-              "publishedAt": "2026-09-22T11:52:13.000Z",
-              "views": 162184,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/WLbTRFC4ucM/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=WLbTRFC4ucM"
-            },
-            {
-              "videoId": "NCvPD-14aWc",
-              "title": "【  #にじ遊戯王祭2026 】 いよいよBリーグ本番！行くわよ！チーム HALO-別々に路で出会った僕らは共に歩み、そして一人の道を征く- MADmaidLAND ！！！",
-              "channelTitle": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
-              "publishedAt": "2026-09-22T11:55:33.000Z",
-              "views": 148978,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/NCvPD-14aWc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=NCvPD-14aWc"
-            },
-            {
-              "videoId": "2NJ2U6l4g3w",
-              "title": "#にじ遊戯王祭2026 DAY2 ✦ 遂に本番チーム８♡ ✦壱百満天原サロメですわ～",
-              "channelTitle": "壱百満天原サロメ / Hyakumantenbara Salome",
-              "publishedAt": "2026-09-22T11:43:37.000Z",
-              "views": 142741,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/2NJ2U6l4g3w/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=2NJ2U6l4g3w"
-            }
-          ],
-          "rank": 1,
-          "score": 100
-        },
-        {
-          "id": "minecraft",
-          "name": "Minecraft",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 11,
-            "liveArchiveCount": 3,
-            "channelCount": 11,
-            "totalViews": 3795588,
-            "totalLikes": 85123,
-            "viewVelocity": 153536
-          },
-          "creators": [
-            "HikakinGames",
             "Ado",
             "ウォーターチャレンジ",
+            "ドズル社",
             "ちろぴの",
-            "ホロライブ日記",
-            "Watame Ch. 角巻わため"
+            "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+            "ホロライブ日記"
           ],
-          "summary": "3日間で関連動画11本を確認、うち3本が終了済みライブ。11チャンネルの公開データをもとに集計しています。",
-          "reason": "11チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "summary": "3日間で関連動画10本を確認、うち3本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
+          "reason": "10チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
           "sources": [
             {
-              "videoId": "5IgvemsUfnE",
-              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
-              "channelTitle": "ドズル社",
-              "publishedAt": "2026-09-22T09:48:58.000Z",
-              "views": 222211,
+              "videoId": "pNDbIEaUNE0",
+              "title": "#2【 Minecraftハードコア 】〇んだら終わり！？人生初ハードコアに挑戦！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+              "channelTitle": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+              "publishedAt": "2026-09-22T16:16:27.000Z",
+              "views": 291705,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
+              "thumbnail": "https://i.ytimg.com/vi/pNDbIEaUNE0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pNDbIEaUNE0"
             },
             {
               "videoId": "SWwB2b9oyGI",
               "title": "Minecraftであそぼう",
               "channelTitle": "Ado",
               "publishedAt": "2026-09-21T08:20:50.000Z",
-              "views": 949474,
+              "views": 977926,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/SWwB2b9oyGI/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=SWwB2b9oyGI"
+            },
+            {
+              "videoId": "5IgvemsUfnE",
+              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
+              "channelTitle": "ドズル社",
+              "publishedAt": "2026-09-22T09:48:58.000Z",
+              "views": 333670,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
             },
             {
               "videoId": "5jbcdgpedoU",
               "title": "【ゆっくり実況:Minecraft】剣魔の世界を統べる Ep.56",
               "channelTitle": "G. Nチャンネル",
               "publishedAt": "2026-09-22T09:12:47.000Z",
-              "views": 139142,
+              "views": 200682,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/5jbcdgpedoU/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=5jbcdgpedoU"
             },
             {
-              "videoId": "X6d7mFFG7Z8",
-              "title": "【マインクラフト】神回過ぎる！まだ村発見事件【ヒカクラ2 Part178】",
-              "channelTitle": "HikakinGames",
-              "publishedAt": "2026-09-20T07:08:57.000Z",
-              "views": 1031639,
+              "videoId": "djEl_qqn--g",
+              "title": "怪しすぎる保育園で生き残ることができるのか？【 マイクラ / マインクラフト 】",
+              "channelTitle": "ウォーターチャレンジ",
+              "publishedAt": "2026-09-21T05:39:25.000Z",
+              "views": 384480,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/X6d7mFFG7Z8/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=X6d7mFFG7Z8"
+              "thumbnail": "https://i.ytimg.com/vi/djEl_qqn--g/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=djEl_qqn--g"
             },
             {
               "videoId": "GoDkP6ecjBg",
               "title": "【先輩ごっこ】架空のダルい後輩への接し方が違いすぎる件【ホロライブ切り抜き/水宮枢/輪堂千速/綺々羅々ヴィヴィ】",
               "channelTitle": "ホロライブ日記",
               "publishedAt": "2026-09-21T17:41:54.000Z",
-              "views": 268276,
+              "views": 275053,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/GoDkP6ecjBg/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=GoDkP6ecjBg"
-            },
-            {
-              "videoId": "KF07JKkahVU",
-              "title": "超幻想的なエンドの世界で５０人全員集合 - マインクラフト【KUN】",
-              "channelTitle": "KUNの50人クラフト",
-              "publishedAt": "2026-09-22T07:00:14.000Z",
-              "views": 112116,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/KF07JKkahVU/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=KF07JKkahVU"
             }
           ],
-          "rank": 2,
-          "score": 95
+          "rank": 3,
+          "score": 97
         },
         {
           "id": "pokemon",
           "name": "ポケットモンスター",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 10,
-            "liveArchiveCount": 3,
-            "channelCount": 10,
-            "totalViews": 2330071,
-            "totalLikes": 16992,
-            "viewVelocity": 163799
+            "videoCount": 8,
+            "liveArchiveCount": 2,
+            "channelCount": 8,
+            "totalViews": 1623465,
+            "totalLikes": 9015,
+            "viewVelocity": 78317
           },
           "creators": [
-            "鈴原るる【にじさんじ所属】",
             "ライバロリ",
             "【公式】ポケモンカードチャンネル",
             "バンビーsub",
-            "もこうの実況",
-            "ケビンのポケモン部屋"
+            "ケビンのポケモン部屋",
+            "バンビー",
+            "くろこ"
           ],
-          "summary": "3日間で関連動画10本を確認、うち3本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
-          "reason": "10チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "summary": "3日間で関連動画8本を確認、うち2本が終了済みライブ。8チャンネルの公開データをもとに集計しています。",
+          "reason": "8チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
           "sources": [
             {
               "videoId": "Ob9KEiS_vo8",
               "title": "〈PART2〉【ポケカCL2027 横浜】チャンピオンズリーグ2027 横浜 生放送【ポケモンカードゲーム】",
               "channelTitle": "【公式】ポケモンカードチャンネル",
               "publishedAt": "2026-09-22T11:16:34.000Z",
-              "views": 287652,
+              "views": 302611,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/Ob9KEiS_vo8/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=Ob9KEiS_vo8"
+            },
+            {
+              "videoId": "kVuXOdrJrIE",
+              "title": "【気づいた時には詰み】最強アイテム採用で”攻撃せずに削りまくる”悪魔型『ガブリアス』何やっても強すぎだろ…【ポケチャン】",
+              "channelTitle": "くろこ",
+              "publishedAt": "2026-09-22T20:13:31.000Z",
+              "views": 124475,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/kVuXOdrJrIE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=kVuXOdrJrIE"
             },
             {
               "videoId": "tjqmyEynfYA",
@@ -804,131 +934,34 @@
               "url": "https://www.youtube.com/watch?v=tjqmyEynfYA"
             },
             {
-              "videoId": "xk3YTvP7LO0",
-              "title": "【Bloodborne】シルバーウィークフロム！ブラボやるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-              "channelTitle": "鈴原るる【にじさんじ所属】",
-              "publishedAt": "2026-09-21T23:43:34.000Z",
-              "views": 441413,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/xk3YTvP7LO0/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=xk3YTvP7LO0"
-            },
-            {
-              "videoId": "iDNjzArG1hI",
-              "title": "【このコンボ強すぎだろ！】「サイコフィールド」で弱点を克服した『グレンアルマ』、誰で止めんの？【ポケモンチャンピオンズ】",
-              "channelTitle": "バンビー",
-              "publishedAt": "2026-09-22T09:00:33.000Z",
-              "views": 89463,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/iDNjzArG1hI/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=iDNjzArG1hI"
-            },
-            {
               "videoId": "4hJLQfMcssg",
               "title": "【スカウトバトル】「ポケモン最強男」VS「 なめられてる妻」真剣勝負したらまさかの結果に……。",
               "channelTitle": "バンビーsub",
               "publishedAt": "2026-09-21T12:42:58.000Z",
-              "views": 279116,
+              "views": 302137,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/4hJLQfMcssg/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=4hJLQfMcssg"
             },
             {
-              "videoId": "tHljgIXtA8I",
-              "title": "【攻守共に完璧】タイプ、特性、技範囲全てが優秀で現環境に刺さりまくる『ミロカロス』時代きたわ。【ポケチャン】",
-              "channelTitle": "くろこ",
-              "publishedAt": "2026-09-21T20:00:13.000Z",
-              "views": 197313,
+              "videoId": "oqcK57PEdxY",
+              "title": "『メガルカリオＺ』覚醒。まだバレてない完全オリジナル調整で異次元級の強さへ。【ポケモンチャンピオンズ】",
+              "channelTitle": "ライバロリ",
+              "publishedAt": "2026-09-21T09:45:13.000Z",
+              "views": 305933,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/tHljgIXtA8I/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=tHljgIXtA8I"
-            }
-          ],
-          "rank": 3,
-          "score": 93
-        },
-        {
-          "id": "apex-legends",
-          "name": "Apex Legends",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 9,
-            "liveArchiveCount": 3,
-            "channelCount": 9,
-            "totalViews": 2334228,
-            "totalLikes": 20519,
-            "viewVelocity": 165777
-          },
-          "creators": [
-            "Kuzuha Channel",
-            "なるせ部",
-            "橘ひなの / Hinano Tachibana",
-            "ぶいすぽ倉庫",
-            "あかめいん",
-            "SHAKAch"
-          ],
-          "summary": "3日間で関連動画9本を確認、うち3本が終了済みライブ。9チャンネルの公開データをもとに集計しています。",
-          "reason": "9チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
-          "sources": [
-            {
-              "videoId": "eLsxNqhAleA",
-              "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
-              "channelTitle": "橘ひなの / Hinano Tachibana",
-              "publishedAt": "2026-09-22T08:02:45.000Z",
-              "views": 324284,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=eLsxNqhAleA"
+              "thumbnail": "https://i.ytimg.com/vi/oqcK57PEdxY/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=oqcK57PEdxY"
             },
             {
-              "videoId": "NgBvJE1lMnE",
-              "title": "【APEX】鈍化するまで【ゴールデンウィーク4】",
-              "channelTitle": "Kuzuha Channel",
-              "publishedAt": "2026-09-21T17:59:26.000Z",
-              "views": 756849,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/NgBvJE1lMnE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=NgBvJE1lMnE"
-            },
-            {
-              "videoId": "MmqlItWH6sQ",
-              "title": "SHAKAのお子さんに名前を呼ばれて癒されたり、英語の発音の良さに驚愕するひなーの、SHAKAに冷笑系扱いされ動揺するひなーのｗｗ【橘ひなの/SHAKA/ボドカ/ぶいすぽ】",
-              "channelTitle": "ぶいすぽ倉庫",
-              "publishedAt": "2026-09-22T09:57:57.000Z",
-              "views": 204524,
+              "videoId": "Fc-0av-MTfM",
+              "title": "【ポケモンGO】個体値MAX出るまでドライブでついにあいつが出しましたwwwww(ダイマックス　ラルトス編)",
+              "channelTitle": "レイクレGAMES",
+              "publishedAt": "2026-09-22T11:00:20.000Z",
+              "views": 124157,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/MmqlItWH6sQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=MmqlItWH6sQ"
-            },
-            {
-              "videoId": "AKaWMmxhb4Q",
-              "title": "なんでもありすぎるツルギ＆なるせのAPEXに巻き込まれるSHAKA【Apex Legends】",
-              "channelTitle": "SHAKAch",
-              "publishedAt": "2026-09-22T10:30:10.000Z",
-              "views": 146568,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/AKaWMmxhb4Q/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=AKaWMmxhb4Q"
-            },
-            {
-              "videoId": "ivvBCzs0HEQ",
-              "title": "【 APEX LEGENDS  】やるぞ、理由は楽しいから w/ 釈迦 柊ツルギ",
-              "channelTitle": "なるせ部",
-              "publishedAt": "2026-09-21T18:00:18.000Z",
-              "views": 365994,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ivvBCzs0HEQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=ivvBCzs0HEQ"
-            },
-            {
-              "videoId": "wNqoszq0fcs",
-              "title": "神IGLで爆盛りキャリーして最高に気持ちよくなるボドカ【APEX/関優太/じゃすぱー】",
-              "channelTitle": "ボドカ / Riddle - ゲーム実況",
-              "publishedAt": "2026-09-22T03:00:13.000Z",
-              "views": 120808,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/wNqoszq0fcs/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=wNqoszq0fcs"
+              "thumbnail": "https://i.ytimg.com/vi/Fc-0av-MTfM/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Fc-0av-MTfM"
             }
           ],
           "rank": 4,
@@ -942,17 +975,17 @@
             "videoCount": 6,
             "liveArchiveCount": 1,
             "channelCount": 6,
-            "totalViews": 1385614,
-            "totalLikes": 11467,
-            "viewVelocity": 61863
+            "totalViews": 1626233,
+            "totalLikes": 13314,
+            "viewVelocity": 53763
           },
           "creators": [
             "中村悠一",
             "カワノKawano",
+            "キャベツの人【ゲーム紹介】",
             "どぐら 生駒デビル",
-            "ハイタニ TV",
             "ストーム久保",
-            "マゴ /MAGO"
+            "ハイタニ TV"
           ],
           "summary": "3日間で関連動画6本を確認、うち1本が終了済みライブ。6チャンネルの公開データをもとに集計しています。",
           "reason": "6チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
@@ -962,37 +995,47 @@
               "title": "秋の挑戦はこれからシルバーウィークチャレンジとする。",
               "channelTitle": "中村悠一",
               "publishedAt": "2026-09-21T15:40:25.000Z",
-              "views": 549265,
+              "views": 552101,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/8zmmvRl6fp0/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=8zmmvRl6fp0"
             },
             {
-              "videoId": "_c60A2r5Ojo",
-              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
-              "channelTitle": "ストーム久保",
-              "publishedAt": "2026-09-22T09:00:13.000Z",
-              "views": 95451,
+              "videoId": "Jtn_pgyW0iI",
+              "title": "龍が如くスタジオ新作にado登場も演技に賛否..個人的には好き＆朝倉未来を思い出せ/スト6が突然プリキュアコラボでザワつく/酷評続きだったバイオの映画、ついに好評＆爆裂売上で歴代No1",
+              "channelTitle": "キャベツの人【ゲーム紹介】",
+              "publishedAt": "2026-09-22T12:00:28.000Z",
+              "views": 217870,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
+              "thumbnail": "https://i.ytimg.com/vi/Jtn_pgyW0iI/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Jtn_pgyW0iI"
             },
             {
               "videoId": "ny7J7q57yrA",
               "title": "ルークで大会勝とうが結局豪鬼に戻りそうになっているカワノ【スト6】",
               "channelTitle": "カワノKawano",
               "publishedAt": "2026-09-21T05:11:23.000Z",
-              "views": 365205,
+              "views": 379491,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/ny7J7q57yrA/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=ny7J7q57yrA"
+            },
+            {
+              "videoId": "_c60A2r5Ojo",
+              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
+              "channelTitle": "ストーム久保",
+              "publishedAt": "2026-09-22T09:00:13.000Z",
+              "views": 143109,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
             },
             {
               "videoId": "VR6dnNSJgLQ",
               "title": "【RedBull Revenge】SFLからの因縁！カワノ vs LeSharの凄まじいレベルの高さにビビるハイタニ【SF6 ストリートファイター6 スト6】",
               "channelTitle": "ハイタニ TV",
               "publishedAt": "2026-09-22T06:04:45.000Z",
-              "views": 104492,
+              "views": 142434,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/VR6dnNSJgLQ/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=VR6dnNSJgLQ"
@@ -1002,115 +1045,51 @@
               "title": "【スト6】真理に気づいちまった？ ボンちゃんvsBigBirdをガチくんと一緒に観つつ、\"加点方式\" について語るどぐら【Red Bull Revengeミラー】",
               "channelTitle": "どぐら 生駒デビル",
               "publishedAt": "2026-09-21T10:00:32.000Z",
-              "views": 185435,
+              "views": 191228,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/LZI4GMowQ_A/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=LZI4GMowQ_A"
-            },
-            {
-              "videoId": "Z_ij9eI3Q3c",
-              "title": "マゴの『Red Bull Revenge』ミラー配信ダイジェスト【ストリートファイター6】",
-              "channelTitle": "マゴ /MAGO",
-              "publishedAt": "2026-09-21T06:30:25.000Z",
-              "views": 85766,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Z_ij9eI3Q3c/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Z_ij9eI3Q3c"
             }
           ],
           "rank": 5,
-          "score": 80
-        },
-        {
-          "id": "roblox",
-          "name": "Roblox",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 4,
-            "liveArchiveCount": 0,
-            "channelCount": 4,
-            "totalViews": 397266,
-            "totalLikes": 9820,
-            "viewVelocity": 21684
-          },
-          "creators": [
-            "てるとくん",
-            "ぜるふぃく / ZELLFIC",
-            "ネオンch",
-            "てきと"
-          ],
-          "summary": "3日間で関連動画4本を確認。4チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "mLp7cZn7JFE",
-              "title": "大量のSCPを合体させまくるロブロックス...",
-              "channelTitle": "てきと",
-              "publishedAt": "2026-09-22T08:00:21.000Z",
-              "views": 72978,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/mLp7cZn7JFE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mLp7cZn7JFE"
-            },
-            {
-              "videoId": "Ng7zjJqk1Vc",
-              "title": "【ロブロックス】海の中で激レアな卵を盗みまくるロブロックス！【Roblox/ブレインロット/ネオンch/ゆっくり実況】",
-              "channelTitle": "ネオンch",
-              "publishedAt": "2026-09-22T04:42:50.000Z",
-              "views": 77427,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Ng7zjJqk1Vc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Ng7zjJqk1Vc"
-            },
-            {
-              "videoId": "HmWUa9zBBqE",
-              "title": "新クラスでありえない裏技を使いまくるおかしい動物病院..【ROBLOX】",
-              "channelTitle": "てるとくん",
-              "publishedAt": "2026-09-21T07:34:29.000Z",
-              "views": 149878,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/HmWUa9zBBqE/sddefault.jpg",
-              "url": "https://www.youtube.com/watch?v=HmWUa9zBBqE"
-            },
-            {
-              "videoId": "o6z-aHkCeBE",
-              "title": "色んな形を描いて卵を潰すゲームで天才になった！",
-              "channelTitle": "ぜるふぃく / ZELLFIC",
-              "publishedAt": "2026-09-21T06:09:09.000Z",
-              "views": 96983,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/o6z-aHkCeBE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=o6z-aHkCeBE"
-            }
-          ],
-          "rank": 6,
-          "score": 69
+          "score": 83
         },
         {
           "id": "dragon-quest",
           "name": "ドラゴンクエスト",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 1,
-            "channelCount": 2,
-            "totalViews": 401855,
-            "totalLikes": 4195,
-            "viewVelocity": 40918
+            "videoCount": 3,
+            "liveArchiveCount": 2,
+            "channelCount": 3,
+            "totalViews": 1006145,
+            "totalLikes": 14448,
+            "viewVelocity": 59949
           },
           "creators": [
+            "Korone Ch. 戌神ころね",
             "Patra Channel / 周防パトラ",
             "ドラゴンクエストスマッシュグロウ公式"
           ],
-          "summary": "3日間で関連動画2本を確認、うち1本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "summary": "3日間で関連動画3本を確認、うち2本が終了済みライブ。3チャンネルの公開データをもとに集計しています。",
           "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
           "sources": [
             {
+              "videoId": "LyQJRzm0J9Q",
+              "title": "【トルネコの大冒険】９９階チャレンジ！！！！【１回目】※ネタバレ注意",
+              "channelTitle": "Korone Ch. 戌神ころね",
+              "publishedAt": "2026-09-22T14:56:13.000Z",
+              "views": 602971,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/LyQJRzm0J9Q/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=LyQJRzm0J9Q"
+            },
+            {
               "videoId": "mFpgJSZFJMo",
-              "title": "【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
+              "title": "#3【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
               "channelTitle": "Patra Channel / 周防パトラ",
               "publishedAt": "2026-09-22T10:13:57.000Z",
-              "views": 249802,
+              "views": 248533,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/mFpgJSZFJMo/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=mFpgJSZFJMo"
@@ -1120,57 +1099,154 @@
               "title": "#011 『ドラゴンクエストスマッシュグロウ』の新情報を「マル」がお届け！「スマグロ マル秘 レポート」",
               "channelTitle": "ドラゴンクエストスマッシュグロウ公式",
               "publishedAt": "2026-09-21T03:00:35.000Z",
-              "views": 152053,
+              "views": 154641,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/0wPs4qqOp7g/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=0wPs4qqOp7g"
             }
           ],
-          "rank": 7,
-          "score": 59
+          "rank": 6,
+          "score": 71
         },
         {
-          "id": "super-smash-bros-ultimate",
-          "name": "大乱闘スマッシュブラザーズ SPECIAL",
+          "id": "roblox",
+          "name": "Roblox",
           "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 3,
+            "totalViews": 309695,
+            "totalLikes": 8070,
+            "viewVelocity": 11357
+          },
+          "creators": [
+            "ぜるふぃく / ZELLFIC",
+            "てきと",
+            "ネオンch"
+          ],
+          "summary": "3日間で関連動画3本を確認。3チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "mLp7cZn7JFE",
+              "title": "大量のSCPを合体させまくるロブロックス...",
+              "channelTitle": "てきと",
+              "publishedAt": "2026-09-22T08:00:21.000Z",
+              "views": 105728,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/mLp7cZn7JFE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=mLp7cZn7JFE"
+            },
+            {
+              "videoId": "Ng7zjJqk1Vc",
+              "title": "【ロブロックス】海の中で激レアな卵を盗みまくるロブロックス！【Roblox/ブレインロット/ネオンch/ゆっくり実況】",
+              "channelTitle": "ネオンch",
+              "publishedAt": "2026-09-22T04:42:50.000Z",
+              "views": 94819,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/Ng7zjJqk1Vc/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Ng7zjJqk1Vc"
+            },
+            {
+              "videoId": "o6z-aHkCeBE",
+              "title": "色んな形を描いて卵を潰すゲームで天才になった！",
+              "channelTitle": "ぜるふぃく / ZELLFIC",
+              "publishedAt": "2026-09-21T06:09:09.000Z",
+              "views": 109148,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/o6z-aHkCeBE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=o6z-aHkCeBE"
+            }
+          ],
+          "rank": 7,
+          "score": 65
+        },
+        {
+          "id": "hashtag-生スバル",
+          "name": "#生スバル",
+          "fallbackTopic": true,
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 1,
+            "channelCount": 2,
+            "totalViews": 612988,
+            "totalLikes": 11164,
+            "viewVelocity": 46637
+          },
+          "creators": [
+            "Subaru Ch. 大空スバル",
+            "ホロライブ速報【切り抜きch】"
+          ],
+          "summary": "3日間で関連動画2本を確認、うち1本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "EHcGLCvLxRk",
+              "title": "【#生スバル】スバルに似てるマ？！？噂の餓狼伝説やるしゅばあああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+              "channelTitle": "Subaru Ch. 大空スバル",
+              "publishedAt": "2026-09-22T14:08:37.000Z",
+              "views": 464608,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/EHcGLCvLxRk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=EHcGLCvLxRk"
+            },
+            {
+              "videoId": "4vE7J-3HPp4",
+              "title": "餓狼伝説に何故かいるクリロナやエロい女たちに目移りしながらも、テリー・ボガードのストーリーに感動する大空スバル ※ネタバレあり【餓狼CotW/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブ速報【切り抜きch】",
+              "publishedAt": "2026-09-22T18:53:23.000Z",
+              "views": 148380,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/4vE7J-3HPp4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=4vE7J-3HPp4"
+            }
+          ],
+          "rank": 8,
+          "score": 63
+        },
+        {
+          "id": "hashtag-ホロ甲2026",
+          "name": "#ホロ甲2026",
+          "fallbackTopic": true,
           "metrics": {
             "videoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 2,
-            "totalViews": 647171,
-            "totalLikes": 2265,
-            "viewVelocity": 20182
+            "totalViews": 465288,
+            "totalLikes": 10788,
+            "viewVelocity": 25472
           },
           "creators": [
-            "East Geek Smash",
-            "無明遊者【イベント配信団体】"
+            "Koyori ch. 博衣こより - holoX -",
+            "Riona Ch. 響咲リオナ - FLOW GLOW"
           ],
           "summary": "3日間で関連動画2本を確認、うち2本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
           "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
           "sources": [
             {
-              "videoId": "16s65BRKC5M",
-              "title": "スマブラSP ウメブラSP13 Day2 ft.ドラ右,Miya,カルメロ,Yaura,Shuton,Asimo,はるぽよ,KEN,にょのknb,からあげ,たまPだいふく ...and more!",
-              "channelTitle": "East Geek Smash",
-              "publishedAt": "2026-09-21T09:36:38.000Z",
-              "views": 475969,
+              "videoId": "RrpVc4o4Hw4",
+              "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目秋大会！全国制覇目指して！！！🏆✨【博衣こより/ホロライブ】",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-22T08:35:07.000Z",
+              "views": 288252,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/16s65BRKC5M/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=16s65BRKC5M"
+              "thumbnail": "https://i.ytimg.com/vi/RrpVc4o4Hw4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=RrpVc4o4Hw4"
             },
             {
-              "videoId": "PQIty2k-OZQ",
-              "title": "【スマブラSP】ウメブラSP13 DAY2　無明遊者配信",
-              "channelTitle": "無明遊者【イベント配信団体】",
-              "publishedAt": "2026-09-21T06:53:05.000Z",
-              "views": 171202,
+              "videoId": "hZfAOQA60jo",
+              "title": "【 ＃ホロ甲2026 】壁咲高校、２年目夏！どこまで勝ち進める！？🔥【ホロライブ FLOW GLOW 響咲リオナ】",
+              "channelTitle": "Riona Ch. 響咲リオナ - FLOW GLOW",
+              "publishedAt": "2026-09-22T13:01:47.000Z",
+              "views": 177036,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/PQIty2k-OZQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=PQIty2k-OZQ"
+              "thumbnail": "https://i.ytimg.com/vi/hZfAOQA60jo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=hZfAOQA60jo"
             }
           ],
-          "rank": 8,
-          "score": 58
+          "rank": 9,
+          "score": 62
         },
         {
           "id": "valorant",
@@ -1180,9 +1256,9 @@
             "videoCount": 2,
             "liveArchiveCount": 0,
             "channelCount": 2,
-            "totalViews": 699412,
-            "totalLikes": 12416,
-            "viewVelocity": 18242
+            "totalViews": 654185,
+            "totalLikes": 11828,
+            "viewVelocity": 21566
           },
           "creators": [
             "GON",
@@ -1196,111 +1272,175 @@
               "title": "このボスの仕様に初見で気付ける小学生はいない",
               "channelTitle": "GON",
               "publishedAt": "2026-09-21T03:00:34.000Z",
-              "views": 555921,
+              "views": 597965,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/-dXvGLNbUdM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=-dXvGLNbUdM"
             },
             {
-              "videoId": "RNzoAJPWydE",
-              "title": "【複数視点】内容が濃すぎた最終日のラスト２時間ｗｗｗ（SURGE Town）【叶/にじさんじ切り抜き】",
+              "videoId": "AyO-CdJFbzQ",
+              "title": "【まとめ】ひのらんと見る、個人医＆爆笑クリップ鑑賞ｗｗｗ（SURGE Town）【日ノ隈らん切り抜き】",
               "channelTitle": "白瀬",
-              "publishedAt": "2026-09-21T01:14:01.000Z",
-              "views": 143491,
+              "publishedAt": "2026-09-22T22:55:41.000Z",
+              "views": 56220,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/RNzoAJPWydE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=RNzoAJPWydE"
-            }
-          ],
-          "rank": 9,
-          "score": 56
-        },
-        {
-          "id": "professional-baseball-spirits",
-          "name": "プロ野球スピリッツ",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 0,
-            "channelCount": 2,
-            "totalViews": 292669,
-            "totalLikes": 3013,
-            "viewVelocity": 9562
-          },
-          "creators": [
-            "【V.I.P】",
-            "アカgames"
-          ],
-          "summary": "3日間で関連動画2本を確認。2チャンネルの公開データをもとに集計しています。",
-          "reason": "最近の動画数と異なるチャンネルからの反応が同時に増えています。",
-          "sources": [
-            {
-              "videoId": "mvTZOwvXhbQ",
-              "title": "威圧感ハンパないww遂に白黒オーダーの完成形が！？ダルセレ榎本選手も初使用するぞ！！【プロスピA】# 1965",
-              "channelTitle": "【V.I.P】",
-              "publishedAt": "2026-09-21T10:30:12.000Z",
-              "views": 160059,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/mvTZOwvXhbQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mvTZOwvXhbQ"
-            },
-            {
-              "videoId": "QbJNYJNc3Hc",
-              "title": "高速弾を取得し怪物級のバッターに！目指すは50本塁打！ミート1縛りでプロに挑戦する物語#9【プロスピ2026】【アカgames】",
-              "channelTitle": "アカgames",
-              "publishedAt": "2026-09-21T10:15:15.000Z",
-              "views": 132610,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/QbJNYJNc3Hc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=QbJNYJNc3Hc"
+              "thumbnail": "https://i.ytimg.com/vi/AyO-CdJFbzQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=AyO-CdJFbzQ"
             }
           ],
           "rank": 10,
-          "score": 55
+          "score": 60
         }
       ]
     },
     "168": {
       "rankings": [
         {
+          "id": "apex-legends",
+          "name": "Apex Legends",
+          "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 11,
+            "liveArchiveCount": 5,
+            "channelCount": 11,
+            "totalViews": 3041613,
+            "totalLikes": 24263,
+            "viewVelocity": 138873
+          },
+          "creators": [
+            "Kuzuha Channel",
+            "ぶいすぽ倉庫",
+            "なるせ部",
+            "橘ひなの / Hinano Tachibana",
+            "SHAKAch",
+            "LEOの遊び場【山田涼介】"
+          ],
+          "summary": "7日間で関連動画11本を確認、うち5本が終了済みライブ。11チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが5本あり、複数チャンネルで配信の動きが重なっています。",
+          "sources": [
+            {
+              "videoId": "NgBvJE1lMnE",
+              "title": "【APEX】鈍化するまで【ゴールデンウィーク4】",
+              "channelTitle": "Kuzuha Channel",
+              "publishedAt": "2026-09-21T17:59:26.000Z",
+              "views": 750448,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/NgBvJE1lMnE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=NgBvJE1lMnE"
+            },
+            {
+              "videoId": "MmqlItWH6sQ",
+              "title": "SHAKAのお子さんに名前を呼ばれて癒されたり、英語の発音の良さに驚愕するひなーの、SHAKAに冷笑系扱いされ動揺するひなーのｗｗ【橘ひなの/SHAKA/ボドカ/ぶいすぽ】",
+              "channelTitle": "ぶいすぽ倉庫",
+              "publishedAt": "2026-09-22T09:57:57.000Z",
+              "views": 397235,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/MmqlItWH6sQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=MmqlItWH6sQ"
+            },
+            {
+              "videoId": "pbT8u-UkKYQ",
+              "title": "ちょっとだけ配信。APEX",
+              "channelTitle": "LEOの遊び場【山田涼介】",
+              "publishedAt": "2026-09-22T16:10:49.000Z",
+              "views": 223031,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/pbT8u-UkKYQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pbT8u-UkKYQ"
+            },
+            {
+              "videoId": "AKaWMmxhb4Q",
+              "title": "なんでもありすぎるツルギ＆なるせのAPEXに巻き込まれるSHAKA【Apex Legends】",
+              "channelTitle": "SHAKAch",
+              "publishedAt": "2026-09-22T10:30:10.000Z",
+              "views": 290980,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/AKaWMmxhb4Q/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=AKaWMmxhb4Q"
+            },
+            {
+              "videoId": "eLsxNqhAleA",
+              "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
+              "channelTitle": "橘ひなの / Hinano Tachibana",
+              "publishedAt": "2026-09-22T08:02:45.000Z",
+              "views": 327114,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=eLsxNqhAleA"
+            },
+            {
+              "videoId": "gx_sDEYjTDw",
+              "title": "【地獄アパート】極上の恐怖をあなたに【不破湊/にじさんじ】",
+              "channelTitle": "不破 湊 / Fuwa Minato【にじさんじ】",
+              "publishedAt": "2026-09-22T15:49:49.000Z",
+              "views": 145855,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/gx_sDEYjTDw/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=gx_sDEYjTDw"
+            }
+          ],
+          "rank": 1,
+          "score": 100
+        },
+        {
           "id": "hashtag-にじ遊戯王祭2026",
           "name": "#にじ遊戯王祭2026",
           "fallbackTopic": true,
           "metrics": {
-            "videoCount": 12,
-            "liveArchiveCount": 11,
-            "channelCount": 12,
-            "totalViews": 3142557,
-            "totalLikes": 32367,
-            "viewVelocity": 420217
+            "videoCount": 10,
+            "liveArchiveCount": 9,
+            "channelCount": 10,
+            "totalViews": 2851080,
+            "totalLikes": 27955,
+            "viewVelocity": 159732
           },
           "creators": [
             "にじさんじ",
             "社築",
-            "長尾 景 / Nagao Kei【にじさんじ】",
-            "小清水 透 / Koshimizu Toru【にじさんじ】",
+            "加賀美 ハヤト/Hayato Kagami",
             "イブラヒム【にじさんじ】",
+            "VTuver切り抜き隊",
             "星川サラ / Sara Hoshikawa"
           ],
-          "summary": "7日間で関連動画12本を確認、うち11本が終了済みライブ。12チャンネルの公開データをもとに集計しています。",
-          "reason": "終了済みライブが11本あり、複数チャンネルで配信の動きが重なっています。",
+          "summary": "7日間で関連動画10本を確認、うち9本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
+          "reason": "終了済みライブが9本あり、複数チャンネルで配信の動きが重なっています。",
           "sources": [
             {
               "videoId": "zNfeViA9maE",
               "title": "【#にじ遊戯王祭2026】にじさんじ遊戯王マスターデュエル祭2026 Day2：予選Bリーグ",
               "channelTitle": "にじさんじ",
               "publishedAt": "2026-09-22T11:47:14.000Z",
-              "views": 992658,
+              "views": 1015736,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/zNfeViA9maE/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=zNfeViA9maE"
+            },
+            {
+              "videoId": "SI1v2RgT2wk",
+              "title": "【#にじ遊戯王祭2026】　Bリーグ予選開始ッ！！それゆけコレモアイ島！！！　【にじさんじ/加賀美ハヤト】",
+              "channelTitle": "加賀美 ハヤト/Hayato Kagami",
+              "publishedAt": "2026-09-22T11:46:07.000Z",
+              "views": 305623,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/SI1v2RgT2wk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=SI1v2RgT2wk"
+            },
+            {
+              "videoId": "s13vFAPiTR0",
+              "title": "【にじ遊戯王祭2026】お友達が欲しい長尾景の全盤面封鎖クシャトリラを見た各チームの反応まとめ【にじさんじ切り抜き/梢桃音/社築/春崎エアル/山神カルタ/加賀美ハヤト/オリバーエバンス/伏見ガク】",
+              "channelTitle": "VTuver切り抜き隊",
+              "publishedAt": "2026-09-22T17:12:27.000Z",
+              "views": 172705,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/s13vFAPiTR0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=s13vFAPiTR0"
             },
             {
               "videoId": "wRIDPgTQ7EA",
               "title": "【 #にじ遊戯王祭2026 】予選リーグ【にじさんじ/イブラヒム】",
               "channelTitle": "イブラヒム【にじさんじ】",
               "publishedAt": "2026-09-22T11:37:12.000Z",
-              "views": 229870,
+              "views": 232998,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/wRIDPgTQ7EA/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=wRIDPgTQ7EA"
@@ -1310,7 +1450,7 @@
               "title": "【#にじ遊戯王祭2026】大会本番！妖精伝姫✨コレモアWIN！！！！！！！！！！【星川サラ/にじさんじ】",
               "channelTitle": "星川サラ / Sara Hoshikawa",
               "publishedAt": "2026-09-22T11:51:28.000Z",
-              "views": 163354,
+              "views": 166362,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/Zxt3_jTPerM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=Zxt3_jTPerM"
@@ -1320,154 +1460,144 @@
               "title": "✯┊ #にじ遊戯王祭2026┊大会本番！いくぞ先鋒！コレモアイ島へ！〖 天宮こころ / 加賀美ハヤト/星川サラ〗",
               "channelTitle": "天宮 こころ / Amamya Ch.",
               "publishedAt": "2026-09-22T11:52:13.000Z",
-              "views": 162184,
+              "views": 161172,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/WLbTRFC4ucM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=WLbTRFC4ucM"
-            },
-            {
-              "videoId": "NCvPD-14aWc",
-              "title": "【  #にじ遊戯王祭2026 】 いよいよBリーグ本番！行くわよ！チーム HALO-別々に路で出会った僕らは共に歩み、そして一人の道を征く- MADmaidLAND ！！！",
-              "channelTitle": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
-              "publishedAt": "2026-09-22T11:55:33.000Z",
-              "views": 148978,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/NCvPD-14aWc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=NCvPD-14aWc"
-            },
-            {
-              "videoId": "2NJ2U6l4g3w",
-              "title": "#にじ遊戯王祭2026 DAY2 ✦ 遂に本番チーム８♡ ✦壱百満天原サロメですわ～",
-              "channelTitle": "壱百満天原サロメ / Hyakumantenbara Salome",
-              "publishedAt": "2026-09-22T11:43:37.000Z",
-              "views": 142741,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/2NJ2U6l4g3w/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=2NJ2U6l4g3w"
             }
           ],
-          "rank": 1,
-          "score": 100
+          "rank": 2,
+          "score": 99
         },
         {
           "id": "minecraft",
           "name": "Minecraft",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 11,
+            "videoCount": 10,
             "liveArchiveCount": 3,
-            "channelCount": 11,
-            "totalViews": 3795588,
-            "totalLikes": 85123,
-            "viewVelocity": 153536
+            "channelCount": 10,
+            "totalViews": 3077466,
+            "totalLikes": 75746,
+            "viewVelocity": 110483
           },
           "creators": [
-            "HikakinGames",
             "Ado",
             "ウォーターチャレンジ",
+            "ドズル社",
             "ちろぴの",
-            "ホロライブ日記",
-            "Watame Ch. 角巻わため"
+            "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+            "ホロライブ日記"
           ],
-          "summary": "7日間で関連動画11本を確認、うち3本が終了済みライブ。11チャンネルの公開データをもとに集計しています。",
-          "reason": "11チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "summary": "7日間で関連動画10本を確認、うち3本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
+          "reason": "10チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
           "sources": [
             {
-              "videoId": "5IgvemsUfnE",
-              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
-              "channelTitle": "ドズル社",
-              "publishedAt": "2026-09-22T09:48:58.000Z",
-              "views": 222211,
+              "videoId": "pNDbIEaUNE0",
+              "title": "#2【 Minecraftハードコア 】〇んだら終わり！？人生初ハードコアに挑戦！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+              "channelTitle": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+              "publishedAt": "2026-09-22T16:16:27.000Z",
+              "views": 291705,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
+              "thumbnail": "https://i.ytimg.com/vi/pNDbIEaUNE0/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=pNDbIEaUNE0"
             },
             {
               "videoId": "SWwB2b9oyGI",
               "title": "Minecraftであそぼう",
               "channelTitle": "Ado",
               "publishedAt": "2026-09-21T08:20:50.000Z",
-              "views": 949474,
+              "views": 977926,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/SWwB2b9oyGI/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=SWwB2b9oyGI"
+            },
+            {
+              "videoId": "5IgvemsUfnE",
+              "title": "【落ちたら奈落】まっくらな世界に放り込まれた【マイクラ】",
+              "channelTitle": "ドズル社",
+              "publishedAt": "2026-09-22T09:48:58.000Z",
+              "views": 333670,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/5IgvemsUfnE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=5IgvemsUfnE"
             },
             {
               "videoId": "5jbcdgpedoU",
               "title": "【ゆっくり実況:Minecraft】剣魔の世界を統べる Ep.56",
               "channelTitle": "G. Nチャンネル",
               "publishedAt": "2026-09-22T09:12:47.000Z",
-              "views": 139142,
+              "views": 200682,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/5jbcdgpedoU/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=5jbcdgpedoU"
             },
             {
-              "videoId": "X6d7mFFG7Z8",
-              "title": "【マインクラフト】神回過ぎる！まだ村発見事件【ヒカクラ2 Part178】",
-              "channelTitle": "HikakinGames",
-              "publishedAt": "2026-09-20T07:08:57.000Z",
-              "views": 1031639,
+              "videoId": "djEl_qqn--g",
+              "title": "怪しすぎる保育園で生き残ることができるのか？【 マイクラ / マインクラフト 】",
+              "channelTitle": "ウォーターチャレンジ",
+              "publishedAt": "2026-09-21T05:39:25.000Z",
+              "views": 384480,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/X6d7mFFG7Z8/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=X6d7mFFG7Z8"
+              "thumbnail": "https://i.ytimg.com/vi/djEl_qqn--g/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=djEl_qqn--g"
             },
             {
               "videoId": "GoDkP6ecjBg",
               "title": "【先輩ごっこ】架空のダルい後輩への接し方が違いすぎる件【ホロライブ切り抜き/水宮枢/輪堂千速/綺々羅々ヴィヴィ】",
               "channelTitle": "ホロライブ日記",
               "publishedAt": "2026-09-21T17:41:54.000Z",
-              "views": 268276,
+              "views": 275053,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/GoDkP6ecjBg/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=GoDkP6ecjBg"
-            },
-            {
-              "videoId": "KF07JKkahVU",
-              "title": "超幻想的なエンドの世界で５０人全員集合 - マインクラフト【KUN】",
-              "channelTitle": "KUNの50人クラフト",
-              "publishedAt": "2026-09-22T07:00:14.000Z",
-              "views": 112116,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/KF07JKkahVU/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=KF07JKkahVU"
             }
           ],
-          "rank": 2,
-          "score": 95
+          "rank": 3,
+          "score": 97
         },
         {
           "id": "pokemon",
           "name": "ポケットモンスター",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 10,
-            "liveArchiveCount": 3,
-            "channelCount": 10,
-            "totalViews": 2330071,
-            "totalLikes": 16992,
-            "viewVelocity": 163799
+            "videoCount": 8,
+            "liveArchiveCount": 2,
+            "channelCount": 8,
+            "totalViews": 1623465,
+            "totalLikes": 9015,
+            "viewVelocity": 78317
           },
           "creators": [
-            "鈴原るる【にじさんじ所属】",
             "ライバロリ",
             "【公式】ポケモンカードチャンネル",
             "バンビーsub",
-            "もこうの実況",
-            "ケビンのポケモン部屋"
+            "ケビンのポケモン部屋",
+            "バンビー",
+            "くろこ"
           ],
-          "summary": "7日間で関連動画10本を確認、うち3本が終了済みライブ。10チャンネルの公開データをもとに集計しています。",
-          "reason": "10チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
+          "summary": "7日間で関連動画8本を確認、うち2本が終了済みライブ。8チャンネルの公開データをもとに集計しています。",
+          "reason": "8チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
           "sources": [
             {
               "videoId": "Ob9KEiS_vo8",
               "title": "〈PART2〉【ポケカCL2027 横浜】チャンピオンズリーグ2027 横浜 生放送【ポケモンカードゲーム】",
               "channelTitle": "【公式】ポケモンカードチャンネル",
               "publishedAt": "2026-09-22T11:16:34.000Z",
-              "views": 287652,
+              "views": 302611,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/Ob9KEiS_vo8/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=Ob9KEiS_vo8"
+            },
+            {
+              "videoId": "kVuXOdrJrIE",
+              "title": "【気づいた時には詰み】最強アイテム採用で”攻撃せずに削りまくる”悪魔型『ガブリアス』何やっても強すぎだろ…【ポケチャン】",
+              "channelTitle": "くろこ",
+              "publishedAt": "2026-09-22T20:13:31.000Z",
+              "views": 124475,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/kVuXOdrJrIE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=kVuXOdrJrIE"
             },
             {
               "videoId": "tjqmyEynfYA",
@@ -1480,131 +1610,34 @@
               "url": "https://www.youtube.com/watch?v=tjqmyEynfYA"
             },
             {
-              "videoId": "xk3YTvP7LO0",
-              "title": "【Bloodborne】シルバーウィークフロム！ブラボやるよおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
-              "channelTitle": "鈴原るる【にじさんじ所属】",
-              "publishedAt": "2026-09-21T23:43:34.000Z",
-              "views": 441413,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/xk3YTvP7LO0/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=xk3YTvP7LO0"
-            },
-            {
-              "videoId": "iDNjzArG1hI",
-              "title": "【このコンボ強すぎだろ！】「サイコフィールド」で弱点を克服した『グレンアルマ』、誰で止めんの？【ポケモンチャンピオンズ】",
-              "channelTitle": "バンビー",
-              "publishedAt": "2026-09-22T09:00:33.000Z",
-              "views": 89463,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/iDNjzArG1hI/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=iDNjzArG1hI"
-            },
-            {
               "videoId": "4hJLQfMcssg",
               "title": "【スカウトバトル】「ポケモン最強男」VS「 なめられてる妻」真剣勝負したらまさかの結果に……。",
               "channelTitle": "バンビーsub",
               "publishedAt": "2026-09-21T12:42:58.000Z",
-              "views": 279116,
+              "views": 302137,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/4hJLQfMcssg/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=4hJLQfMcssg"
             },
             {
-              "videoId": "tHljgIXtA8I",
-              "title": "【攻守共に完璧】タイプ、特性、技範囲全てが優秀で現環境に刺さりまくる『ミロカロス』時代きたわ。【ポケチャン】",
-              "channelTitle": "くろこ",
-              "publishedAt": "2026-09-21T20:00:13.000Z",
-              "views": 197313,
+              "videoId": "oqcK57PEdxY",
+              "title": "『メガルカリオＺ』覚醒。まだバレてない完全オリジナル調整で異次元級の強さへ。【ポケモンチャンピオンズ】",
+              "channelTitle": "ライバロリ",
+              "publishedAt": "2026-09-21T09:45:13.000Z",
+              "views": 305933,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/tHljgIXtA8I/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=tHljgIXtA8I"
-            }
-          ],
-          "rank": 3,
-          "score": 93
-        },
-        {
-          "id": "apex-legends",
-          "name": "Apex Legends",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 9,
-            "liveArchiveCount": 3,
-            "channelCount": 9,
-            "totalViews": 2334228,
-            "totalLikes": 20519,
-            "viewVelocity": 165777
-          },
-          "creators": [
-            "Kuzuha Channel",
-            "なるせ部",
-            "橘ひなの / Hinano Tachibana",
-            "ぶいすぽ倉庫",
-            "あかめいん",
-            "SHAKAch"
-          ],
-          "summary": "7日間で関連動画9本を確認、うち3本が終了済みライブ。9チャンネルの公開データをもとに集計しています。",
-          "reason": "9チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
-          "sources": [
-            {
-              "videoId": "eLsxNqhAleA",
-              "title": "【 Apex Legends 】 昼エペw/釈迦３、ボド【ぶいすぽっ！/橘ひなの】",
-              "channelTitle": "橘ひなの / Hinano Tachibana",
-              "publishedAt": "2026-09-22T08:02:45.000Z",
-              "views": 324284,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/eLsxNqhAleA/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=eLsxNqhAleA"
+              "thumbnail": "https://i.ytimg.com/vi/oqcK57PEdxY/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=oqcK57PEdxY"
             },
             {
-              "videoId": "NgBvJE1lMnE",
-              "title": "【APEX】鈍化するまで【ゴールデンウィーク4】",
-              "channelTitle": "Kuzuha Channel",
-              "publishedAt": "2026-09-21T17:59:26.000Z",
-              "views": 756849,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/NgBvJE1lMnE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=NgBvJE1lMnE"
-            },
-            {
-              "videoId": "MmqlItWH6sQ",
-              "title": "SHAKAのお子さんに名前を呼ばれて癒されたり、英語の発音の良さに驚愕するひなーの、SHAKAに冷笑系扱いされ動揺するひなーのｗｗ【橘ひなの/SHAKA/ボドカ/ぶいすぽ】",
-              "channelTitle": "ぶいすぽ倉庫",
-              "publishedAt": "2026-09-22T09:57:57.000Z",
-              "views": 204524,
+              "videoId": "Fc-0av-MTfM",
+              "title": "【ポケモンGO】個体値MAX出るまでドライブでついにあいつが出しましたwwwww(ダイマックス　ラルトス編)",
+              "channelTitle": "レイクレGAMES",
+              "publishedAt": "2026-09-22T11:00:20.000Z",
+              "views": 124157,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/MmqlItWH6sQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=MmqlItWH6sQ"
-            },
-            {
-              "videoId": "AKaWMmxhb4Q",
-              "title": "なんでもありすぎるツルギ＆なるせのAPEXに巻き込まれるSHAKA【Apex Legends】",
-              "channelTitle": "SHAKAch",
-              "publishedAt": "2026-09-22T10:30:10.000Z",
-              "views": 146568,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/AKaWMmxhb4Q/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=AKaWMmxhb4Q"
-            },
-            {
-              "videoId": "ivvBCzs0HEQ",
-              "title": "【 APEX LEGENDS  】やるぞ、理由は楽しいから w/ 釈迦 柊ツルギ",
-              "channelTitle": "なるせ部",
-              "publishedAt": "2026-09-21T18:00:18.000Z",
-              "views": 365994,
-              "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/ivvBCzs0HEQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=ivvBCzs0HEQ"
-            },
-            {
-              "videoId": "wNqoszq0fcs",
-              "title": "神IGLで爆盛りキャリーして最高に気持ちよくなるボドカ【APEX/関優太/じゃすぱー】",
-              "channelTitle": "ボドカ / Riddle - ゲーム実況",
-              "publishedAt": "2026-09-22T03:00:13.000Z",
-              "views": 120808,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/wNqoszq0fcs/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=wNqoszq0fcs"
+              "thumbnail": "https://i.ytimg.com/vi/Fc-0av-MTfM/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Fc-0av-MTfM"
             }
           ],
           "rank": 4,
@@ -1618,17 +1651,17 @@
             "videoCount": 6,
             "liveArchiveCount": 1,
             "channelCount": 6,
-            "totalViews": 1385614,
-            "totalLikes": 11467,
-            "viewVelocity": 61863
+            "totalViews": 1626233,
+            "totalLikes": 13314,
+            "viewVelocity": 53763
           },
           "creators": [
             "中村悠一",
             "カワノKawano",
+            "キャベツの人【ゲーム紹介】",
             "どぐら 生駒デビル",
-            "ハイタニ TV",
             "ストーム久保",
-            "マゴ /MAGO"
+            "ハイタニ TV"
           ],
           "summary": "7日間で関連動画6本を確認、うち1本が終了済みライブ。6チャンネルの公開データをもとに集計しています。",
           "reason": "6チャンネルから関連動画が出ており、特定の配信者だけに偏らない広がりがあります。",
@@ -1638,37 +1671,47 @@
               "title": "秋の挑戦はこれからシルバーウィークチャレンジとする。",
               "channelTitle": "中村悠一",
               "publishedAt": "2026-09-21T15:40:25.000Z",
-              "views": 549265,
+              "views": 552101,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/8zmmvRl6fp0/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=8zmmvRl6fp0"
             },
             {
-              "videoId": "_c60A2r5Ojo",
-              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
-              "channelTitle": "ストーム久保",
-              "publishedAt": "2026-09-22T09:00:13.000Z",
-              "views": 95451,
+              "videoId": "Jtn_pgyW0iI",
+              "title": "龍が如くスタジオ新作にado登場も演技に賛否..個人的には好き＆朝倉未来を思い出せ/スト6が突然プリキュアコラボでザワつく/酷評続きだったバイオの映画、ついに好評＆爆裂売上で歴代No1",
+              "channelTitle": "キャベツの人【ゲーム紹介】",
+              "publishedAt": "2026-09-22T12:00:28.000Z",
+              "views": 217870,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
+              "thumbnail": "https://i.ytimg.com/vi/Jtn_pgyW0iI/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Jtn_pgyW0iI"
             },
             {
               "videoId": "ny7J7q57yrA",
               "title": "ルークで大会勝とうが結局豪鬼に戻りそうになっているカワノ【スト6】",
               "channelTitle": "カワノKawano",
               "publishedAt": "2026-09-21T05:11:23.000Z",
-              "views": 365205,
+              "views": 379491,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/ny7J7q57yrA/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=ny7J7q57yrA"
+            },
+            {
+              "videoId": "_c60A2r5Ojo",
+              "title": "『このキャラ…』独特すぎる性能なアルジュンを試遊した感想を紹介するストーム久保【スト6/YEAR4】",
+              "channelTitle": "ストーム久保",
+              "publishedAt": "2026-09-22T09:00:13.000Z",
+              "views": 143109,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/_c60A2r5Ojo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=_c60A2r5Ojo"
             },
             {
               "videoId": "VR6dnNSJgLQ",
               "title": "【RedBull Revenge】SFLからの因縁！カワノ vs LeSharの凄まじいレベルの高さにビビるハイタニ【SF6 ストリートファイター6 スト6】",
               "channelTitle": "ハイタニ TV",
               "publishedAt": "2026-09-22T06:04:45.000Z",
-              "views": 104492,
+              "views": 142434,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/VR6dnNSJgLQ/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=VR6dnNSJgLQ"
@@ -1678,115 +1721,51 @@
               "title": "【スト6】真理に気づいちまった？ ボンちゃんvsBigBirdをガチくんと一緒に観つつ、\"加点方式\" について語るどぐら【Red Bull Revengeミラー】",
               "channelTitle": "どぐら 生駒デビル",
               "publishedAt": "2026-09-21T10:00:32.000Z",
-              "views": 185435,
+              "views": 191228,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/LZI4GMowQ_A/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=LZI4GMowQ_A"
-            },
-            {
-              "videoId": "Z_ij9eI3Q3c",
-              "title": "マゴの『Red Bull Revenge』ミラー配信ダイジェスト【ストリートファイター6】",
-              "channelTitle": "マゴ /MAGO",
-              "publishedAt": "2026-09-21T06:30:25.000Z",
-              "views": 85766,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Z_ij9eI3Q3c/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Z_ij9eI3Q3c"
             }
           ],
           "rank": 5,
-          "score": 80
-        },
-        {
-          "id": "roblox",
-          "name": "Roblox",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 4,
-            "liveArchiveCount": 0,
-            "channelCount": 4,
-            "totalViews": 397266,
-            "totalLikes": 9820,
-            "viewVelocity": 21684
-          },
-          "creators": [
-            "てるとくん",
-            "ぜるふぃく / ZELLFIC",
-            "ネオンch",
-            "てきと"
-          ],
-          "summary": "7日間で関連動画4本を確認。4チャンネルの公開データをもとに集計しています。",
-          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
-          "sources": [
-            {
-              "videoId": "mLp7cZn7JFE",
-              "title": "大量のSCPを合体させまくるロブロックス...",
-              "channelTitle": "てきと",
-              "publishedAt": "2026-09-22T08:00:21.000Z",
-              "views": 72978,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/mLp7cZn7JFE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mLp7cZn7JFE"
-            },
-            {
-              "videoId": "Ng7zjJqk1Vc",
-              "title": "【ロブロックス】海の中で激レアな卵を盗みまくるロブロックス！【Roblox/ブレインロット/ネオンch/ゆっくり実況】",
-              "channelTitle": "ネオンch",
-              "publishedAt": "2026-09-22T04:42:50.000Z",
-              "views": 77427,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/Ng7zjJqk1Vc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=Ng7zjJqk1Vc"
-            },
-            {
-              "videoId": "HmWUa9zBBqE",
-              "title": "新クラスでありえない裏技を使いまくるおかしい動物病院..【ROBLOX】",
-              "channelTitle": "てるとくん",
-              "publishedAt": "2026-09-21T07:34:29.000Z",
-              "views": 149878,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/HmWUa9zBBqE/sddefault.jpg",
-              "url": "https://www.youtube.com/watch?v=HmWUa9zBBqE"
-            },
-            {
-              "videoId": "o6z-aHkCeBE",
-              "title": "色んな形を描いて卵を潰すゲームで天才になった！",
-              "channelTitle": "ぜるふぃく / ZELLFIC",
-              "publishedAt": "2026-09-21T06:09:09.000Z",
-              "views": 96983,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/o6z-aHkCeBE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=o6z-aHkCeBE"
-            }
-          ],
-          "rank": 6,
-          "score": 69
+          "score": 84
         },
         {
           "id": "dragon-quest",
           "name": "ドラゴンクエスト",
           "fallbackTopic": false,
           "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 1,
-            "channelCount": 2,
-            "totalViews": 401855,
-            "totalLikes": 4195,
-            "viewVelocity": 40918
+            "videoCount": 3,
+            "liveArchiveCount": 2,
+            "channelCount": 3,
+            "totalViews": 1006145,
+            "totalLikes": 14448,
+            "viewVelocity": 59949
           },
           "creators": [
+            "Korone Ch. 戌神ころね",
             "Patra Channel / 周防パトラ",
             "ドラゴンクエストスマッシュグロウ公式"
           ],
-          "summary": "7日間で関連動画2本を確認、うち1本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "summary": "7日間で関連動画3本を確認、うち2本が終了済みライブ。3チャンネルの公開データをもとに集計しています。",
           "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
           "sources": [
             {
+              "videoId": "LyQJRzm0J9Q",
+              "title": "【トルネコの大冒険】９９階チャレンジ！！！！【１回目】※ネタバレ注意",
+              "channelTitle": "Korone Ch. 戌神ころね",
+              "publishedAt": "2026-09-22T14:56:13.000Z",
+              "views": 602971,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/LyQJRzm0J9Q/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=LyQJRzm0J9Q"
+            },
+            {
               "videoId": "mFpgJSZFJMo",
-              "title": "【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
+              "title": "#3【ドラクエⅣ】第５章から！ドラゴンクエストIV 導かれし者たちを初見プレイ！【周防パトラ】",
               "channelTitle": "Patra Channel / 周防パトラ",
               "publishedAt": "2026-09-22T10:13:57.000Z",
-              "views": 249802,
+              "views": 248533,
               "isLiveArchive": true,
               "thumbnail": "https://i.ytimg.com/vi/mFpgJSZFJMo/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=mFpgJSZFJMo"
@@ -1796,57 +1775,154 @@
               "title": "#011 『ドラゴンクエストスマッシュグロウ』の新情報を「マル」がお届け！「スマグロ マル秘 レポート」",
               "channelTitle": "ドラゴンクエストスマッシュグロウ公式",
               "publishedAt": "2026-09-21T03:00:35.000Z",
-              "views": 152053,
+              "views": 154641,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/0wPs4qqOp7g/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=0wPs4qqOp7g"
             }
           ],
-          "rank": 7,
-          "score": 59
+          "rank": 6,
+          "score": 71
         },
         {
-          "id": "super-smash-bros-ultimate",
-          "name": "大乱闘スマッシュブラザーズ SPECIAL",
+          "id": "roblox",
+          "name": "Roblox",
           "fallbackTopic": false,
+          "metrics": {
+            "videoCount": 3,
+            "liveArchiveCount": 0,
+            "channelCount": 3,
+            "totalViews": 309695,
+            "totalLikes": 8070,
+            "viewVelocity": 11357
+          },
+          "creators": [
+            "ぜるふぃく / ZELLFIC",
+            "てきと",
+            "ネオンch"
+          ],
+          "summary": "7日間で関連動画3本を確認。3チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "mLp7cZn7JFE",
+              "title": "大量のSCPを合体させまくるロブロックス...",
+              "channelTitle": "てきと",
+              "publishedAt": "2026-09-22T08:00:21.000Z",
+              "views": 105728,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/mLp7cZn7JFE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=mLp7cZn7JFE"
+            },
+            {
+              "videoId": "Ng7zjJqk1Vc",
+              "title": "【ロブロックス】海の中で激レアな卵を盗みまくるロブロックス！【Roblox/ブレインロット/ネオンch/ゆっくり実況】",
+              "channelTitle": "ネオンch",
+              "publishedAt": "2026-09-22T04:42:50.000Z",
+              "views": 94819,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/Ng7zjJqk1Vc/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=Ng7zjJqk1Vc"
+            },
+            {
+              "videoId": "o6z-aHkCeBE",
+              "title": "色んな形を描いて卵を潰すゲームで天才になった！",
+              "channelTitle": "ぜるふぃく / ZELLFIC",
+              "publishedAt": "2026-09-21T06:09:09.000Z",
+              "views": 109148,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/o6z-aHkCeBE/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=o6z-aHkCeBE"
+            }
+          ],
+          "rank": 7,
+          "score": 66
+        },
+        {
+          "id": "hashtag-生スバル",
+          "name": "#生スバル",
+          "fallbackTopic": true,
+          "metrics": {
+            "videoCount": 2,
+            "liveArchiveCount": 1,
+            "channelCount": 2,
+            "totalViews": 612988,
+            "totalLikes": 11164,
+            "viewVelocity": 46637
+          },
+          "creators": [
+            "Subaru Ch. 大空スバル",
+            "ホロライブ速報【切り抜きch】"
+          ],
+          "summary": "7日間で関連動画2本を確認、うち1本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
+          "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
+          "sources": [
+            {
+              "videoId": "EHcGLCvLxRk",
+              "title": "【#生スバル】スバルに似てるマ？！？噂の餓狼伝説やるしゅばあああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+              "channelTitle": "Subaru Ch. 大空スバル",
+              "publishedAt": "2026-09-22T14:08:37.000Z",
+              "views": 464608,
+              "isLiveArchive": true,
+              "thumbnail": "https://i.ytimg.com/vi/EHcGLCvLxRk/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=EHcGLCvLxRk"
+            },
+            {
+              "videoId": "4vE7J-3HPp4",
+              "title": "餓狼伝説に何故かいるクリロナやエロい女たちに目移りしながらも、テリー・ボガードのストーリーに感動する大空スバル ※ネタバレあり【餓狼CotW/ホロライブ切り抜き】",
+              "channelTitle": "ホロライブ速報【切り抜きch】",
+              "publishedAt": "2026-09-22T18:53:23.000Z",
+              "views": 148380,
+              "isLiveArchive": false,
+              "thumbnail": "https://i.ytimg.com/vi/4vE7J-3HPp4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=4vE7J-3HPp4"
+            }
+          ],
+          "rank": 8,
+          "score": 63
+        },
+        {
+          "id": "hashtag-ホロ甲2026",
+          "name": "#ホロ甲2026",
+          "fallbackTopic": true,
           "metrics": {
             "videoCount": 2,
             "liveArchiveCount": 2,
             "channelCount": 2,
-            "totalViews": 647171,
-            "totalLikes": 2265,
-            "viewVelocity": 20182
+            "totalViews": 465288,
+            "totalLikes": 10788,
+            "viewVelocity": 25472
           },
           "creators": [
-            "East Geek Smash",
-            "無明遊者【イベント配信団体】"
+            "Koyori ch. 博衣こより - holoX -",
+            "Riona Ch. 響咲リオナ - FLOW GLOW"
           ],
           "summary": "7日間で関連動画2本を確認、うち2本が終了済みライブ。2チャンネルの公開データをもとに集計しています。",
           "reason": "公開後の再生速度が高く、短時間で視聴が集まっています。",
           "sources": [
             {
-              "videoId": "16s65BRKC5M",
-              "title": "スマブラSP ウメブラSP13 Day2 ft.ドラ右,Miya,カルメロ,Yaura,Shuton,Asimo,はるぽよ,KEN,にょのknb,からあげ,たまPだいふく ...and more!",
-              "channelTitle": "East Geek Smash",
-              "publishedAt": "2026-09-21T09:36:38.000Z",
-              "views": 475969,
+              "videoId": "RrpVc4o4Hw4",
+              "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目秋大会！全国制覇目指して！！！🏆✨【博衣こより/ホロライブ】",
+              "channelTitle": "Koyori ch. 博衣こより - holoX -",
+              "publishedAt": "2026-09-22T08:35:07.000Z",
+              "views": 288252,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/16s65BRKC5M/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=16s65BRKC5M"
+              "thumbnail": "https://i.ytimg.com/vi/RrpVc4o4Hw4/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=RrpVc4o4Hw4"
             },
             {
-              "videoId": "PQIty2k-OZQ",
-              "title": "【スマブラSP】ウメブラSP13 DAY2　無明遊者配信",
-              "channelTitle": "無明遊者【イベント配信団体】",
-              "publishedAt": "2026-09-21T06:53:05.000Z",
-              "views": 171202,
+              "videoId": "hZfAOQA60jo",
+              "title": "【 ＃ホロ甲2026 】壁咲高校、２年目夏！どこまで勝ち進める！？🔥【ホロライブ FLOW GLOW 響咲リオナ】",
+              "channelTitle": "Riona Ch. 響咲リオナ - FLOW GLOW",
+              "publishedAt": "2026-09-22T13:01:47.000Z",
+              "views": 177036,
               "isLiveArchive": true,
-              "thumbnail": "https://i.ytimg.com/vi/PQIty2k-OZQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=PQIty2k-OZQ"
+              "thumbnail": "https://i.ytimg.com/vi/hZfAOQA60jo/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=hZfAOQA60jo"
             }
           ],
-          "rank": 8,
-          "score": 59
+          "rank": 9,
+          "score": 63
         },
         {
           "id": "valorant",
@@ -1856,9 +1932,9 @@
             "videoCount": 2,
             "liveArchiveCount": 0,
             "channelCount": 2,
-            "totalViews": 699412,
-            "totalLikes": 12416,
-            "viewVelocity": 18242
+            "totalViews": 654185,
+            "totalLikes": 11828,
+            "viewVelocity": 21566
           },
           "creators": [
             "GON",
@@ -1872,67 +1948,24 @@
               "title": "このボスの仕様に初見で気付ける小学生はいない",
               "channelTitle": "GON",
               "publishedAt": "2026-09-21T03:00:34.000Z",
-              "views": 555921,
+              "views": 597965,
               "isLiveArchive": false,
               "thumbnail": "https://i.ytimg.com/vi/-dXvGLNbUdM/maxresdefault.jpg",
               "url": "https://www.youtube.com/watch?v=-dXvGLNbUdM"
             },
             {
-              "videoId": "RNzoAJPWydE",
-              "title": "【複数視点】内容が濃すぎた最終日のラスト２時間ｗｗｗ（SURGE Town）【叶/にじさんじ切り抜き】",
+              "videoId": "AyO-CdJFbzQ",
+              "title": "【まとめ】ひのらんと見る、個人医＆爆笑クリップ鑑賞ｗｗｗ（SURGE Town）【日ノ隈らん切り抜き】",
               "channelTitle": "白瀬",
-              "publishedAt": "2026-09-21T01:14:01.000Z",
-              "views": 143491,
+              "publishedAt": "2026-09-22T22:55:41.000Z",
+              "views": 56220,
               "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/RNzoAJPWydE/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=RNzoAJPWydE"
-            }
-          ],
-          "rank": 9,
-          "score": 57
-        },
-        {
-          "id": "professional-baseball-spirits",
-          "name": "プロ野球スピリッツ",
-          "fallbackTopic": false,
-          "metrics": {
-            "videoCount": 2,
-            "liveArchiveCount": 0,
-            "channelCount": 2,
-            "totalViews": 292669,
-            "totalLikes": 3013,
-            "viewVelocity": 9562
-          },
-          "creators": [
-            "【V.I.P】",
-            "アカgames"
-          ],
-          "summary": "7日間で関連動画2本を確認。2チャンネルの公開データをもとに集計しています。",
-          "reason": "最近の動画数と異なるチャンネルからの反応が同時に増えています。",
-          "sources": [
-            {
-              "videoId": "mvTZOwvXhbQ",
-              "title": "威圧感ハンパないww遂に白黒オーダーの完成形が！？ダルセレ榎本選手も初使用するぞ！！【プロスピA】# 1965",
-              "channelTitle": "【V.I.P】",
-              "publishedAt": "2026-09-21T10:30:12.000Z",
-              "views": 160059,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/mvTZOwvXhbQ/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=mvTZOwvXhbQ"
-            },
-            {
-              "videoId": "QbJNYJNc3Hc",
-              "title": "高速弾を取得し怪物級のバッターに！目指すは50本塁打！ミート1縛りでプロに挑戦する物語#9【プロスピ2026】【アカgames】",
-              "channelTitle": "アカgames",
-              "publishedAt": "2026-09-21T10:15:15.000Z",
-              "views": 132610,
-              "isLiveArchive": false,
-              "thumbnail": "https://i.ytimg.com/vi/QbJNYJNc3Hc/maxresdefault.jpg",
-              "url": "https://www.youtube.com/watch?v=QbJNYJNc3Hc"
+              "thumbnail": "https://i.ytimg.com/vi/AyO-CdJFbzQ/maxresdefault.jpg",
+              "url": "https://www.youtube.com/watch?v=AyO-CdJFbzQ"
             }
           ],
           "rank": 10,
-          "score": 56
+          "score": 61
         }
       ]
     }
